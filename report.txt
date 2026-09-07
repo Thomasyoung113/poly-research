@@ -1,0 +1,22 @@
+Pattern report @ 2026-09-07 09:53 UTC
+==================================================================
+
+== Top Polymarket markets (24h volume) ==
+  Will the Fed decrease interest rates by 25 bps after the S [0.00, 1.00] vol24h=$526,216
+  LoL: Anyone's Legend vs Bilibili Gaming - Game 1 Winner    [0.00, 1.00] vol24h=$420,852
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [0.00, 1.00] vol24h=$397,886
+  Will the Fed decrease interest rates by 50+ bps after the  [0.00, 1.00] vol24h=$387,441
+  LoL: Anyone's Legend vs Bilibili Gaming (BO5) - LPL Playof [0.10, 0.90] vol24h=$377,955
+  Will China invade Taiwan by end of 2026?                   [0.04, 0.96] vol24h=$300,607
+  Will there be no change in Fed interest rates after the Se [0.52, 0.48] vol24h=$294,394
+  Will the Fed increase interest rates by 50+ bps after the  [0.01, 0.99] vol24h=$234,396
+  US Open WTA: Iga Swiatek vs Qinwen Zheng                   [0.80, 0.20] vol24h=$225,265
+  Will the Fed increase interest rates by 25 bps after the S [0.48, 0.52] vol24h=$218,520
+
+== Polymarket top-market price vs spot BTC (last 24h, hourly) ==
+
+== News tone (GDELT hourly) vs coin returns ==
+  bitcoin vs 'bitcoin' tone (n=156): same-hour r=-0.075  next-hour r=-0.025  next-3h r=+0.036
+  ethereum: sample still small - keep collecting
+
+BTC dominance: 59.1%

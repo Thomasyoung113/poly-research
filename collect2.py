@@ -4,6 +4,7 @@ plus a fuzzy Kalshi<->Polymarket macro matcher that logs price gaps."""
 import json
 import os
 import re
+import urllib.parse
 import sqlite3
 import sys
 import time
@@ -72,13 +73,17 @@ def init_db(db):
 def collect_kalshi(db):
     ts = int(time.time())
     rows = []
-    cursor = 100
-    while cursor < 1000:
+    cur = None
+    pages = 0
+    while pages < 10:  # 10 pages x 200 = up to 2000 open markets
         try:
-            d = jget("https://api.elections.kalshi.com/trade-api/v2/markets"
-                     f"?status=open&limit=200&cursor={cursor}")
+            url = ("https://api.elections.kalshi.com/trade-api/v2/markets"
+                   "?status=open&limit=200")
+            if cur:
+                url += "&cursor=" + urllib.parse.quote(cur)
+            d = jget(url)
         except Exception as e:
-            print(f"[kalshi] page {cursor} failed: {e}")
+            print(f"[kalshi] page {pages} failed: {e}")
             break
         ms = d.get("markets", [])
         rows += [
@@ -87,14 +92,15 @@ def collect_kalshi(db):
              m.get("last_price") or 0, m.get("volume") or 0,
              m.get("volume_24h") or 0, m.get("close_time", ""))
             for m in ms]
-        cur = d.get("cursor")
-        if not ms or cur in (None, "", cursor):
+        pages += 1
+        nxt = d.get("cursor")
+        if not ms or not nxt or nxt == cur:
             break
-        cursor += 100
+        cur = nxt
     db.executemany(
         "INSERT OR IGNORE INTO kalshi_markets VALUES(?,?,?,?,?,?,?,?,?)",
         rows)
-    print(f"[kalshi] {len(rows)} open markets snapshotted")
+    print(f"[kalshi] {len(rows)} open markets snapshotted ({pages} pages)")
 
 
 def binance_get(path):
