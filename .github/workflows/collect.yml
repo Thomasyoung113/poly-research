@@ -1,0 +1,31 @@
+name: collect
+on:
+  schedule:
+    - cron: "23 * * * *"   # hourly, off the :00 herd
+  workflow_dispatch: {}     # manual trigger
+permissions:
+  contents: write
+concurrency:
+  group: collect
+  cancel-in-progress: true
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: collect + analyze
+        run: |
+          python collect.py
+          python collect2.py | tee signals.txt
+          python patterns.py | tee report.txt || true
+      - name: commit data
+        run: |
+          git config user.name "poly-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.db signals.txt report.txt
+          git diff --cached --quiet || \
+            git commit -m "data: $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git push
