@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-07 20:02 UTC
+Pattern report @ 2026-09-07 22:54 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  US Open ATP: Francisco Cerundolo vs Alexander Blockx       [Francisco Cerundolo=0.69, Alexander Blockx=0.30] vol24h=$2,259,128
-  Will SS Lazio win on 2026-09-07?                           [Yes=0.11, No=0.89] vol24h=$1,244,626
-  Will Udinese Calcio win on 2026-09-07?                     [Yes=0.62, No=0.38] vol24h=$998,947
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$771,303
-  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.53] vol24h=$691,182
-  US Open ATP: Alexander Zverev vs Luciano Darderi           [Alexander Zverev=0.89, Luciano Darderi=0.12] vol24h=$644,428
-  US Open WTA: Naomi Osaka vs Elena Rybakina                 [Naomi Osaka=0.43, Elena Rybakina=0.56] vol24h=$639,280
-  LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs    [Invictus Gaming=0.64, LGD Gaming=0.36] vol24h=$627,081
-  Arizona Diamondbacks vs. Kansas City Royals                [Arizona Diamondbacks=0.41, Kansas City Royals=0.58] vol24h=$613,398
-  Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3 [Nuclear TigeRES=0.55, CYBERSHOKE Esports=0.46] vol24h=$468,483
+  US Open ATP: Karen Khachanov vs Learner Tien               [Karen Khachanov=0.41, Learner Tien=0.58] vol24h=$1,988,655
+  US Open ATP: Arthur Gea vs Botic van de Zandschulp         [Arthur Gea=0.71, Botic van de Zandschulp=0.28] vol24h=$1,448,999
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,168,673
+  Israel closes its airspace by September 30?                [Yes=0.97, No=0.03] vol24h=$807,705
+  US Open ATP: Alexander Zverev vs Luciano Darderi           [Alexander Zverev=0.89, Luciano Darderi=0.12] vol24h=$687,897
+  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.53] vol24h=$686,921
+  LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs    [Invictus Gaming=0.62, LGD Gaming=0.38] vol24h=$675,740
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.52, No=0.48] vol24h=$443,869
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$414,574
+  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.21, Carlos Alcaraz=0.79] vol24h=$332,898
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
