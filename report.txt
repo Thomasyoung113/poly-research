@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-07 15:56 UTC
+Pattern report @ 2026-09-07 20:02 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$729,653
-  LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs    [Invictus Gaming=0.64, LGD Gaming=0.36] vol24h=$568,485
-  US Open WTA: Mirra Andreeva vs Anastasia Potapova          [Mirra Andreeva=0.71, Anastasia Potapova=0.28] vol24h=$548,478
-  Will there be no change in Fed interest rates after the Se [Yes=0.49, No=0.51] vol24h=$516,135
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.51, No=0.49] vol24h=$434,525
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$402,905
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$399,041
-  Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3 [Nuclear TigeRES=0.53, CYBERSHOKE Esports=0.47] vol24h=$338,776
-  Cleveland Guardians vs. Baltimore Orioles: O/U 7.5         [Over=0.47, Under=0.54] vol24h=$337,717
-  US Open WTA: Iga Swiatek vs Qinwen Zheng                   [Iga Swiatek=0.90, Qinwen Zheng=0.10] vol24h=$314,814
+  US Open ATP: Francisco Cerundolo vs Alexander Blockx       [Francisco Cerundolo=0.69, Alexander Blockx=0.30] vol24h=$2,259,128
+  Will SS Lazio win on 2026-09-07?                           [Yes=0.11, No=0.89] vol24h=$1,244,626
+  Will Udinese Calcio win on 2026-09-07?                     [Yes=0.62, No=0.38] vol24h=$998,947
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$771,303
+  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.53] vol24h=$691,182
+  US Open ATP: Alexander Zverev vs Luciano Darderi           [Alexander Zverev=0.89, Luciano Darderi=0.12] vol24h=$644,428
+  US Open WTA: Naomi Osaka vs Elena Rybakina                 [Naomi Osaka=0.43, Elena Rybakina=0.56] vol24h=$639,280
+  LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs    [Invictus Gaming=0.64, LGD Gaming=0.36] vol24h=$627,081
+  Arizona Diamondbacks vs. Kansas City Royals                [Arizona Diamondbacks=0.41, Kansas City Royals=0.58] vol24h=$613,398
+  Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3 [Nuclear TigeRES=0.55, CYBERSHOKE Esports=0.46] vol24h=$468,483
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
