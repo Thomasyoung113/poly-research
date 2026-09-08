@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-07 22:54 UTC
+Pattern report @ 2026-09-08 01:15 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  US Open ATP: Karen Khachanov vs Learner Tien               [Karen Khachanov=0.41, Learner Tien=0.58] vol24h=$1,988,655
-  US Open ATP: Arthur Gea vs Botic van de Zandschulp         [Arthur Gea=0.71, Botic van de Zandschulp=0.28] vol24h=$1,448,999
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,168,673
-  Israel closes its airspace by September 30?                [Yes=0.97, No=0.03] vol24h=$807,705
-  US Open ATP: Alexander Zverev vs Luciano Darderi           [Alexander Zverev=0.89, Luciano Darderi=0.12] vol24h=$687,897
-  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.53] vol24h=$686,921
-  LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs    [Invictus Gaming=0.62, LGD Gaming=0.38] vol24h=$675,740
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.52, No=0.48] vol24h=$443,869
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$414,574
-  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.21, Carlos Alcaraz=0.79] vol24h=$332,898
+  US Open ATP: Karen Khachanov vs Learner Tien               [Karen Khachanov=0.51, Learner Tien=0.49] vol24h=$2,777,431
+  US Open ATP: Arthur Gea vs Botic van de Zandschulp         [Arthur Gea=0.52, Botic van de Zandschulp=0.48] vol24h=$2,019,234
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,238,065
+  Israel closes its airspace by September 30?                [Yes=0.96, No=0.04] vol24h=$833,295
+  US Open ATP: Alexander Zverev vs Luciano Darderi           [Alexander Zverev=0.89, Luciano Darderi=0.12] vol24h=$722,924
+  LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs    [Invictus Gaming=0.62, LGD Gaming=0.38] vol24h=$687,485
+  US Open WTA: Iva Jovic vs Coco Gauff                       [Iva Jovic=0.00, Coco Gauff=1.00] vol24h=$667,713
+  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.53] vol24h=$663,904
+  Cincinnati Reds vs. Los Angeles Dodgers                    [Cincinnati Reds=0.39, Los Angeles Dodgers=0.61] vol24h=$510,846
+  SMU vs. Florida State                                      [SMU=0.58, Florida State=0.41] vol24h=$467,995
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
