@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-08 19:58 UTC
+Pattern report @ 2026-09-08 22:45 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will BV Borussia 09 Dortmund win on 2026-09-08?            [Yes=0.43, No=0.56] vol24h=$3,163,092
-  US Open ATP: Frances Tiafoe vs Alex Michelsen              [Frances Tiafoe=0.19, Alex Michelsen=0.81] vol24h=$2,859,937
-  Genoa: Thiago Seyboth Wild vs Francesco Ferrari            [Thiago Seyboth Wild=0.56, Francesco Ferrari=0.44] vol24h=$1,621,130
-  Will Real Madrid CF win on 2026-09-08?                     [Yes=0.90, No=0.10] vol24h=$1,191,970
-  Will Lille OSC win on 2026-09-08?                          [Yes=0.66, No=0.34] vol24h=$1,077,358
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$818,933
-  Israel closes its airspace by September 30?                [Yes=0.96, No=0.04] vol24h=$805,675
-  Will Real Betis Balompié win on 2026-09-08?                [Yes=0.12, No=0.89] vol24h=$753,195
-  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.23, Carlos Alcaraz=0.78] vol24h=$675,690
-  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,641
+  US Open ATP: Frances Tiafoe vs Alex Michelsen              [Frances Tiafoe=0.52, Alex Michelsen=0.48] vol24h=$5,708,612
+  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.23, Carlos Alcaraz=0.78] vol24h=$846,143
+  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$641,345
+  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,659
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$492,019
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$417,259
+  Arizona Diamondbacks vs. Kansas City Royals                [Arizona Diamondbacks=0.49, Kansas City Royals=0.51] vol24h=$366,728
+  Will RB Leipzig win the 2026-27 UEFA Champions League Cham [Yes=0.01, No=0.99] vol24h=$313,025
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.14, No=0.85] vol24h=$290,308
+  Will Villarreal win the 2026-27 UEFA Champions League Cham [Yes=0.01, No=0.99] vol24h=$283,614
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
