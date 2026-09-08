@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-08 16:44 UTC
+Pattern report @ 2026-09-08 19:58 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Club Brugge KV win on 2026-09-08?                     [Yes=0.39, No=0.61] vol24h=$3,118,645
-  Genoa: Thiago Seyboth Wild vs Francesco Ferrari            [Thiago Seyboth Wild=0.54, Francesco Ferrari=0.46] vol24h=$1,590,317
-  US Open WTA: Aryna Sabalenka vs Linda Noskova              [Aryna Sabalenka=0.86, Linda Noskova=0.14] vol24h=$1,206,554
-  Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND  [G2=0.67, Astralis=0.34] vol24h=$1,110,010
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$860,202
-  Israel closes its airspace by September 30?                [Yes=0.96, No=0.04] vol24h=$793,981
-  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.23, Carlos Alcaraz=0.78] vol24h=$759,167
-  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,622
-  Counter-Strike: G2 vs Astralis - Map 2 Winner              [G2=1.00, Astralis=0.00] vol24h=$508,295
-  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$488,856
+  Will BV Borussia 09 Dortmund win on 2026-09-08?            [Yes=0.43, No=0.56] vol24h=$3,163,092
+  US Open ATP: Frances Tiafoe vs Alex Michelsen              [Frances Tiafoe=0.19, Alex Michelsen=0.81] vol24h=$2,859,937
+  Genoa: Thiago Seyboth Wild vs Francesco Ferrari            [Thiago Seyboth Wild=0.56, Francesco Ferrari=0.44] vol24h=$1,621,130
+  Will Real Madrid CF win on 2026-09-08?                     [Yes=0.90, No=0.10] vol24h=$1,191,970
+  Will Lille OSC win on 2026-09-08?                          [Yes=0.66, No=0.34] vol24h=$1,077,358
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$818,933
+  Israel closes its airspace by September 30?                [Yes=0.96, No=0.04] vol24h=$805,675
+  Will Real Betis Balompié win on 2026-09-08?                [Yes=0.12, No=0.89] vol24h=$753,195
+  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.23, Carlos Alcaraz=0.78] vol24h=$675,690
+  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,641
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=157): same-hour r=-0.071  next-hour r=-0.026  next-3h r=+0.039
+  bitcoin vs 'bitcoin' tone (n=184): same-hour r=-0.033  next-hour r=+0.007  next-3h r=+0.038
   ethereum vs 'ethereum' tone (n=156): same-hour r=+0.015  next-hour r=+0.032  next-3h r=-0.106
 
 BTC dominance: 59.1%
