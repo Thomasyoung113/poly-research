@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-08 06:03 UTC
+Pattern report @ 2026-09-08 11:29 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,242,215
-  Israel closes its airspace by September 30?                [Yes=0.96, No=0.04] vol24h=$818,799
-  LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs    [Invictus Gaming=0.62, LGD Gaming=0.38] vol24h=$768,629
-  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.53] vol24h=$646,494
-  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,484
-  Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUN [Alliance=0.26, FaZe=0.74] vol24h=$486,478
-  Counter-Strike: Legacy vs magic (BO3) - FISSURE PLAYGROUND [Legacy=0.66, magic=0.34] vol24h=$458,331
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.52, No=0.48] vol24h=$441,077
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$420,528
-  Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGRO [MIBR=0.52, TheMongolz=0.48] vol24h=$398,327
+  LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs    [Invictus Gaming=1.00, LGD Gaming=0.00] vol24h=$2,033,338
+  LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner         [Invictus Gaming=1.00, LGD Gaming=0.00] vol24h=$1,364,013
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.01, No=0.99] vol24h=$1,191,422
+  Genoa: Thiago Seyboth Wild vs Francesco Ferrari            [Thiago Seyboth Wild=0.51, Francesco Ferrari=0.49] vol24h=$1,174,250
+  LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner         [Invictus Gaming=1.00, LGD Gaming=0.00] vol24h=$858,421
+  Israel closes its airspace by September 30?                [Yes=0.96, No=0.04] vol24h=$844,539
+  LoL: Invictus Gaming vs LGD Gaming - Game 3 Winner         [Invictus Gaming=0.99, LGD Gaming=0.01] vol24h=$803,659
+  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.53] vol24h=$637,052
+  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,667
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$421,862
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
