@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-09 01:18 UTC
+Pattern report @ 2026-09-09 06:06 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.23, Carlos Alcaraz=0.77] vol24h=$2,412,610
-  Colorado Rockies vs. New York Yankees                      [Colorado Rockies=0.12, New York Yankees=0.89] vol24h=$1,607,909
-  US Open WTA: Jessica Pegula vs Emma Navarro                [Jessica Pegula=0.53, Emma Navarro=0.47] vol24h=$719,170
-  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$626,325
-  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,718
-  Arizona Diamondbacks vs. Kansas City Royals                [Arizona Diamondbacks=0.45, Kansas City Royals=0.56] vol24h=$504,838
-  Minnesota Twins vs. Detroit Tigers                         [Minnesota Twins=0.94, Detroit Tigers=0.06] vol24h=$433,339
-  New York Mets vs. Miami Marlins                            [New York Mets=0.99, Miami Marlins=0.01] vol24h=$428,957
-  Los Angeles Angels vs. Boston Red Sox                      [Los Angeles Angels=0.91, Boston Red Sox=0.10] vol24h=$423,006
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$417,367
+  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.39, Carlos Alcaraz=0.61] vol24h=$4,601,368
+  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.54] vol24h=$624,677
+  Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND G [magic=0.77, FaZe=0.23] vol24h=$610,402
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$416,759
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$413,943
+  Will Feyenoord Rotterdam win on 2026-09-09?                [Yes=0.03, No=0.97] vol24h=$348,541
+  Will Sporting CP win on 2026-09-09?                        [Yes=0.56, No=0.43] vol24h=$319,519
+  Will RB Leipzig win the 2026-27 UEFA Champions League Cham [Yes=0.00, No=1.00] vol24h=$313,025
+  Counter-Strike: 9z vs MIBR (BO3) - FISSURE PLAYGROUND Grou [9z=0.55, MIBR=0.46] vol24h=$310,851
+  Strait of Hormuz traffic returns to normal by December 31? [Yes=0.18, No=0.81] vol24h=$302,561
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=184): same-hour r=-0.033  next-hour r=+0.007  next-3h r=+0.038
-  ethereum vs 'ethereum' tone (n=156): same-hour r=+0.015  next-hour r=+0.032  next-3h r=-0.106
+  ethereum vs 'ethereum' tone (n=175): same-hour r=+0.011  next-hour r=+0.028  next-3h r=-0.099
 
 BTC dominance: 59.1%
