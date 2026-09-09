@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-09 19:52 UTC
+Pattern report @ 2026-09-09 22:38 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Sporting CP win on 2026-09-09?                        [Yes=0.45, No=0.56] vol24h=$5,893,894
-  Will Arsenal FC win on 2026-09-09?                         [Yes=0.53, No=0.47] vol24h=$2,678,089
-  US Open WTA: Mirra Andreeva vs Coco Gauff                  [Mirra Andreeva=0.79, Coco Gauff=0.21] vol24h=$2,665,752
-  Will SSC Napoli win on 2026-09-09?                         [Yes=0.14, No=0.86] vol24h=$1,737,319
-  Will ŠK Slovan Bratislava win on 2026-09-09?               [Yes=0.00, No=1.00] vol24h=$1,140,830
-  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.53] vol24h=$1,122,380
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,059,512
-  US Open ATP: Karen Khachanov vs Alexander Blockx           [Karen Khachanov=0.62, Alexander Blockx=0.38] vol24h=$957,175
-  Will Paris Saint-Germain FC win on 2026-09-09?             [Yes=1.00, No=0.00] vol24h=$945,991
-  LAPTOP FDV above $1B one day after launch?                 [Yes=0.27, No=0.73] vol24h=$913,598
+  US Open ATP: Karen Khachanov vs Alexander Blockx           [Karen Khachanov=0.96, Alexander Blockx=0.04] vol24h=$3,566,387
+  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$1,289,128
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,066,295
+  LAPTOP FDV above $1B one day after launch?                 [Yes=0.56, No=0.44] vol24h=$977,742
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.54, No=0.47] vol24h=$810,562
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$666,545
+  Will Chelsea FC win on 2026-09-09?                         [Yes=1.00, No=0.00] vol24h=$592,223
+  LAPTOP FDV above $500M one day after launch?               [Yes=0.81, No=0.20] vol24h=$529,206
+  Washington Nationals vs. San Diego Padres                  [Washington Nationals=0.01, San Diego Padres=0.99] vol24h=$516,623
+  US x Iran Effective Ceasefire by September 4?              [Yes=0.45, No=0.55] vol24h=$507,168
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
