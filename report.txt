@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-08 22:45 UTC
+Pattern report @ 2026-09-09 01:18 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  US Open ATP: Frances Tiafoe vs Alex Michelsen              [Frances Tiafoe=0.52, Alex Michelsen=0.48] vol24h=$5,708,612
-  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.23, Carlos Alcaraz=0.78] vol24h=$846,143
-  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$641,345
-  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,659
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$492,019
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$417,259
-  Arizona Diamondbacks vs. Kansas City Royals                [Arizona Diamondbacks=0.49, Kansas City Royals=0.51] vol24h=$366,728
-  Will RB Leipzig win the 2026-27 UEFA Champions League Cham [Yes=0.01, No=0.99] vol24h=$313,025
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.14, No=0.85] vol24h=$290,308
-  Will Villarreal win the 2026-27 UEFA Champions League Cham [Yes=0.01, No=0.99] vol24h=$283,614
+  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.23, Carlos Alcaraz=0.77] vol24h=$2,412,610
+  Colorado Rockies vs. New York Yankees                      [Colorado Rockies=0.12, New York Yankees=0.89] vol24h=$1,607,909
+  US Open WTA: Jessica Pegula vs Emma Navarro                [Jessica Pegula=0.53, Emma Navarro=0.47] vol24h=$719,170
+  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$626,325
+  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$580,718
+  Arizona Diamondbacks vs. Kansas City Royals                [Arizona Diamondbacks=0.45, Kansas City Royals=0.56] vol24h=$504,838
+  Minnesota Twins vs. Detroit Tigers                         [Minnesota Twins=0.94, Detroit Tigers=0.06] vol24h=$433,339
+  New York Mets vs. Miami Marlins                            [New York Mets=0.99, Miami Marlins=0.01] vol24h=$428,957
+  Los Angeles Angels vs. Boston Red Sox                      [Los Angeles Angels=0.91, Boston Red Sox=0.10] vol24h=$423,006
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$417,367
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
