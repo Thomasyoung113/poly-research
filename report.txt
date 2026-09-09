@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-09 11:35 UTC
+Pattern report @ 2026-09-09 16:46 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group [BIG=0.00, G2=1.00] vol24h=$814,419
-  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.54] vol24h=$700,096
-  Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYG [TYLOO=0.82, GamerLegion=0.17] vol24h=$606,327
-  LoL: DN SOOPers Challengers vs Nongshim Esports Academy -  [DN SOOPers Challengers=1.00, Nongshim Esports Academy=0.00] vol24h=$536,224
-  Will Feyenoord Rotterdam win on 2026-09-09?                [Yes=0.03, No=0.97] vol24h=$446,727
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$415,689
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$403,841
-  LoL: DN SOOPers Challengers vs Nongshim Esports Academy -  [DN SOOPers Challengers=0.00, Nongshim Esports Academy=1.00] vol24h=$402,858
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$385,962
-  Will Sporting CP win on 2026-09-09?                        [Yes=0.56, No=0.43] vol24h=$352,997
+  Will VfB Stuttgart win on 2026-09-09?                      [Yes=0.81, No=0.20] vol24h=$2,040,221
+  Will Feyenoord Rotterdam win on 2026-09-09?                [Yes=0.03, No=0.97] vol24h=$1,482,250
+  Will Arsenal FC win on 2026-09-09?                         [Yes=0.62, No=0.38] vol24h=$1,254,102
+  LAPTOP FDV above $1B one day after launch?                 [Yes=0.23, No=0.78] vol24h=$859,688
+  US Open WTA: Qinwen Zheng vs Elena Rybakina                [Qinwen Zheng=0.49, Elena Rybakina=0.51] vol24h=$857,415
+  Will there be no change in Fed interest rates after the Se [Yes=0.45, No=0.56] vol24h=$804,802
+  Will FC Barcelona win on 2026-09-09?                       [Yes=0.92, No=0.09] vol24h=$767,477
+  Will Sporting CP win on 2026-09-09?                        [Yes=0.57, No=0.42] vol24h=$585,118
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.55, No=0.46] vol24h=$549,855
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$473,525
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
