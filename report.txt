@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-09 06:06 UTC
+Pattern report @ 2026-09-09 11:35 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  US Open ATP: Ben Shelton vs Carlos Alcaraz                 [Ben Shelton=0.39, Carlos Alcaraz=0.61] vol24h=$4,601,368
-  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.54] vol24h=$624,677
-  Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND G [magic=0.77, FaZe=0.23] vol24h=$610,402
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$416,759
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$413,943
-  Will Feyenoord Rotterdam win on 2026-09-09?                [Yes=0.03, No=0.97] vol24h=$348,541
-  Will Sporting CP win on 2026-09-09?                        [Yes=0.56, No=0.43] vol24h=$319,519
-  Will RB Leipzig win the 2026-27 UEFA Champions League Cham [Yes=0.00, No=1.00] vol24h=$313,025
-  Counter-Strike: 9z vs MIBR (BO3) - FISSURE PLAYGROUND Grou [9z=0.55, MIBR=0.46] vol24h=$310,851
-  Strait of Hormuz traffic returns to normal by December 31? [Yes=0.18, No=0.81] vol24h=$302,561
+  Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group [BIG=0.00, G2=1.00] vol24h=$814,419
+  Will there be no change in Fed interest rates after the Se [Yes=0.47, No=0.54] vol24h=$700,096
+  Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYG [TYLOO=0.82, GamerLegion=0.17] vol24h=$606,327
+  LoL: DN SOOPers Challengers vs Nongshim Esports Academy -  [DN SOOPers Challengers=1.00, Nongshim Esports Academy=0.00] vol24h=$536,224
+  Will Feyenoord Rotterdam win on 2026-09-09?                [Yes=0.03, No=0.97] vol24h=$446,727
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$415,689
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$403,841
+  LoL: DN SOOPers Challengers vs Nongshim Esports Academy -  [DN SOOPers Challengers=0.00, Nongshim Esports Academy=1.00] vol24h=$402,858
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$385,962
+  Will Sporting CP win on 2026-09-09?                        [Yes=0.56, No=0.43] vol24h=$352,997
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
