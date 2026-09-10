@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-10 01:11 UTC
+Pattern report @ 2026-09-10 06:06 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  US Open ATP: Alexander Zverev vs Botic van de Zandschulp   [Alexander Zverev=0.92, Botic van de Zandschulp=0.09] vol24h=$2,215,999
-  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$1,367,756
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,111,827
-  LAPTOP FDV above $1B one day after launch?                 [Yes=0.23, No=0.77] vol24h=$1,075,551
-  Patriots vs. Seahawks                                      [Patriots=0.73, Seahawks=0.27] vol24h=$1,049,113
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.54, No=0.47] vol24h=$809,201
-  Spread: Seahawks (-3.5)                                    [Seahawks=0.15, Patriots=0.85] vol24h=$752,547
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$713,834
-  LAPTOP FDV above $500M one day after launch?               [Yes=0.46, No=0.54] vol24h=$618,816
-  US x Iran Effective Ceasefire by September 4?              [Yes=0.59, No=0.41] vol24h=$540,481
+  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$1,362,889
+  LAPTOP FDV above $1B one day after launch?                 [Yes=0.12, No=0.88] vol24h=$1,115,968
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,113,582
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$883,203
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.56, No=0.45] vol24h=$860,928
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$707,392
+  LAPTOP FDV above $500M one day after launch?               [Yes=0.65, No=0.35] vol24h=$648,150
+  Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group  [9z=0.45, G2=0.56] vol24h=$613,785
+  US x Iran Effective Ceasefire by September 4?              [Yes=0.62, No=0.38] vol24h=$508,986
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$421,748
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=184): same-hour r=-0.033  next-hour r=+0.007  next-3h r=+0.038
-  ethereum vs 'ethereum' tone (n=175): same-hour r=+0.011  next-hour r=+0.028  next-3h r=-0.099
+  ethereum vs 'ethereum' tone (n=198): same-hour r=+0.056  next-hour r=+0.051  next-3h r=-0.090
 
 BTC dominance: 59.1%
