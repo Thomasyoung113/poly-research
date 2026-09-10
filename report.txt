@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-09 22:38 UTC
+Pattern report @ 2026-09-10 01:11 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  US Open ATP: Karen Khachanov vs Alexander Blockx           [Karen Khachanov=0.96, Alexander Blockx=0.04] vol24h=$3,566,387
-  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$1,289,128
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,066,295
-  LAPTOP FDV above $1B one day after launch?                 [Yes=0.56, No=0.44] vol24h=$977,742
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.54, No=0.47] vol24h=$810,562
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$666,545
-  Will Chelsea FC win on 2026-09-09?                         [Yes=1.00, No=0.00] vol24h=$592,223
-  LAPTOP FDV above $500M one day after launch?               [Yes=0.81, No=0.20] vol24h=$529,206
-  Washington Nationals vs. San Diego Padres                  [Washington Nationals=0.01, San Diego Padres=0.99] vol24h=$516,623
-  US x Iran Effective Ceasefire by September 4?              [Yes=0.45, No=0.55] vol24h=$507,168
+  US Open ATP: Alexander Zverev vs Botic van de Zandschulp   [Alexander Zverev=0.92, Botic van de Zandschulp=0.09] vol24h=$2,215,999
+  Will there be no change in Fed interest rates after the Se [Yes=0.46, No=0.55] vol24h=$1,367,756
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,111,827
+  LAPTOP FDV above $1B one day after launch?                 [Yes=0.23, No=0.77] vol24h=$1,075,551
+  Patriots vs. Seahawks                                      [Patriots=0.73, Seahawks=0.27] vol24h=$1,049,113
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.54, No=0.47] vol24h=$809,201
+  Spread: Seahawks (-3.5)                                    [Seahawks=0.15, Patriots=0.85] vol24h=$752,547
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$713,834
+  LAPTOP FDV above $500M one day after launch?               [Yes=0.46, No=0.54] vol24h=$618,816
+  US x Iran Effective Ceasefire by September 4?              [Yes=0.59, No=0.41] vol24h=$540,481
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
