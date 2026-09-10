@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-10 16:32 UTC
+Pattern report @ 2026-09-10 19:50 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.36, No=0.64] vol24h=$2,035,031
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.64, No=0.36] vol24h=$1,679,492
-  Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest:  [1WIN=1.00, B8=0.00] vol24h=$1,392,631
-  Will AS Roma win on 2026-09-10?                            [Yes=0.51, No=0.49] vol24h=$1,085,087
-  Will FK Bodø/Glimt win on 2026-09-10?                      [Yes=0.03, No=0.97] vol24h=$1,001,011
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$955,858
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$923,545
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$788,982
-  LAPTOP FDV above $1B one day after launch?                 [Yes=0.04, No=0.96] vol24h=$547,398
-  US x Iran Effective Ceasefire by September 4?              [Yes=0.58, No=0.41] vol24h=$474,245
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.67, No=0.34] vol24h=$1,846,152
+  Will there be no change in Fed interest rates after the Se [Yes=0.34, No=0.67] vol24h=$1,766,265
+  Will FK Bodø/Glimt win on 2026-09-10?                      [Yes=0.03, No=0.97] vol24h=$1,507,823
+  Houston Astros vs. Philadelphia Phillies                   [Houston Astros=1.00, Philadelphia Phillies=0.00] vol24h=$835,714
+  Will FC Bayern München win on 2026-09-10?                  [Yes=0.85, No=0.14] vol24h=$778,822
+  Will Manchester United FC win on 2026-09-10?               [Yes=0.99, No=0.01] vol24h=$776,930
+  Will Sabah FK win on 2026-09-10?                           [Yes=0.00, No=1.00] vol24h=$708,565
+  Seville: Pavel Lagutin vs Max Alcala Gurri                 [Pavel Lagutin=0.00, Max Alcala Gurri=1.00] vol24h=$673,598
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$670,029
+  Will Como 1907 win on 2026-09-10?                          [Yes=0.91, No=0.10] vol24h=$635,462
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
