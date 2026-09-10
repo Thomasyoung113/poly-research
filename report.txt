@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-10 19:50 UTC
+Pattern report @ 2026-09-10 22:41 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.67, No=0.34] vol24h=$1,846,152
-  Will there be no change in Fed interest rates after the Se [Yes=0.34, No=0.67] vol24h=$1,766,265
-  Will FK Bodø/Glimt win on 2026-09-10?                      [Yes=0.03, No=0.97] vol24h=$1,507,823
-  Houston Astros vs. Philadelphia Phillies                   [Houston Astros=1.00, Philadelphia Phillies=0.00] vol24h=$835,714
-  Will FC Bayern München win on 2026-09-10?                  [Yes=0.85, No=0.14] vol24h=$778,822
-  Will Manchester United FC win on 2026-09-10?               [Yes=0.99, No=0.01] vol24h=$776,930
-  Will Sabah FK win on 2026-09-10?                           [Yes=0.00, No=1.00] vol24h=$708,565
-  Seville: Pavel Lagutin vs Max Alcala Gurri                 [Pavel Lagutin=0.00, Max Alcala Gurri=1.00] vol24h=$673,598
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$670,029
-  Will Como 1907 win on 2026-09-10?                          [Yes=0.91, No=0.10] vol24h=$635,462
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.65, No=0.35] vol24h=$1,793,252
+  Will Abigail Spanberger win the 2028 Democratic presidenti [Yes=0.00, No=1.00] vol24h=$1,646,409
+  Will there be no change in Fed interest rates after the Se [Yes=0.34, No=0.66] vol24h=$1,621,700
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$973,615
+  Texas Rangers vs. Seattle Mariners                         [Texas Rangers=0.06, Seattle Mariners=0.94] vol24h=$961,146
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$671,371
+  Florida A&M vs. Miami (FL)                                 [Florida A&M=0.00, Miami (FL)=1.00] vol24h=$596,200
+  Will Karim Bouamrane win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$516,079
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$489,147
+  LAPTOP FDV above $1B one day after launch?                 [Yes=0.00, No=1.00] vol24h=$453,028
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=184): same-hour r=-0.033  next-hour r=+0.007  next-3h r=+0.038
+  bitcoin vs 'bitcoin' tone (n=235): same-hour r=-0.055  next-hour r=-0.008  next-3h r=-0.003
   ethereum vs 'ethereum' tone (n=198): same-hour r=+0.056  next-hour r=+0.051  next-3h r=-0.090
 
 BTC dominance: 59.1%
