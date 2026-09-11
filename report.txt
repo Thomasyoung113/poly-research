@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-11 11:33 UTC
+Pattern report @ 2026-09-11 16:37 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.39, No=0.61] vol24h=$1,958,119
-  Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Pla [FURIA=0.01, G2=0.99] vol24h=$1,952,786
-  Will Abigail Spanberger win the 2028 Democratic presidenti [Yes=0.00, No=1.00] vol24h=$1,646,341
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.60, No=0.40] vol24h=$1,574,780
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.01, No=0.99] vol24h=$1,092,328
-  Will Stade Rennais FC 1901 win on 2026-09-11?              [Yes=0.48, No=0.52] vol24h=$638,041
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$625,123
-  Will Tom Cotton win the 2028 Republican presidential nomin [Yes=0.00, No=1.00] vol24h=$496,000
-  LoL: KT Rolster Challengers vs DN SOOPers Challengers - Ga [KT Rolster Challengers=1.00, DN SOOPers Challengers=0.00] vol24h=$495,726
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.20, No=0.80] vol24h=$486,058
+  Will there be no change in Fed interest rates after the Se [Yes=0.17, No=0.82] vol24h=$4,921,510
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.81, No=0.18] vol24h=$4,123,065
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$2,392,385
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,845,342
+  Will Abigail Spanberger win the 2028 Democratic presidenti [Yes=0.00, No=1.00] vol24h=$1,646,381
+  Will Kristi Noem win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$1,260,926
+  Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Buchare [1WIN=0.00, Nemiga=1.00] vol24h=$819,571
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$758,874
+  Will Stade Rennais FC 1901 win on 2026-09-11?              [Yes=0.47, No=0.53] vol24h=$673,766
+  Will Elon Musk post 140-159 tweets from September 4 to Sep [Yes=0.00, No=1.00] vol24h=$671,928
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
