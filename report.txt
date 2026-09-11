@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-11 16:37 UTC
+Pattern report @ 2026-09-11 19:51 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.17, No=0.82] vol24h=$4,921,510
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.81, No=0.18] vol24h=$4,123,065
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$2,392,385
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,845,342
+  Will there be no change in Fed interest rates after the Se [Yes=0.17, No=0.82] vol24h=$5,659,894
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.81, No=0.20] vol24h=$4,403,017
+  Will Sevilla FC win on 2026-09-11?                         [Yes=0.52, No=0.48] vol24h=$3,649,563
+  Will Stade Rennais FC 1901 win on 2026-09-11?              [Yes=0.38, No=0.62] vol24h=$3,024,813
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$2,805,512
+  US Open ATP: Alexander Zverev vs Karen Khachanov           [Alexander Zverev=0.83, Karen Khachanov=0.17] vol24h=$2,756,080
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$2,369,404
   Will Abigail Spanberger win the 2028 Democratic presidenti [Yes=0.00, No=1.00] vol24h=$1,646,381
-  Will Kristi Noem win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$1,260,926
-  Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Buchare [1WIN=0.00, Nemiga=1.00] vol24h=$819,571
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$758,874
-  Will Stade Rennais FC 1901 win on 2026-09-11?              [Yes=0.47, No=0.53] vol24h=$673,766
-  Will Elon Musk post 140-159 tweets from September 4 to Sep [Yes=0.00, No=1.00] vol24h=$671,928
+  Will Kristi Noem win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$1,260,950
+  LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs          [GIANTX=0.00, Natus Vincere=1.00] vol24h=$1,239,377
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=235): same-hour r=-0.055  next-hour r=-0.008  next-3h r=-0.003
+  bitcoin vs 'bitcoin' tone (n=257): same-hour r=-0.051  next-hour r=-0.020  next-3h r=+0.041
   ethereum vs 'ethereum' tone (n=198): same-hour r=+0.056  next-hour r=+0.051  next-3h r=-0.090
 
 BTC dominance: 59.1%
