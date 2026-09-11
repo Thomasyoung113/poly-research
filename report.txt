@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-11 06:08 UTC
+Pattern report @ 2026-09-11 11:33 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.61, No=0.39] vol24h=$1,891,066
-  Will there be no change in Fed interest rates after the Se [Yes=0.39, No=0.61] vol24h=$1,803,072
-  Will Abigail Spanberger win the 2028 Democratic presidenti [Yes=0.00, No=1.00] vol24h=$1,646,409
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$944,555
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$546,862
+  Will there be no change in Fed interest rates after the Se [Yes=0.39, No=0.61] vol24h=$1,958,119
+  Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Pla [FURIA=0.01, G2=0.99] vol24h=$1,952,786
+  Will Abigail Spanberger win the 2028 Democratic presidenti [Yes=0.00, No=1.00] vol24h=$1,646,341
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.60, No=0.40] vol24h=$1,574,780
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.01, No=0.99] vol24h=$1,092,328
+  Will Stade Rennais FC 1901 win on 2026-09-11?              [Yes=0.48, No=0.52] vol24h=$638,041
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$625,123
   Will Tom Cotton win the 2028 Republican presidential nomin [Yes=0.00, No=1.00] vol24h=$496,000
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$432,593
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$380,263
-  Will Karim Bouamrane win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$364,110
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.42, No=0.57] vol24h=$334,375
+  LoL: KT Rolster Challengers vs DN SOOPers Challengers - Ga [KT Rolster Challengers=1.00, DN SOOPers Challengers=0.00] vol24h=$495,726
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.20, No=0.80] vol24h=$486,058
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
