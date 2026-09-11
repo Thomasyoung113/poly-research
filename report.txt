@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-11 01:13 UTC
+Pattern report @ 2026-09-11 06:08 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.64, No=0.36] vol24h=$1,868,652
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.61, No=0.39] vol24h=$1,891,066
+  Will there be no change in Fed interest rates after the Se [Yes=0.39, No=0.61] vol24h=$1,803,072
   Will Abigail Spanberger win the 2028 Democratic presidenti [Yes=0.00, No=1.00] vol24h=$1,646,409
-  Will there be no change in Fed interest rates after the Se [Yes=0.36, No=0.64] vol24h=$1,640,732
-  49ers vs. Rams                                             [49ers=0.33, Rams=0.68] vol24h=$1,311,643
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,119,477
-  Florida A&M vs. Miami (FL)                                 [Florida A&M=0.00, Miami (FL)=1.00] vol24h=$695,070
-  Spread: Rams (-3.5)                                        [Rams=0.50, 49ers=0.50] vol24h=$663,612
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$608,089
-  Will Karim Bouamrane win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$516,405
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$944,555
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$546,862
   Will Tom Cotton win the 2028 Republican presidential nomin [Yes=0.00, No=1.00] vol24h=$496,000
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$432,593
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$380,263
+  Will Karim Bouamrane win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$364,110
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.42, No=0.57] vol24h=$334,375
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
