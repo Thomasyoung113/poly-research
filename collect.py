@@ -79,17 +79,36 @@ def collect_polymarkets(db):
     n = 0
     for m in markets[:5]:
         try:
-            token_ids = json.loads(m["clobTokenIds"])
+            token_ids = json.loads(m.get("clobTokenIds") or "[]")
+            outs = json.loads(m.get("outcomes") or "[]")
             hist = jget("https://clob.polymarket.com/prices-history"
                         f"?market={token_ids[0]}&interval=1d&fidelity=60")
-            pts = [(token_ids[0], "1h", p["t"], p["p"])
+            pts = [(token_ids[0], "1h", p["t"], p["p"],
+                    outs[0] if outs else None)
                    for p in hist.get("history", [])]
             db.executemany(
-                "INSERT OR IGNORE INTO poly_prices VALUES(?,?,?,?)", pts)
+                "INSERT OR IGNORE INTO poly_prices"
+                "(token_id, tf, t, price, outcome) VALUES(?,?,?,?,?)", pts)
             n += len(pts)
             time.sleep(0.4)
         except Exception as e:
             print(f"[poly] history failed for {m.get('slug')}: {e}")
+            # fallback: derive this hour's point from the snapshot itself
+            try:
+                token_ids = json.loads(m.get("clobTokenIds") or "[]")
+                outs = json.loads(m.get("outcomes") or "[]")
+                ops = json.loads(m.get("outcomePrices") or "[]")
+                yes = next((float(p) for l, p in zip(outs, ops)
+                            if str(l).strip().lower() == "yes"), None)
+                if token_ids and yes is not None:
+                    db.execute(
+                        "INSERT OR IGNORE INTO poly_prices"
+                        "(token_id, tf, t, price, outcome) VALUES(?,?,?,?,?)",
+                        (token_ids[0], "1h", ts // 3600 * 3600, yes,
+                         outs[0] if outs else None))
+                    n += 1
+            except Exception:
+                pass
     print(f"[poly] {n} hourly price points (top 5 markets)")
 
 
@@ -125,11 +144,20 @@ def gdelt_epoch(s):
 
 def collect_gdelt(db):
     for q in GDELT_QUERIES:
+        d = None
+        for attempt in range(3):  # GDELT 429s aggressively; back off
+            try:
+                url = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
+                       + urllib.parse.quote(f"{q} sourcelang:english")
+                       + "&mode=timelinetone&format=json&timespan=7d")
+                d = jget(url)
+                break
+            except Exception as e:
+                print(f"[gdelt] {q} attempt {attempt + 1} failed: {e}")
+                time.sleep(25 * (attempt + 1))
+        if not d:
+            continue
         try:
-            url = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
-                   + urllib.parse.quote(f"{q} sourcelang:english")
-                   + "&mode=timelinetone&format=json&timespan=7d")
-            d = jget(url)
             pts = []
             for series in d.get("timeline", []):
                 pts = [(q, "1h", gdelt_epoch(p["date"]), p["value"])
@@ -137,9 +165,9 @@ def collect_gdelt(db):
             db.executemany(
                 "INSERT OR IGNORE INTO news_tone VALUES(?,?,?,?)", pts)
             print(f"[gdelt] {q}: {len(pts)} tone points")
-            time.sleep(1.0)
         except Exception as e:
-            print(f"[gdelt] {q} failed: {e}")
+            print(f"[gdelt] {q} parse failed: {e}")
+        time.sleep(1.0)
 
 
 def main():
