@@ -18,14 +18,14 @@ jobs:
           python-version: "3.12"
       - name: collect + analyze
         run: |
-          python collect.py
+          python collect.py | tee collect.txt
           python collect2.py | tee signals.txt
           python patterns.py | tee report.txt || true
       - name: commit data
         run: |
           git config user.name "poly-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data.db signals.txt report.txt
+          git add data.db signals.txt report.txt collect.txt
           git diff --cached --quiet || \
             git commit -m "data: $(date -u +'%Y-%m-%dT%H:%MZ')"
           git push
