@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-11 20:14 UTC
+Pattern report @ 2026-09-11 22:50 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.17, No=0.82] vol24h=$5,667,976
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.81, No=0.18] vol24h=$4,558,169
-  Will Sevilla FC win on 2026-09-11?                         [Yes=0.49, No=0.51] vol24h=$3,725,794
-  Will Stade Rennais FC 1901 win on 2026-09-11?              [Yes=0.68, No=0.33] vol24h=$3,031,026
-  US Open ATP: Alexander Zverev vs Karen Khachanov           [Alexander Zverev=0.91, Karen Khachanov=0.10] vol24h=$2,808,624
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$2,803,556
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$2,421,516
-  Will Abigail Spanberger win the 2028 Democratic presidenti [Yes=0.00, No=1.00] vol24h=$1,646,381
-  Will ACF Fiorentina win on 2026-09-11?                     [Yes=0.70, No=0.29] vol24h=$1,343,815
+  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.81] vol24h=$6,145,723
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.81, No=0.20] vol24h=$4,955,409
+  US Open ATP: Alexander Zverev vs Karen Khachanov           [Alexander Zverev=1.00, Karen Khachanov=0.00] vol24h=$4,108,240
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,476,310
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$2,672,146
   Will Kristi Noem win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$1,260,950
+  Will Elon Musk post 140-159 tweets from September 4 to Sep [Yes=0.00, No=1.00] vol24h=$688,640
+  Will Stephen A. Smith win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$582,370
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$567,266
+  Will Tom Cotton win the 2028 Republican presidential nomin [Yes=0.00, No=1.00] vol24h=$496,000
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=257): same-hour r=-0.051  next-hour r=-0.020  next-3h r=+0.041
+  bitcoin vs 'bitcoin' tone (n=259): same-hour r=-0.050  next-hour r=-0.020  next-3h r=+0.043
   ethereum vs 'ethereum' tone (n=198): same-hour r=+0.056  next-hour r=+0.051  next-3h r=-0.090
 
 BTC dominance: 59.1%
