@@ -70,37 +70,66 @@ def init_db(db):
         db.execute("ALTER TABLE poly_markets ADD COLUMN outcomes TEXT")
 
 
+def kalshi_quote(m):
+    """Kalshi dollars-markets: yes_bid/yes_ask are cents-strings under
+    *_dollars; legacy integer fields are always 0. Returns (bid_c, ask_c,
+    last_c) as integers or 0."""
+    def cents(x):
+        try:
+            return int(round(float(x) * 100))
+        except (TypeError, ValueError):
+            return 0
+    bid = cents(m.get("yes_bid_dollars") or m.get("yes_bid"))
+    ask = cents(m.get("yes_ask_dollars") or m.get("yes_ask"))
+    last = cents(m.get("last_price_dollars") or m.get("last_price"))
+    if last == 0 and (bid or ask):
+        last = (bid + ask) // 2
+    return bid, ask, last
+
+
 def collect_kalshi(db):
+    """Two passes: (1) targeted macro/crypto series pulls (nested markets
+    carry real quotes), (2) one page of the general open-market scan."""
     ts = int(time.time())
     rows = []
-    cur = None
-    pages = 0
-    while pages < 10:  # 10 pages x 200 = up to 2000 open markets
+    SERIES = [
+        "KXFED", "KXFEDFUNDSYEAR", "KXCPI", "KXGDPYEAR", "KXUNEMPLOY",
+        "KXLFPRATEEOY", "KXBTC", "KXETH", "KXINX", "KXSP500", "KXNAS",
+        "KXTREASCHG", "KXGOVBORROW", "KXDEBTCEILING", "KXSHUTDOWN",
+    ]
+    for s in SERIES:
         try:
-            url = ("https://api.elections.kalshi.com/trade-api/v2/markets"
-                   "?status=open&limit=200")
-            if cur:
-                url += "&cursor=" + urllib.parse.quote(cur)
-            d = jget(url)
+            d = jget("https://api.elections.kalshi.com/trade-api/v2/events"
+                     f"?status=open&series_ticker={s}"
+                     "&with_nested_markets=true&limit=100")
+            for ev in d.get("events", []):
+                for m in ev.get("markets", []):
+                    bid, ask, last = kalshi_quote(m)
+                    rows.append((
+                        ts, m.get("ticker", ""),
+                        ev.get("title", "") + " — " + m.get("title", ""),
+                        bid, ask, last,
+                        m.get("volume") or 0, m.get("volume_24h") or 0,
+                        m.get("close_time", "")))
         except Exception as e:
-            print(f"[kalshi] page {pages} failed: {e}")
-            break
-        ms = d.get("markets", [])
+            print(f"[kalshi] series {s} failed: {e}")
+    n_series = len(rows)
+    try:
+        d = jget("https://api.elections.kalshi.com/trade-api/v2/markets"
+                 "?status=open&limit=200")
         rows += [
             (ts, m.get("ticker", ""), m.get("title", ""),
              m.get("yes_bid") or 0, m.get("yes_ask") or 0,
              m.get("last_price") or 0, m.get("volume") or 0,
              m.get("volume_24h") or 0, m.get("close_time", ""))
-            for m in ms]
-        pages += 1
-        nxt = d.get("cursor")
-        if not ms or not nxt or nxt == cur:
-            break
-        cur = nxt
+            for m in d.get("markets", [])]
+    except Exception as e:
+        print(f"[kalshi] general page failed: {e}")
     db.executemany(
         "INSERT OR IGNORE INTO kalshi_markets VALUES(?,?,?,?,?,?,?,?,?)",
         rows)
-    print(f"[kalshi] {len(rows)} open markets snapshotted ({pages} pages)")
+    print(f"[kalshi] {n_series} series markets + "
+          f"{len(rows) - n_series} general = {len(rows)} snapshotted")
 
 
 def binance_get(path):
@@ -183,6 +212,53 @@ def latest_poly(db, n=20):
         "ORDER BY volume24h DESC LIMIT ?", (ts, n)).fetchall()
 
 
+def strike_mids(kal_rows):
+    """Return list of (strike_float, mid, ticker, title) for T-strike ladders."""
+    out = []
+    for ticker, title, bid, ask, *_ in kal_rows:
+        m = re.search(r'-T(-?\d+\.?\d*)$', ticker)
+        if not m:
+            continue
+        mid = (bid + ask) / 200.0
+        out.append((float(m.group(1)), mid, ticker, title))
+    return sorted(out)
+
+
+def infer_current_rate(ladder):
+    """Highest strike still trading >0.5 = current target upper bound."""
+    above = [s for s, mid, *_ in ladder if mid > 0.5]
+    return max(above) if above else None
+
+
+def poly_fed_action(q):
+    """Map a Poly Fed question to (target_delta, month_token) or None."""
+    ql = q.lower()
+    if 'fed' not in ql and 'fomc' not in ql:
+        return None
+    month = next((mo for mo in MONTHS if mo in ql), None)
+    if not month:
+        return None
+    for kw, d in ((('decrease', 'cut'), -0.25), (('increase', 'hike'), 0.25)):
+        if any(k in ql for k in kw):
+            if '50' in ql:
+                return (d * 2, month)
+            return (d, month)
+    if 'no change' in ql or 'unchanged' in ql or 'hold' in ql:
+        return (0.0, month)
+    return None
+
+
+DOMAIN_MAP = {
+    'KXCPI': ('cpi inflation',),
+    'KXGDPYEAR': ('gdp',),
+    'KXUNEMPLOY': ('unemployment jobs payrolls',),
+    'KXBTC': ('bitcoin btc',),
+    'KXETH': ('ethereum eth',),
+    'KXSHUTDOWN': ('shutdown',),
+    'KXDEBTCEILING': ('debt ceiling',),
+}
+
+
 def match_and_log(db):
     kal_ts = db.execute("SELECT MAX(ts) FROM kalshi_markets").fetchone()[0]
     if not kal_ts:
@@ -190,35 +266,97 @@ def match_and_log(db):
     kal = db.execute(
         "SELECT ticker, title, yes_bid, yes_ask, volume_24h "
         "FROM kalshi_markets WHERE ts=?", (kal_ts,)).fetchall()
-    kal_kw = [(k, keywords(k[1])) for k in kal if k[1]]
     poly = latest_poly(db)
     now = int(time.time())
     out = []
+
+    def log_pair(mid, q, py, ktick, ktitle, kmid):
+        gap = abs(py - kmid) if kmid is not None else None
+        if gap is None:
+            return
+        db.execute(
+            "INSERT OR REPLACE INTO match_log VALUES(?,?,?,?,?,?,?,?)",
+            (now, mid, q[:120], ktick[:80], ktitle[:120], py, kmid, gap))
+        out.append((q, py, ktick, ktitle, kmid, gap))
+
+    # Fed strike-ladder pairing. Kalshi KXFED strikes quote
+    # P(final target-range upper bound > T); cur = highest strike still
+    # trading >0.5 = current upper bound (e.g. 3.75 for band 3.50-3.75).
+    # A Poly action with target delta d maps to X = cur + d, priced by
+    # CDF difference: P(upper = X) = mid(X - 0.25) - mid(X).
+    # E.g. hike25 from 3.50-3.75: P(>3.75) - P(>4.00).
+    fed_rows = [k for k in kal if k[0].startswith('KXFED-')]
+    ladders = {}
+    for k in fed_rows:
+        m = re.match(r'KXFED-(\d{2})([A-Z]{3})-T(-?\d+\.?\d*)$', k[0])
+        if m:
+            ladders.setdefault(m.group(1) + m.group(2), []).append(
+                (float(m.group(3)), (k[2] + k[3]) / 200.0, k[0]))
+    # nearest upcoming meeting = smallest (yy, month-index) >= today
+    MI = {m: i + 1 for i, m in enumerate(
+        ('JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN',
+         'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'))}
+    now_tm = time.gmtime()
+    key = lambda ek: (2000 + int(ek[:2]), MI[ek[2:]])
+    upcoming = sorted((ek for ek in ladders if key(ek) >= (now_tm.tm_year, now_tm.tm_mon)), key=key)
+    if upcoming:
+        near = upcoming[0]
+        lad = sorted(ladders[near])
+        above = [s for s, mid, *_ in lad if mid > 0.5]
+        cur = max(above) if above else (lad[0][0] if lad else None)
+        for mid, q, outs, op in poly:
+            m = poly_fed_action(q)
+            if not m or cur is None:
+                continue
+            delta, month = m
+            py = poly_yes_price(outs, op)
+            if py is None:
+                continue
+            ek = next((e for e in upcoming
+                       if e[2:].lower().startswith(month[:3])), None)
+            if ek is None:
+                continue  # never pair across meetings
+            smap = {s: mid for s, mid, _ in sorted(ladders[ek])}
+
+            def smid(s):
+                if not smap:
+                    return None
+                s2 = min(smap, key=lambda k: abs(k - s))
+                return smap[s2] if abs(s2 - s) < 0.26 else None
+            # P(final rate = X) = mid(X-0.25) - mid(X)  [strikes are CDFs]
+            X = cur + delta
+            lo, hi = smid(X - 0.25), smid(X)
+            kmid = lo - hi if (lo is not None and hi is not None) else None
+            if kmid is None or kmid < -0.02:
+                continue
+            log_pair(mid, q, py, f"KXFED-{ek}", f"target={X:.2f}", kmid)
+
+    # generic domain matching (CPI, BTC, shutdown, ...)
+    kw_by_series = {s: set(v[0].split()) for s, v in DOMAIN_MAP.items()}
     for mid, q, outs, op in poly:
         py = poly_yes_price(outs, op)
         if py is None:
             continue
         qk = keywords(q)
-        strong_q = qk & STRONG
-        time_q = qk & MONTHS | (qk & {"2026", "2027"})
-        best, best_score = None, 0
-        for k, kk in kal_kw:
-            strong_j = len(strong_q & kk)
-            if not strong_j:
+        for series, dom in kw_by_series.items():
+            if not (qk & dom):
                 continue
-            time_j = len(time_q & (kk & MONTHS | kk & {"2026", "2027"}))
-            score = strong_j * 2 + time_j
-            if score > best_score:
-                best, best_score = k, score
-        if not best or best_score < 3:
-            continue
-        kmid = (best[2] + best[3]) / 200.0
-        gap = abs(py - kmid)
-        db.execute(
-            "INSERT OR REPLACE INTO match_log VALUES(?,?,?,?,?,?,?,?)",
-            (now, mid, q[:120], best[0], best[1][:120], py, kmid, gap))
-        out.append((q, py, best, kmid, gap))
-    return sorted(out, key=lambda x: -x[4])
+            best, best_score = None, 0
+            for tick, title, bid, ask, v in kal:
+                if not tick.startswith(series):
+                    continue
+                tk = keywords(title) | keywords(ticker_words(tick))
+                score = len(qk & tk)
+                if score > best_score:
+                    best, best_score = (tick, title, (bid + ask) / 200.0), score
+            if best and best_score >= 2:
+                log_pair(mid, q, py, best[0], best[1], best[2])
+            break
+    return sorted(out, key=lambda x: -x[5])
+
+
+def ticker_words(t):
+    return re.sub(r'[^A-Za-z0-9]+', ' ', t)
 
 
 def main():
@@ -232,10 +370,10 @@ def main():
     pairs = match_and_log(db)
     if not pairs:
         print("  no confident macro matches this pass")
-    for q, py, k, kmid, gap in pairs:
+    for q, py, ktick, ktitle, kmid, gap in pairs:
         flag = "  <-- GAP" if gap >= 0.05 else ""
         print(f"  gap {gap * 100:4.1f}c | poly {py:.2f} vs kalshi {kmid:.2f}"
-              f" | {q[:38]} ~ {k[1][:30]}{flag}")
+              f" | {q[:38]} ~ {ktick[:30]}{flag}")
 
     print("\n== Binance order flow (BTCUSDT) ==")
     rows = db.execute(
