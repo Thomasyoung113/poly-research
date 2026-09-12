@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-12 01:23 UTC
+Pattern report @ 2026-09-12 06:03 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$6,904,739
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.80, No=0.20] vol24h=$5,356,000
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,403,007
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,038,808
-  US Open ATP: Frances Tiafoe vs Ben Shelton                 [Frances Tiafoe=0.28, Ben Shelton=0.71] vol24h=$1,313,380
-  Will Kristi Noem win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$1,261,014
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$625,790
-  Will Stephen A. Smith win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$582,370
-  San Diego Padres vs. San Francisco Giants                  [San Diego Padres=0.59, San Francisco Giants=0.41] vol24h=$519,144
-  Los Angeles Angels vs. Washington Nationals                [Los Angeles Angels=0.47, Washington Nationals=0.53] vol24h=$507,132
+  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$7,051,219
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.80, No=0.20] vol24h=$5,522,274
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,525,421
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$2,977,644
+  Will Kristi Noem win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$1,261,032
+  LoL: Hanwha Life Esports vs T1 - Game 1 Winner             [Hanwha Life Esports=0.84, T1=0.15] vol24h=$948,449
+  Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND  [Legacy=0.67, MIBR=0.34] vol24h=$860,646
+  LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs        [Hanwha Life Esports=0.71, T1=0.28] vol24h=$760,847
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$599,848
+  Will Stephen A. Smith win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$582,397
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=259): same-hour r=-0.050  next-hour r=-0.020  next-3h r=+0.043
-  ethereum vs 'ethereum' tone (n=241): same-hour r=-0.019  next-hour r=-0.043  next-3h r=-0.008
+  ethereum vs 'ethereum' tone (n=247): same-hour r=-0.019  next-hour r=-0.043  next-3h r=-0.009
 
 BTC dominance: 59.1%
