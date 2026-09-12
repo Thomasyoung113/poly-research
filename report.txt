@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-12 06:03 UTC
+Pattern report @ 2026-09-12 11:02 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$7,051,219
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.80, No=0.20] vol24h=$5,522,274
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,525,421
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$2,977,644
-  Will Kristi Noem win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$1,261,032
-  LoL: Hanwha Life Esports vs T1 - Game 1 Winner             [Hanwha Life Esports=0.84, T1=0.15] vol24h=$948,449
-  Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND  [Legacy=0.67, MIBR=0.34] vol24h=$860,646
-  LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs        [Hanwha Life Esports=0.71, T1=0.28] vol24h=$760,847
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$599,848
-  Will Stephen A. Smith win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$582,397
+  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.81] vol24h=$7,160,942
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.79, No=0.21] vol24h=$5,510,216
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,550,611
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,205,000
+  LoL: Anyone's Legend vs Invictus Gaming - Game 2 Winner    [Anyone's Legend=1.00, Invictus Gaming=0.00] vol24h=$1,796,755
+  LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playof [Anyone's Legend=0.47, Invictus Gaming=0.53] vol24h=$1,518,304
+  LoL: Anyone's Legend vs Invictus Gaming - Game 1 Winner    [Anyone's Legend=0.00, Invictus Gaming=1.00] vol24h=$1,367,120
+  Will Kristi Noem win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$1,261,044
+  Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGRO [BetBoom Team=0.36, G2=0.64] vol24h=$762,358
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$585,499
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=259): same-hour r=-0.050  next-hour r=-0.020  next-3h r=+0.043
+  bitcoin vs 'bitcoin' tone (n=271): same-hour r=-0.050  next-hour r=-0.018  next-3h r=+0.041
   ethereum vs 'ethereum' tone (n=247): same-hour r=-0.019  next-hour r=-0.043  next-3h r=-0.009
 
 BTC dominance: 59.1%
