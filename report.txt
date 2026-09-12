@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-12 17:24 UTC
+Pattern report @ 2026-09-12 19:36 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.81] vol24h=$3,968,480
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.80, No=0.20] vol24h=$2,556,152
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$2,101,152
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,839,003
-  LoL: Team Vitality vs Movistar KOI - Game 2 Winner         [Team Vitality=1.00, Movistar KOI=0.00] vol24h=$1,122,706
-  Will Chelsea FC win on 2026-09-12?                         [Yes=0.00, No=1.00] vol24h=$1,046,159
-  Will AC Milan win on 2026-09-12?                           [Yes=0.04, No=0.96] vol24h=$1,028,993
-  Will Tottenham Hotspur FC win on 2026-09-12?               [Yes=0.45, No=0.56] vol24h=$896,545
-  LoL: Team Vitality vs Movistar KOI - Game 1 Winner         [Team Vitality=0.00, Movistar KOI=1.00] vol24h=$717,392
-  Will Aston Villa FC win on 2026-09-12?                     [Yes=0.00, No=1.00] vol24h=$658,060
+  Will Arsenal FC win on 2026-09-12?                         [Yes=0.55, No=0.46] vol24h=$4,458,435
+  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$3,267,343
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.80, No=0.20] vol24h=$2,010,956
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,886,345
+  LoL: Team Vitality vs Movistar KOI (BO5) - LEC Playoffs    [Team Vitality=0.05, Movistar KOI=0.95] vol24h=$1,642,829
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,558,880
+  Oklahoma vs. Michigan                                      [Oklahoma=0.13, Michigan=0.87] vol24h=$1,196,374
+  LoL: Team Vitality vs Movistar KOI - Game 3 Winner         [Team Vitality=1.00, Movistar KOI=0.00] vol24h=$956,329
+  Will Real Madrid CF win on 2026-09-12?                     [Yes=0.98, No=0.02] vol24h=$910,525
+  LoL: Team Vitality vs Movistar KOI - Game 4 Winner         [Team Vitality=0.00, Movistar KOI=1.00] vol24h=$807,258
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=271): same-hour r=-0.050  next-hour r=-0.018  next-3h r=+0.041
+  bitcoin vs 'bitcoin' tone (n=280): same-hour r=-0.051  next-hour r=-0.019  next-3h r=+0.041
   ethereum vs 'ethereum' tone (n=258): same-hour r=-0.019  next-hour r=-0.038  next-3h r=-0.007
 
 BTC dominance: 59.1%
