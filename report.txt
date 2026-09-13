@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-13 12:12 UTC
+Pattern report @ 2026-09-13 16:40 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Brighton & Hove Albion FC win on 2026-09-13?          [Yes=0.52, No=0.48] vol24h=$2,236,797
-  Will there be no change in Fed interest rates after the Se [Yes=0.21, No=0.79] vol24h=$2,004,485
-  LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playof [Bilibili Gaming=0.43, Anyone's Legend=0.56] vol24h=$1,824,195
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,822,950
-  Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Pl [G2=0.07, Legacy=0.94] vol24h=$1,536,931
-  LoL: Bilibili Gaming vs Anyone's Legend - Game 3 Winner    [Bilibili Gaming=1.00, Anyone's Legend=0.00] vol24h=$1,522,344
-  LoL: Bilibili Gaming vs Anyone's Legend - Game 2 Winner    [Bilibili Gaming=0.00, Anyone's Legend=1.00] vol24h=$1,414,046
-  LoL: Bilibili Gaming vs Anyone's Legend - Game 1 Winner    [Bilibili Gaming=0.00, Anyone's Legend=1.00] vol24h=$1,290,512
-  Will RC Celta de Vigo win on 2026-09-13?                   [Yes=0.57, No=0.42] vol24h=$1,260,037
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.78, No=0.23] vol24h=$1,172,113
+  Will FC Barcelona win on 2026-09-13?                       [Yes=1.00, No=0.00] vol24h=$2,455,606
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,956,597
+  Will Manchester City FC win on 2026-09-13?                 [Yes=0.17, No=0.82] vol24h=$1,816,482
+  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$1,610,219
+  Will SSC Napoli win on 2026-09-13?                         [Yes=0.53, No=0.47] vol24h=$1,345,098
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.79, No=0.21] vol24h=$1,343,079
+  Will Manchester United FC win on 2026-09-13?               [Yes=0.52, No=0.48] vol24h=$614,821
+  US Open ATP: Alexander Zverev vs Ben Shelton               [Alexander Zverev=0.58, Ben Shelton=0.41] vol24h=$575,573
+  Will FC Bayern München win on 2026-09-13?                  [Yes=0.90, No=0.10] vol24h=$555,094
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.24, No=0.76] vol24h=$540,495
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
