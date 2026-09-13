@@ -1,5 +1,5 @@
 [poly] 20 markets snapshotted
-[poly] 125 hourly price points (top 5 markets)
+[poly] 122 hourly price points (top 5 markets)
 [cg] bitcoin 1h: 169 points
 [cg] bitcoin 1d: 91 points
 [cg] ethereum 1h: 169 points
@@ -12,12 +12,14 @@
 [gdelt] bitcoin attempt 3 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 1 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 2 failed: HTTP Error 429: Too Many Requests
-[gdelt] ethereum: 161 tone points
-[gdelt] polymarket: 161 tone points
+[gdelt] ethereum attempt 3 failed: HTTP Error 429: Too Many Requests
+[gdelt] polymarket attempt 1 failed: HTTP Error 429: Too Many Requests
+[gdelt] polymarket attempt 2 failed: HTTP Error 429: Too Many Requests
+[gdelt] polymarket attempt 3 failed: HTTP Error 429: Too Many Requests
 [gdelt] crypto attempt 1 failed: HTTP Error 429: Too Many Requests
 [gdelt] crypto attempt 2 failed: HTTP Error 429: Too Many Requests
 [gdelt] crypto attempt 3 failed: HTTP Error 429: Too Many Requests
-[db] poly_markets: 780 rows total
-[db] poly_prices: 659 rows total
-[db] cg_prices: 1373 rows total
+[db] poly_markets: 800 rows total
+[db] poly_prices: 697 rows total
+[db] cg_prices: 1389 rows total
 [db] news_tone: 1081 rows total
