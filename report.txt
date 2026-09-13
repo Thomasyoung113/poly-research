@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-13 01:22 UTC
+Pattern report @ 2026-09-13 06:24 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$2,110,526
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.80, No=0.20] vol24h=$1,169,439
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,054,636
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$868,048
+  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$2,043,476
+  LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs     [Gen.G=0.41, Hanwha Life Esports=0.58] vol24h=$1,344,593
+  LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner          [Gen.G=0.00, Hanwha Life Esports=1.00] vol24h=$1,222,626
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,057,388
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,024,066
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.80, No=0.20] vol24h=$1,016,964
+  Will Manchester City FC win on 2026-09-13?                 [Yes=0.45, No=0.56] vol24h=$704,857
+  Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Pl [G2=0.52, Legacy=0.48] vol24h=$612,171
   Guadalajara Open Akron, Qualification: Varvara Lepchenko v [Varvara Lepchenko=0.51, Nicole Melichar=0.49] vol24h=$574,535
-  Ohio State vs. Texas                                       [Ohio State=0.71, Texas=0.28] vol24h=$486,390
-  Houston Astros vs. Tampa Bay Rays                          [Houston Astros=0.00, Tampa Bay Rays=1.00] vol24h=$485,447
-  Bab el-Mandeb Strait effectively closed by September 15?   [Yes=0.01, No=0.99] vol24h=$434,924
-  Texas Rangers vs. Arizona Diamondbacks                     [Texas Rangers=0.32, Arizona Diamondbacks=0.69] vol24h=$428,809
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,040
+  Bab el-Mandeb Strait effectively closed by September 15?   [Yes=0.01, No=0.99] vol24h=$435,590
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=280): same-hour r=-0.051  next-hour r=-0.019  next-3h r=+0.041
-  ethereum vs 'ethereum' tone (n=264): same-hour r=-0.018  next-hour r=-0.037  next-3h r=-0.006
+  bitcoin vs 'bitcoin' tone (n=291): same-hour r=-0.051  next-hour r=-0.018  next-3h r=+0.040
+  ethereum vs 'ethereum' tone (n=271): same-hour r=-0.018  next-hour r=-0.037  next-3h r=-0.006
 
 BTC dominance: 59.1%
