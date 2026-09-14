@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-14 01:18 UTC
+Pattern report @ 2026-09-14 06:36 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$2,184,266
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$2,007,728
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.79, No=0.21] vol24h=$1,586,630
-  Cowboys vs. Giants                                         [Cowboys=0.51, Giants=0.49] vol24h=$1,338,180
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$660,360
-  Will Magdalena Andersson be the next Prime Minister of Swe [Yes=0.89, No=0.12] vol24h=$607,947
-  Spread: Cowboys (-3.5)                                     [Cowboys=0.24, Giants=0.76] vol24h=$607,726
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.21, No=0.79] vol24h=$554,982
-  Will Ulf Kristersson be the next Prime Minister of Sweden? [Yes=0.10, No=0.90] vol24h=$528,475
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$491,628
+  Will there be no change in Fed interest rates after the Se [Yes=0.20, No=0.80] vol24h=$2,300,886
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$1,986,410
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.80, No=0.20] vol24h=$1,785,545
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.30, No=0.70] vol24h=$931,951
+  Will Magdalena Andersson be the next Prime Minister of Swe [Yes=0.91, No=0.10] vol24h=$672,405
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$665,552
+  Will Ulf Kristersson be the next Prime Minister of Sweden? [Yes=0.10, No=0.91] vol24h=$549,292
+  Broncos vs. Chiefs                                         [Broncos=0.45, Chiefs=0.56] vol24h=$543,900
+  Putin out as President of Russia by December 31, 2026?     [Yes=0.07, No=0.94] vol24h=$443,562
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$421,025
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 

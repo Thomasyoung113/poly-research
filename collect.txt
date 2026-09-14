@@ -7,14 +7,17 @@
 [cg] solana 1h: 169 points
 [cg] solana failed: HTTP Error 429: Too Many Requests
 [cg] global failed: HTTP Error 429: Too Many Requests
-[gdelt] bitcoin: 147 tone points
+[gdelt] bitcoin: 142 tone points
 [gdelt] ethereum attempt 1 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 2 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 3 failed: HTTP Error 429: Too Many Requests
 [gdelt] polymarket attempt 1 failed: HTTP Error 429: Too Many Requests
-[gdelt] polymarket: 147 tone points
-[gdelt] crypto: 147 tone points
-[db] poly_markets: 920 rows total
-[db] poly_prices: 1123 rows total
-[db] cg_prices: 1494 rows total
+[gdelt] polymarket attempt 2 failed: HTTP Error 429: Too Many Requests
+[gdelt] polymarket: 142 tone points
+[gdelt] crypto attempt 1 failed: HTTP Error 429: Too Many Requests
+[gdelt] crypto attempt 2 failed: HTTP Error 429: Too Many Requests
+[gdelt] crypto attempt 3 failed: HTTP Error 429: Too Many Requests
+[db] poly_markets: 940 rows total
+[db] poly_prices: 1191 rows total
+[db] cg_prices: 1514 rows total
 [db] news_tone: 1134 rows total
