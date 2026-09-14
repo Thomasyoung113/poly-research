@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-14 19:40 UTC
+Pattern report @ 2026-09-14 23:22 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.88] vol24h=$4,702,240
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$4,120,025
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.86, No=0.14] vol24h=$2,874,838
-  Will FC Internazionale Milano win on 2026-09-14?           [Yes=0.73, No=0.27] vol24h=$2,160,061
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$2,011,167
-  Broncos vs. Chiefs                                         [Broncos=0.46, Chiefs=0.55] vol24h=$1,087,595
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$1,021,096
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.28, No=0.71] vol24h=$932,085
-  Will Magdalena Andersson be the next Prime Minister of Swe [Yes=0.86, No=0.14] vol24h=$641,325
-  Will Real Betis Balompié win on 2026-09-14?                [Yes=0.26, No=0.74] vol24h=$637,349
+  Broncos vs. Chiefs                                         [Broncos=0.46, Chiefs=0.55] vol24h=$6,333,684
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$5,142,060
+  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.88] vol24h=$5,047,099
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,330,918
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$3,204,084
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.15, No=0.84] vol24h=$1,369,321
+  Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend   [Tatjana Maria=0.15, Taylor Townsend=0.84] vol24h=$870,594
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$766,462
+  Los Angeles Dodgers vs. Cincinnati Reds                    [Los Angeles Dodgers=0.77, Cincinnati Reds=0.23] vol24h=$531,901
+  Broncos vs. Chiefs: O/U 43.5                               [Over=0.47, Under=0.53] vol24h=$468,817
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
