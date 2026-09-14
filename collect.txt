@@ -12,12 +12,14 @@
 [gdelt] bitcoin attempt 3 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 1 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 2 failed: HTTP Error 429: Too Many Requests
-[gdelt] ethereum attempt 3 failed: HTTP Error 429: Too Many Requests
+[gdelt] ethereum: 129 tone points
 [gdelt] polymarket attempt 1 failed: HTTP Error 429: Too Many Requests
-[gdelt] polymarket: 134 tone points
+[gdelt] polymarket attempt 2 failed: HTTP Error 429: Too Many Requests
+[gdelt] polymarket attempt 3 failed: HTTP Error 429: Too Many Requests
 [gdelt] crypto attempt 1 failed: HTTP Error 429: Too Many Requests
-[gdelt] crypto: 134 tone points
-[db] poly_markets: 960 rows total
-[db] poly_prices: 1252 rows total
-[db] cg_prices: 1551 rows total
+[gdelt] crypto attempt 2 failed: HTTP Error 429: Too Many Requests
+[gdelt] crypto attempt 3 failed: HTTP Error 429: Too Many Requests
+[db] poly_markets: 980 rows total
+[db] poly_prices: 1301 rows total
+[db] cg_prices: 1572 rows total
 [db] news_tone: 1134 rows total

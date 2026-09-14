@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-14 14:22 UTC
+Pattern report @ 2026-09-14 19:40 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.17, No=0.83] vol24h=$2,824,694
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$2,145,534
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.82, No=0.17] vol24h=$1,912,228
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$1,003,787
-  Will Magdalena Andersson be the next Prime Minister of Swe [Yes=0.85, No=0.15] vol24h=$714,452
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.27, No=0.73] vol24h=$681,592
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$675,949
-  Broncos vs. Chiefs                                         [Broncos=0.45, Chiefs=0.56] vol24h=$618,981
-  Will Ulf Kristersson be the next Prime Minister of Sweden? [Yes=0.10, No=0.90] vol24h=$577,613
-  Putin out as President of Russia by December 31, 2026?     [Yes=0.07, No=0.94] vol24h=$459,473
+  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.88] vol24h=$4,702,240
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$4,120,025
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.86, No=0.14] vol24h=$2,874,838
+  Will FC Internazionale Milano win on 2026-09-14?           [Yes=0.73, No=0.27] vol24h=$2,160,061
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$2,011,167
+  Broncos vs. Chiefs                                         [Broncos=0.46, Chiefs=0.55] vol24h=$1,087,595
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$1,021,096
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.28, No=0.71] vol24h=$932,085
+  Will Magdalena Andersson be the next Prime Minister of Swe [Yes=0.86, No=0.14] vol24h=$641,325
+  Will Real Betis Balompié win on 2026-09-14?                [Yes=0.26, No=0.74] vol24h=$637,349
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
