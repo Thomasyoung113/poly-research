@@ -5,21 +5,21 @@
 [binance] ETHUSDT 1h: 200 candles
 [binance] SOLUSDT 1m: 500 candles
 [binance] SOLUSDT 1h: 200 candles
-[binance] depth: bid $614,408 vs ask $1,084,248 (imbalance 0.36)
+[binance] depth: bid $180,845 vs ask $3,818,489 (imbalance 0.05)
 [fng] latest 69 (Greed), 30 days
 
 == Kalshi <-> Polymarket macro disagreement ==
-  gap 99.5c | poly 1.00 vs kalshi 0.01 | Will the price of Bitcoin be above $68 ~ KXBTC-26SEP1504-B68250  <-- GAP
-  gap 99.2c | poly 1.00 vs kalshi 0.01 | Will the price of Bitcoin be above $70 ~ KXBTC-26SEP1504-B68250  <-- GAP
-  gap  1.5c | poly 0.12 vs kalshi 0.11 | Will there be no change in Fed interes ~ KXFED-26SEP
-  gap  1.0c | poly 0.00 vs kalshi 0.01 | Will the Fed decrease interest rates b ~ KXFED-26DEC
-  gap  0.9c | poly 0.01 vs kalshi 0.00 | Will the Fed increase interest rates b ~ KXFED-26SEP
-  gap  0.5c | poly 0.88 vs kalshi 0.88 | Will the Fed increase interest rates b ~ KXFED-26SEP
-  gap  0.4c | poly 0.00 vs kalshi 0.01 | Will the Fed decrease interest rates b ~ KXFED-26DEC
+  gap 99.5c | poly 1.00 vs kalshi 0.01 | Will the price of Bitcoin be above $68 ~ KXBTC-26SEP1510-B68250  <-- GAP
+  gap  1.1c | poly 0.01 vs kalshi 0.00 | Will the Fed increase interest rates b ~ KXFED-26SEP
+  gap  0.5c | poly 0.00 vs kalshi 0.01 | Will the price of Bitcoin be above $82 ~ KXBTC-26SEP1510-B68250
+  gap  0.2c | poly 0.00 vs kalshi 0.00 | Will the Fed decrease interest rates b ~ KXFED-26SEP
+  gap  0.1c | poly 0.00 vs kalshi 0.00 | Will the Fed decrease interest rates b ~ KXFED-26SEP
+  gap  0.0c | poly 0.12 vs kalshi 0.12 | Will there be no change in Fed interes ~ KXFED-26SEP
+  gap  0.0c | poly 0.86 vs kalshi 0.86 | Will the Fed increase interest rates b ~ KXFED-26SEP
 
 == Binance order flow (BTCUSDT) ==
-  last 30m taker-buy ratio: 0.556 -> buyers aggressive
-  book imbalance: 0.36 (ask-heavy), spread $0.01
+  last 30m taker-buy ratio: 0.442 -> sellers aggressive
+  book imbalance: 0.05 (ask-heavy), spread $0.01
 
 == Fear & Greed ==
   now: 69 (greed), 7d 66 -> 69

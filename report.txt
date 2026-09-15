@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-15 07:58 UTC
+Pattern report @ 2026-09-15 13:51 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$5,588,664
-  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.88] vol24h=$5,157,347
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,951,467
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$3,149,460
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.17, No=0.82] vol24h=$1,191,383
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$793,807
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,469
-  US x Iran Effective Ceasefire by September 4?              [Yes=0.95, No=0.05] vol24h=$402,879
-  Will Real Madrid CF win on 2026-09-15?                     [Yes=0.81, No=0.18] vol24h=$358,196
-  Fed rate hike in 2026?                                     [Yes=0.94, No=0.07] vol24h=$232,639
+  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.88] vol24h=$6,089,129
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$5,394,516
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$4,034,358
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.86, No=0.14] vol24h=$3,518,689
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.18, No=0.82] vol24h=$1,175,448
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$713,985
+  Will Real Madrid CF win on 2026-09-15?                     [Yes=0.82, No=0.17] vol24h=$691,929
+  Will Deportivo Alavés win on 2026-09-15?                   [Yes=0.57, No=0.42] vol24h=$514,406
+  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$454,515
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$431,116
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
