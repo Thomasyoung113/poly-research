@@ -1,23 +1,23 @@
-[kalshi] 1431 series markets + 200 general = 1631 snapshotted
+[kalshi] 1401 series markets + 200 general = 1601 snapshotted
 [binance] BTCUSDT 1m: 500 candles
 [binance] BTCUSDT 1h: 200 candles
 [binance] ETHUSDT 1m: 500 candles
 [binance] ETHUSDT 1h: 200 candles
 [binance] SOLUSDT 1m: 500 candles
 [binance] SOLUSDT 1h: 200 candles
-[binance] depth: bid $931,975 vs ask $626,996 (imbalance 0.60)
+[binance] depth: bid $1,606,401 vs ask $1,302,443 (imbalance 0.55)
 [fng] latest 69 (Greed), 30 days
 
 == Kalshi <-> Polymarket macro disagreement ==
   gap  0.9c | poly 0.01 vs kalshi 0.00 | Will the Fed increase interest rates b ~ KXFED-26SEP
+  gap  0.5c | poly 0.88 vs kalshi 0.87 | Will the Fed increase interest rates b ~ KXFED-26SEP
+  gap  0.5c | poly 0.12 vs kalshi 0.12 | Will there be no change in Fed interes ~ KXFED-26SEP
   gap  0.1c | poly 0.00 vs kalshi 0.00 | Will the Fed decrease interest rates b ~ KXFED-26SEP
   gap  0.1c | poly 0.00 vs kalshi 0.00 | Will the Fed decrease interest rates b ~ KXFED-26SEP
-  gap  0.0c | poly 0.12 vs kalshi 0.11 | Will there be no change in Fed interes ~ KXFED-26SEP
-  gap  0.0c | poly 0.88 vs kalshi 0.88 | Will the Fed increase interest rates b ~ KXFED-26SEP
 
 == Binance order flow (BTCUSDT) ==
-  last 30m taker-buy ratio: 0.494 -> sellers aggressive
-  book imbalance: 0.60 (bid-heavy), spread $0.01
+  last 30m taker-buy ratio: 0.474 -> sellers aggressive
+  book imbalance: 0.55 (bid-heavy), spread $0.01
 
 == Fear & Greed ==
   now: 69 (greed), 7d 66 -> 69

@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-15 18:27 UTC
+Pattern report @ 2026-09-15 21:37 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.89] vol24h=$5,797,296
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$4,659,835
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$4,427,673
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$3,971,148
-  Will Deportivo Alavés win on 2026-09-15?                   [Yes=0.53, No=0.47] vol24h=$3,692,723
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.14, No=0.85] vol24h=$2,049,758
-  Will Real Madrid CF win on 2026-09-15?                     [Yes=0.81, No=0.20] vol24h=$1,233,798
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$820,333
-  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$537,729
-  Will Al Nassr Club win on 2026-09-15?                      [Yes=0.00, No=1.00] vol24h=$480,328
+  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.89] vol24h=$6,226,870
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$4,028,476
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,938,938
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,932,172
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.05, No=0.95] vol24h=$3,631,876
+  Will Real Madrid CF win on 2026-09-15?                     [Yes=0.97, No=0.03] vol24h=$2,909,829
+  Will Liverpool FC win on 2026-09-15?                       [Yes=1.00, No=0.00] vol24h=$1,058,297
+  Will Elche CF win on 2026-09-15?                           [Yes=0.00, No=1.00] vol24h=$901,883
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$737,318
+  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$537,936
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
