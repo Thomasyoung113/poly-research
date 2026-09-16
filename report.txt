@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-16 00:39 UTC
+Pattern report @ 2026-09-16 06:16 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.10, No=0.90] vol24h=$6,344,248
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$4,185,824
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.05, No=0.95] vol24h=$3,361,770
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,332,674
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,277,485
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$901,114
-  Detroit Tigers vs. Toronto Blue Jays                       [Detroit Tigers=0.89, Toronto Blue Jays=0.11] vol24h=$721,023
-  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$479,845
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$431,127
-  Athletics vs. Tampa Bay Rays                               [Athletics=0.29, Tampa Bay Rays=0.71] vol24h=$417,860
+  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.88] vol24h=$6,573,229
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$4,330,643
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,624,073
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,433,277
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.05, No=0.95] vol24h=$3,377,589
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$1,152,660
+  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$529,738
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.76, No=0.24] vol24h=$529,353
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$431,047
+  Sao Paulo Open: Xiaodi You vs Alina Charaeva               [Xiaodi You=0.37, Alina Charaeva=0.63] vol24h=$358,987
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
