@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-16 11:56 UTC
+Pattern report @ 2026-09-16 17:20 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.89] vol24h=$6,143,254
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$5,367,791
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$4,514,045
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$4,397,645
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.05, No=0.95] vol24h=$3,408,910
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$1,352,183
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.74, No=0.26] vol24h=$570,190
-  Valencia: Jennifer Ruggeri vs Despina Papamichail          [Jennifer Ruggeri=0.00, Despina Papamichail=1.00] vol24h=$547,830
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$430,212
-  Rennes: Hamish Stewart vs Daniel Rincon                    [Hamish Stewart=0.00, Daniel Rincon=1.00] vol24h=$389,566
+  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.88] vol24h=$6,982,613
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$6,756,171
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$6,371,520
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$4,724,545
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.07, No=0.93] vol24h=$3,027,732
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$1,841,943
+  Will Elon Musk win the 2028 Republican presidential nomina [Yes=0.00, No=1.00] vol24h=$947,805
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.73, No=0.27] vol24h=$789,441
+  Will FC Barcelona win on 2026-09-16?                       [Yes=0.92, No=0.09] vol24h=$733,429
+  Will Club Atlético de Madrid win on 2026-09-16?            [Yes=0.76, No=0.24] vol24h=$523,893
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
