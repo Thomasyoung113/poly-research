@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-15 21:37 UTC
+Pattern report @ 2026-09-16 00:39 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Se [Yes=0.12, No=0.89] vol24h=$6,226,870
-  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$4,028,476
-  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,938,938
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,932,172
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.05, No=0.95] vol24h=$3,631,876
-  Will Real Madrid CF win on 2026-09-15?                     [Yes=0.97, No=0.03] vol24h=$2,909,829
-  Will Liverpool FC win on 2026-09-15?                       [Yes=1.00, No=0.00] vol24h=$1,058,297
-  Will Elche CF win on 2026-09-15?                           [Yes=0.00, No=1.00] vol24h=$901,883
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$737,318
-  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$537,936
+  Will there be no change in Fed interest rates after the Se [Yes=0.10, No=0.90] vol24h=$6,344,248
+  Will the Fed increase interest rates by 25 bps after the S [Yes=0.88, No=0.12] vol24h=$4,185,824
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.05, No=0.95] vol24h=$3,361,770
+  Will the Fed decrease interest rates by 25 bps after the S [Yes=0.00, No=1.00] vol24h=$3,332,674
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$3,277,485
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$901,114
+  Detroit Tigers vs. Toronto Blue Jays                       [Detroit Tigers=0.89, Toronto Blue Jays=0.11] vol24h=$721,023
+  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$479,845
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$431,127
+  Athletics vs. Tampa Bay Rays                               [Athletics=0.29, Tampa Bay Rays=0.71] vol24h=$417,860
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
