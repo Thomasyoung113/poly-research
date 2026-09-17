@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-17 01:40 UTC
+Pattern report @ 2026-09-17 07:57 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Elon Musk win the 2028 Republican presidential nomina [Yes=0.00, No=1.00] vol24h=$948,102
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.73, No=0.27] vol24h=$912,199
-  Will there be no change in Fed interest rates after the Oc [Yes=0.55, No=0.46] vol24h=$855,775
-  Milwaukee Brewers vs. Pittsburgh Pirates                   [Milwaukee Brewers=0.78, Pittsburgh Pirates=0.23] vol24h=$813,130
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.07, No=0.94] vol24h=$788,858
-  Baltimore Orioles vs. New York Mets                        [Baltimore Orioles=0.98, New York Mets=0.02] vol24h=$722,295
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.46, No=0.55] vol24h=$660,151
-  Los Angeles Dodgers vs. Cincinnati Reds                    [Los Angeles Dodgers=0.04, Cincinnati Reds=0.96] vol24h=$557,273
-  Philadelphia Phillies vs. Washington Nationals             [Philadelphia Phillies=0.98, Washington Nationals=0.02] vol24h=$475,634
-  Athletics vs. Tampa Bay Rays                               [Athletics=0.00, Tampa Bay Rays=1.00] vol24h=$445,708
+  Will there be no change in Fed interest rates after the Oc [Yes=0.55, No=0.46] vol24h=$966,183
+  Will Elon Musk win the 2028 Republican presidential nomina [Yes=0.00, No=1.00] vol24h=$948,171
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.74, No=0.26] vol24h=$825,244
+  LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional F [Top Esports=0.43, Invictus Gaming=0.56] vol24h=$813,104
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.45, No=0.56] vol24h=$672,252
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.08, No=0.92] vol24h=$666,998
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$430,635
+  Valencia: Guiomar Maristany vs Marina Bassols Ribera       [Guiomar Maristany=0.56, Marina Bassols Ribera=0.44] vol24h=$337,075
+  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$336,517
+  Will A Just Russia – For Truth (SRZP) gain the most seats  [Yes=0.00, No=1.00] vol24h=$290,549
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
