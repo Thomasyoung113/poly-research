@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-17 13:45 UTC
+Pattern report @ 2026-09-17 18:24 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional F [Top Esports=1.00, Invictus Gaming=0.00] vol24h=$2,191,043
-  LoL: Top Esports vs Invictus Gaming - Game 4 Winner        [Top Esports=1.00, Invictus Gaming=0.00] vol24h=$1,869,676
-  LoL: Top Esports vs Invictus Gaming - Game 3 Winner        [Top Esports=1.00, Invictus Gaming=0.00] vol24h=$1,545,212
-  Will there be no change in Fed interest rates after the Oc [Yes=0.54, No=0.47] vol24h=$1,137,030
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.47, No=0.54] vol24h=$841,098
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.74, No=0.26] vol24h=$736,800
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.08, No=0.92] vol24h=$632,172
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$431,767
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$429,838
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$378,469
+  Will Real Betis Balompié win on 2026-09-17?                [Yes=0.83, No=0.17] vol24h=$5,395,413
+  Will Manchester City FC win on 2026-09-17?                 [Yes=0.84, No=0.15] vol24h=$1,091,444
+  Will there be no change in Fed interest rates after the Oc [Yes=0.52, No=0.48] vol24h=$1,080,424
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.48, No=0.52] vol24h=$755,717
+  Will Real Sociedad de Fútbol win on 2026-09-17?            [Yes=0.28, No=0.72] vol24h=$547,904
+  Will Getafe CF win on 2026-09-17?                          [Yes=0.03, No=0.97] vol24h=$520,173
+  Will Villarreal CF win on 2026-09-17?                      [Yes=0.47, No=0.53] vol24h=$508,830
+  Milwaukee Brewers vs. Pittsburgh Pirates                   [Milwaukee Brewers=0.10, Pittsburgh Pirates=0.90] vol24h=$505,272
+  Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect  [B8=0.59, M80=0.41] vol24h=$472,941
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.76, No=0.24] vol24h=$469,375
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
