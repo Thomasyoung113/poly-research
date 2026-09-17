@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-17 18:24 UTC
+Pattern report @ 2026-09-17 21:39 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Real Betis Balompié win on 2026-09-17?                [Yes=0.83, No=0.17] vol24h=$5,395,413
-  Will Manchester City FC win on 2026-09-17?                 [Yes=0.84, No=0.15] vol24h=$1,091,444
-  Will there be no change in Fed interest rates after the Oc [Yes=0.52, No=0.48] vol24h=$1,080,424
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.48, No=0.52] vol24h=$755,717
-  Will Real Sociedad de Fútbol win on 2026-09-17?            [Yes=0.28, No=0.72] vol24h=$547,904
-  Will Getafe CF win on 2026-09-17?                          [Yes=0.03, No=0.97] vol24h=$520,173
-  Will Villarreal CF win on 2026-09-17?                      [Yes=0.47, No=0.53] vol24h=$508,830
-  Milwaukee Brewers vs. Pittsburgh Pirates                   [Milwaukee Brewers=0.10, Pittsburgh Pirates=0.90] vol24h=$505,272
-  Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect  [B8=0.59, M80=0.41] vol24h=$472,941
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.76, No=0.24] vol24h=$469,375
+  Lions vs. Bills                                            [Lions=0.30, Bills=0.69] vol24h=$6,641,698
+  Will Manchester City FC win on 2026-09-17?                 [Yes=1.00, No=0.00] vol24h=$1,980,147
+  Will Villarreal CF win on 2026-09-17?                      [Yes=1.00, No=0.00] vol24h=$1,567,799
+  Will AFC Bournemouth win on 2026-09-17?                    [Yes=1.00, No=0.00] vol24h=$880,535
+  Will Real Sociedad de Fútbol win on 2026-09-17?            [Yes=0.00, No=1.00] vol24h=$845,280
+  Will Beşiktaş JK win on 2026-09-17?                        [Yes=1.00, No=0.00] vol24h=$627,268
+  Will there be no change in Fed interest rates after the Oc [Yes=0.48, No=0.52] vol24h=$582,743
+  Will China invade Taiwan by end of 2026?                   [Yes=0.05, No=0.95] vol24h=$582,216
+  Will Norwich City FC win on 2026-09-17?                    [Yes=0.00, No=1.00] vol24h=$527,150
+  Putin out as President of Russia by December 31, 2026?     [Yes=0.04, No=0.95] vol24h=$464,868
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
