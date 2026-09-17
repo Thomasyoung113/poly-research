@@ -5,18 +5,18 @@
 [binance] ETHUSDT 1h: 200 candles
 [binance] SOLUSDT 1m: 500 candles
 [binance] SOLUSDT 1h: 200 candles
-[binance] depth: bid $662,202 vs ask $1,629,891 (imbalance 0.29)
-[fng] latest 51 (Neutral), 30 days
+[binance] depth: bid $1,429,346 vs ask $1,384,022 (imbalance 0.51)
+[fng] latest 50 (Neutral), 30 days
 
 == Kalshi <-> Polymarket macro disagreement ==
-  gap 51.5c | poly 0.53 vs kalshi 0.01 | Will there be no change in Fed interes ~ KXFED-26OCT  <-- GAP
-  gap  7.5c | poly 0.08 vs kalshi 0.01 | Will Bitcoin dip to $45,000 by Decembe ~ KXBTC-26SEP1620-B67250  <-- GAP
-  gap  6.0c | poly 0.46 vs kalshi 0.51 | Will the Fed increase interest rates b ~ KXFED-26OCT  <-- GAP
-  gap  0.7c | poly 0.00 vs kalshi 0.01 | Will the Fed decrease interest rates b ~ KXFED-26DEC
+  gap 54.0c | poly 0.55 vs kalshi 0.01 | Will there be no change in Fed interes ~ KXFED-26OCT  <-- GAP
+  gap  7.0c | poly 0.07 vs kalshi 0.01 | Will Bitcoin dip to $45,000 by Decembe ~ KXBTC-26SEP1622-B67250  <-- GAP
+  gap  6.5c | poly 0.46 vs kalshi 0.52 | Will the Fed increase interest rates b ~ KXFED-26OCT  <-- GAP
+  gap  0.4c | poly 0.00 vs kalshi 0.00 | Will the Fed decrease interest rates b ~ KXFED-26OCT
 
 == Binance order flow (BTCUSDT) ==
-  last 30m taker-buy ratio: 0.504 -> buyers aggressive
-  book imbalance: 0.29 (ask-heavy), spread $0.01
+  last 30m taker-buy ratio: 0.608 -> buyers aggressive
+  book imbalance: 0.51 (bid-heavy), spread $0.01
 
 == Fear & Greed ==
-  now: 51 (neutral), 7d 69 -> 51
+  now: 50 (neutral), 7d 56 -> 50
