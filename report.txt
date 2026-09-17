@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-17 07:57 UTC
+Pattern report @ 2026-09-17 13:45 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will there be no change in Fed interest rates after the Oc [Yes=0.55, No=0.46] vol24h=$966,183
-  Will Elon Musk win the 2028 Republican presidential nomina [Yes=0.00, No=1.00] vol24h=$948,171
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.74, No=0.26] vol24h=$825,244
-  LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional F [Top Esports=0.43, Invictus Gaming=0.56] vol24h=$813,104
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.45, No=0.56] vol24h=$672,252
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.08, No=0.92] vol24h=$666,998
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$430,635
-  Valencia: Guiomar Maristany vs Marina Bassols Ribera       [Guiomar Maristany=0.56, Marina Bassols Ribera=0.44] vol24h=$337,075
-  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$336,517
-  Will A Just Russia – For Truth (SRZP) gain the most seats  [Yes=0.00, No=1.00] vol24h=$290,549
+  LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional F [Top Esports=1.00, Invictus Gaming=0.00] vol24h=$2,191,043
+  LoL: Top Esports vs Invictus Gaming - Game 4 Winner        [Top Esports=1.00, Invictus Gaming=0.00] vol24h=$1,869,676
+  LoL: Top Esports vs Invictus Gaming - Game 3 Winner        [Top Esports=1.00, Invictus Gaming=0.00] vol24h=$1,545,212
+  Will there be no change in Fed interest rates after the Oc [Yes=0.54, No=0.47] vol24h=$1,137,030
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.47, No=0.54] vol24h=$841,098
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.74, No=0.26] vol24h=$736,800
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.08, No=0.92] vol24h=$632,172
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$431,767
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$429,838
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$378,469
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
