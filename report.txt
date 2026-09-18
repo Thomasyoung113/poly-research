@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-18 11:37 UTC
+Pattern report @ 2026-09-18 16:41 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  LoL: Team WE vs JD Gaming - Game 1 Winner                  [Team WE=1.00, JD Gaming=0.00] vol24h=$1,344,562
-  LoL: Team WE vs JD Gaming - Game 3 Winner                  [Team WE=0.03, JD Gaming=0.97] vol24h=$884,886
-  LoL: Team WE vs JD Gaming - Game 2 Winner                  [Team WE=0.00, JD Gaming=1.00] vol24h=$877,400
-  LoL: Team WE vs JD Gaming (BO5) - LPL Regional Finals Play [Team WE=0.20, JD Gaming=0.81] vol24h=$873,794
-  Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder S [MOUZ=0.61, Natus Vincere=0.39] vol24h=$850,751
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.78, No=0.23] vol24h=$674,335
-  Will FC Bayern München win on 2026-09-18?                  [Yes=0.94, No=0.07] vol24h=$635,722
-  Will François Ruffin win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$566,366
-  Will China invade Taiwan by end of 2026?                   [Yes=0.04, No=0.96] vol24h=$537,547
-  Putin out as President of Russia by December 31, 2026?     [Yes=0.04, No=0.95] vol24h=$459,650
+  Will FC Bayern München win on 2026-09-18?                  [Yes=0.94, No=0.07] vol24h=$1,035,000
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.79, No=0.21] vol24h=$1,034,887
+  LoL: Natus Vincere vs Movistar KOI - Game 1 Winner         [Natus Vincere=1.00, Movistar KOI=0.00] vol24h=$930,363
+  LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs    [Natus Vincere=0.47, Movistar KOI=0.54] vol24h=$809,628
+  Will François Ruffin win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$569,372
+  Will China invade Taiwan by end of 2026?                   [Yes=0.04, No=0.96] vol24h=$518,608
+  Will Chelsea FC win on 2026-09-18?                         [Yes=0.38, No=0.62] vol24h=$467,441
+  Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5           [Over=0.56, Under=0.45] vol24h=$452,657
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,056
+  Will Elon Musk post 180-199 tweets from September 11 to Se [Yes=0.00, No=1.00] vol24h=$393,979
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
