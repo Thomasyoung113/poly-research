@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-18 00:37 UTC
+Pattern report @ 2026-09-18 06:12 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Lions vs. Bills                                            [Lions=0.26, Bills=0.74] vol24h=$7,440,125
-  Spread: Bills (-6.5)                                       [Bills=0.53, Lions=0.47] vol24h=$716,391
-  Will China invade Taiwan by end of 2026?                   [Yes=0.05, No=0.95] vol24h=$611,741
-  Will there be no change in Fed interest rates after the Oc [Yes=0.49, No=0.51] vol24h=$587,966
-  Spread: Bills (-5.5)                                       [Bills=0.58, Lions=0.42] vol24h=$567,360
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.77, No=0.23] vol24h=$501,585
-  Putin out as President of Russia by December 31, 2026?     [Yes=0.04, No=0.95] vol24h=$464,855
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,506
-  Boston Red Sox vs. Texas Rangers                           [Boston Red Sox=0.53, Texas Rangers=0.47] vol24h=$427,109
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.51, No=0.49] vol24h=$364,327
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.77, No=0.23] vol24h=$616,306
+  Will China invade Taiwan by end of 2026?                   [Yes=0.04, No=0.96] vol24h=$520,926
+  Putin out as President of Russia by December 31, 2026?     [Yes=0.04, No=0.95] vol24h=$460,847
+  Will there be no change in Fed interest rates after the Oc [Yes=0.49, No=0.51] vol24h=$432,578
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,580
+  Will FC Bayern München win on 2026-09-18?                  [Yes=0.93, No=0.07] vol24h=$384,892
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.01, No=0.99] vol24h=$368,803
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.51, No=0.49] vol24h=$349,632
+  Will Leeds United win the 2026-27 English Premier League ( [Yes=0.00, No=1.00] vol24h=$340,783
+  Will the U.S. invade Iran before 2027?                     [Yes=0.17, No=0.83] vol24h=$278,318
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
