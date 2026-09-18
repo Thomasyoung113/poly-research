@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-18 19:56 UTC
+Pattern report @ 2026-09-18 22:52 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Chelsea FC win on 2026-09-18?                         [Yes=0.38, No=0.62] vol24h=$6,274,472
-  Will FC Bayern München win on 2026-09-18?                  [Yes=1.00, No=0.00] vol24h=$1,594,556
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.80, No=0.20] vol24h=$1,429,347
-  Will Brentford FC win on 2026-09-18?                       [Yes=0.29, No=0.70] vol24h=$1,370,026
-  LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs    [Natus Vincere=0.00, Movistar KOI=1.00] vol24h=$1,274,621
-  LoL: Natus Vincere vs Movistar KOI - Game 4 Winner         [Natus Vincere=0.00, Movistar KOI=1.00] vol24h=$889,794
-  LoL: Natus Vincere vs Movistar KOI - Game 3 Winner         [Natus Vincere=0.00, Movistar KOI=1.00] vol24h=$871,993
-  Will 1. FC Union Berlin win on 2026-09-18?                 [Yes=0.00, No=1.00] vol24h=$866,543
-  Valencia: Andrea Lazaro Garcia vs Joelle Steur             [Andrea Lazaro Garcia=0.00, Joelle Steur=1.00] vol24h=$686,737
-  Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarS [Vitality=0.86, FURIA=0.14] vol24h=$664,926
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.81, No=0.18] vol24h=$1,525,081
+  LoL: Shopify Rebellion vs Sentinels - Game 2 Winner        [Shopify Rebellion=0.00, Sentinels=1.00] vol24h=$623,604
+  Will François Ruffin win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$570,335
+  LoL: Shopify Rebellion vs Sentinels - Game 3 Winner        [Shopify Rebellion=1.00, Sentinels=0.00] vol24h=$505,360
+  Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5           [Over=0.56, Under=0.45] vol24h=$480,600
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$443,367
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$430,686
+  Will Leeds United win the 2026-27 English Premier League ( [Yes=0.00, No=1.00] vol24h=$366,783
+  Will New People (NL) gain the most seats in the next Russi [Yes=0.17, No=0.83] vol24h=$360,783
+  Will the U.S. invade Iran before 2027?                     [Yes=0.15, No=0.84] vol24h=$360,234
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
