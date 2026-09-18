@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-18 16:41 UTC
+Pattern report @ 2026-09-18 19:56 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will FC Bayern München win on 2026-09-18?                  [Yes=0.94, No=0.07] vol24h=$1,035,000
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.79, No=0.21] vol24h=$1,034,887
-  LoL: Natus Vincere vs Movistar KOI - Game 1 Winner         [Natus Vincere=1.00, Movistar KOI=0.00] vol24h=$930,363
-  LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs    [Natus Vincere=0.47, Movistar KOI=0.54] vol24h=$809,628
-  Will François Ruffin win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$569,372
-  Will China invade Taiwan by end of 2026?                   [Yes=0.04, No=0.96] vol24h=$518,608
-  Will Chelsea FC win on 2026-09-18?                         [Yes=0.38, No=0.62] vol24h=$467,441
-  Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5           [Over=0.56, Under=0.45] vol24h=$452,657
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,056
-  Will Elon Musk post 180-199 tweets from September 11 to Se [Yes=0.00, No=1.00] vol24h=$393,979
+  Will Chelsea FC win on 2026-09-18?                         [Yes=0.38, No=0.62] vol24h=$6,274,472
+  Will FC Bayern München win on 2026-09-18?                  [Yes=1.00, No=0.00] vol24h=$1,594,556
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.80, No=0.20] vol24h=$1,429,347
+  Will Brentford FC win on 2026-09-18?                       [Yes=0.29, No=0.70] vol24h=$1,370,026
+  LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs    [Natus Vincere=0.00, Movistar KOI=1.00] vol24h=$1,274,621
+  LoL: Natus Vincere vs Movistar KOI - Game 4 Winner         [Natus Vincere=0.00, Movistar KOI=1.00] vol24h=$889,794
+  LoL: Natus Vincere vs Movistar KOI - Game 3 Winner         [Natus Vincere=0.00, Movistar KOI=1.00] vol24h=$871,993
+  Will 1. FC Union Berlin win on 2026-09-18?                 [Yes=0.00, No=1.00] vol24h=$866,543
+  Valencia: Andrea Lazaro Garcia vs Joelle Steur             [Andrea Lazaro Garcia=0.00, Joelle Steur=1.00] vol24h=$686,737
+  Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarS [Vitality=0.86, FURIA=0.14] vol24h=$664,926
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
