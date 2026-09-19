@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-19 01:26 UTC
+Pattern report @ 2026-09-19 06:06 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.74, No=0.26] vol24h=$2,282,119
-  Chicago Cubs vs. Cincinnati Reds                           [Chicago Cubs=0.09, Cincinnati Reds=0.92] vol24h=$658,764
-  Will François Ruffin win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$570,363
-  Will New People (NL) gain the most seats in the next Russi [Yes=0.24, No=0.76] vol24h=$542,942
-  Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5           [Over=0.56, Under=0.45] vol24h=$519,945
-  Kansas City Royals vs. Pittsburgh Pirates                  [Kansas City Royals=0.02, Pittsburgh Pirates=0.98] vol24h=$519,263
-  Milwaukee Brewers vs. Baltimore Orioles                    [Milwaukee Brewers=0.59, Baltimore Orioles=0.41] vol24h=$497,092
-  Portland State vs. Oregon                                  [Portland State=0.00, Oregon=1.00] vol24h=$450,117
-  Houston vs. Texas Tech                                     [Houston=0.40, Texas Tech=0.60] vol24h=$445,416
-  Sao Paulo Open: Nadia Podoroska vs Suzan Lamens            [Nadia Podoroska=1.00, Suzan Lamens=0.00] vol24h=$441,111
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.73, No=0.27] vol24h=$2,456,082
+  Portland State vs. Oregon                                  [Portland State=0.00, Oregon=1.00] vol24h=$653,074
+  Will François Ruffin win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$570,260
+  Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5           [Over=0.56, Under=0.45] vol24h=$559,972
+  Will New People (NL) gain the most seats in the next Russi [Yes=0.24, No=0.76] vol24h=$535,025
+  Will FC Barcelona win on 2026-09-19?                       [Yes=0.80, No=0.20] vol24h=$463,386
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$430,035
+  Will A Just Russia – For Truth (SRZP) gain the most seats  [Yes=0.00, No=1.00] vol24h=$417,292
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$399,946
+  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$392,022
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
