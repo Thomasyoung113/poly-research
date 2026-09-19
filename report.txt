@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-19 21:00 UTC
+Pattern report @ 2026-09-19 23:16 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.81, No=0.20] vol24h=$2,343,790
-  Will FC Barcelona win on 2026-09-19?                       [Yes=0.99, No=0.01] vol24h=$2,162,309
-  North Carolina vs. Clemson                                 [North Carolina=0.78, Clemson=0.23] vol24h=$695,490
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.07, No=0.93] vol24h=$660,888
-  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.02, No=0.98] vol24h=$592,040
-  SMU vs. Louisville                                         [SMU=0.45, Louisville=0.56] vol24h=$551,143
-  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$513,574
-  Bengals vs. Texans                                         [Bengals=0.41, Texans=0.58] vol24h=$462,104
-  Will New People (NL) gain the most seats in the next Russi [Yes=0.18, No=0.82] vol24h=$442,697
-  LSU vs. Ole Miss                                           [LSU=0.56, Ole Miss=0.43] vol24h=$415,006
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.81, No=0.20] vol24h=$2,451,772
+  SMU vs. Louisville                                         [SMU=0.02, Louisville=0.98] vol24h=$1,772,346
+  LoL: LYON vs Cloud9 - Game 2 Winner                        [LYON=1.00, Cloud9=0.00] vol24h=$874,096
+  Florida State vs. Alabama                                  [Florida State=0.29, Alabama=0.70] vol24h=$803,158
+  LSU vs. Ole Miss                                           [LSU=0.57, Ole Miss=0.42] vol24h=$742,521
+  LoL: LYON vs Cloud9 - Game 1 Winner                        [LYON=0.00, Cloud9=1.00] vol24h=$643,729
+  Will Greg Abbott win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$611,512
+  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$600,167
+  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.01, No=0.99] vol24h=$599,079
+  Will New People (NL) gain the most seats in the next Russi [Yes=0.18, No=0.82] vol24h=$596,459
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
