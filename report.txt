@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-19 18:16 UTC
+Pattern report @ 2026-09-19 21:00 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.73, No=0.27] vol24h=$2,195,759
-  LoL: Karmine Corp vs Movistar KOI - Game 1 Winner          [Karmine Corp=0.00, Movistar KOI=1.00] vol24h=$1,383,981
-  LoL: Karmine Corp vs Movistar KOI - Game 2 Winner          [Karmine Corp=0.01, Movistar KOI=0.99] vol24h=$1,378,741
-  Will FC Barcelona win on 2026-09-19?                       [Yes=0.77, No=0.23] vol24h=$1,378,189
-  Will Newcastle United FC win on 2026-09-19?                [Yes=1.00, No=0.00] vol24h=$1,271,445
-  LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs     [Karmine Corp=0.25, Movistar KOI=0.75] vol24h=$908,054
-  Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadd [Aurora Gaming=0.35, Vitality=0.65] vol24h=$888,727
-  Coastal Carolina vs. Delaware                              [Coastal Carolina=0.39, Delaware=0.61] vol24h=$746,216
-  North Carolina vs. Clemson                                 [North Carolina=0.90, Clemson=0.10] vol24h=$669,714
-  Game Handicap: KC (-1.5) vs Movistar KOI (+1.5)            [Karmine Corp=0.01, Movistar KOI=0.99] vol24h=$667,092
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.81, No=0.20] vol24h=$2,343,790
+  Will FC Barcelona win on 2026-09-19?                       [Yes=0.99, No=0.01] vol24h=$2,162,309
+  North Carolina vs. Clemson                                 [North Carolina=0.78, Clemson=0.23] vol24h=$695,490
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.07, No=0.93] vol24h=$660,888
+  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.02, No=0.98] vol24h=$592,040
+  SMU vs. Louisville                                         [SMU=0.45, Louisville=0.56] vol24h=$551,143
+  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$513,574
+  Bengals vs. Texans                                         [Bengals=0.41, Texans=0.58] vol24h=$462,104
+  Will New People (NL) gain the most seats in the next Russi [Yes=0.18, No=0.82] vol24h=$442,697
+  LSU vs. Ole Miss                                           [LSU=0.56, Ole Miss=0.43] vol24h=$415,006
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
