@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-19 06:06 UTC
+Pattern report @ 2026-09-19 11:24 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.73, No=0.27] vol24h=$2,456,082
-  Portland State vs. Oregon                                  [Portland State=0.00, Oregon=1.00] vol24h=$653,074
-  Will François Ruffin win the 2027 French presidential elec [Yes=0.00, No=1.00] vol24h=$570,260
-  Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5           [Over=0.56, Under=0.45] vol24h=$559,972
-  Will New People (NL) gain the most seats in the next Russi [Yes=0.24, No=0.76] vol24h=$535,025
-  Will FC Barcelona win on 2026-09-19?                       [Yes=0.80, No=0.20] vol24h=$463,386
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$430,035
-  Will A Just Russia – For Truth (SRZP) gain the most seats  [Yes=0.00, No=1.00] vol24h=$417,292
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$399,946
-  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$392,022
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.77, No=0.23] vol24h=$2,545,584
+  LoL: Invictus Gaming vs JD Gaming - Game 2 Winner          [Invictus Gaming=1.00, JD Gaming=0.00] vol24h=$2,341,558
+  LoL: Invictus Gaming vs JD Gaming - Game 1 Winner          [Invictus Gaming=1.00, JD Gaming=0.00] vol24h=$1,341,716
+  Will FC Barcelona win on 2026-09-19?                       [Yes=0.78, No=0.23] vol24h=$1,176,598
+  LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Fin [Invictus Gaming=0.89, JD Gaming=0.12] vol24h=$1,165,206
+  Will Arsenal FC win on 2026-09-19?                         [Yes=0.56, No=0.43] vol24h=$568,236
+  Will New People (NL) gain the most seats in the next Russi [Yes=0.21, No=0.79] vol24h=$552,895
+  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$491,745
+  Will Tottenham Hotspur FC win on 2026-09-19?               [Yes=0.52, No=0.48] vol24h=$490,682
+  Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play  [Luminosity=0.58, BBL=0.41] vol24h=$487,630
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
