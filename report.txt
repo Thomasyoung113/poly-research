@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-19 14:36 UTC
+Pattern report @ 2026-09-19 18:16 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.73, No=0.27] vol24h=$2,605,803
-  Will FC Barcelona win on 2026-09-19?                       [Yes=0.79, No=0.21] vol24h=$1,221,534
-  Will Arsenal FC win on 2026-09-19?                         [Yes=0.53, No=0.47] vol24h=$1,115,938
-  Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSerie [MOUZ=0.56, FURIA=0.45] vol24h=$1,030,282
-  Will Newcastle United FC win on 2026-09-19?                [Yes=0.91, No=0.10] vol24h=$975,779
-  Counter-Strike: MOUZ vs FURIA - Map 2 Winner               [MOUZ=1.00, FURIA=0.00] vol24h=$657,146
-  Will New People (NL) gain the most seats in the next Russi [Yes=0.24, No=0.76] vol24h=$574,853
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.07, No=0.93] vol24h=$525,224
-  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$502,820
-  Dota 2: Conventus Stellarum vs PlayTime (BO3) - PGL Wallac [Conventus Stellarum=0.23, PlayTime=0.78] vol24h=$495,987
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.73, No=0.27] vol24h=$2,195,759
+  LoL: Karmine Corp vs Movistar KOI - Game 1 Winner          [Karmine Corp=0.00, Movistar KOI=1.00] vol24h=$1,383,981
+  LoL: Karmine Corp vs Movistar KOI - Game 2 Winner          [Karmine Corp=0.01, Movistar KOI=0.99] vol24h=$1,378,741
+  Will FC Barcelona win on 2026-09-19?                       [Yes=0.77, No=0.23] vol24h=$1,378,189
+  Will Newcastle United FC win on 2026-09-19?                [Yes=1.00, No=0.00] vol24h=$1,271,445
+  LoL: Karmine Corp vs Movistar KOI (BO5) - LEC Playoffs     [Karmine Corp=0.25, Movistar KOI=0.75] vol24h=$908,054
+  Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadd [Aurora Gaming=0.35, Vitality=0.65] vol24h=$888,727
+  Coastal Carolina vs. Delaware                              [Coastal Carolina=0.39, Delaware=0.61] vol24h=$746,216
+  North Carolina vs. Clemson                                 [North Carolina=0.90, Clemson=0.10] vol24h=$669,714
+  Game Handicap: KC (-1.5) vs Movistar KOI (+1.5)            [Karmine Corp=0.01, Movistar KOI=0.99] vol24h=$667,092
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
