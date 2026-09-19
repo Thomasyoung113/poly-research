@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-19 11:24 UTC
+Pattern report @ 2026-09-19 14:36 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.77, No=0.23] vol24h=$2,545,584
-  LoL: Invictus Gaming vs JD Gaming - Game 2 Winner          [Invictus Gaming=1.00, JD Gaming=0.00] vol24h=$2,341,558
-  LoL: Invictus Gaming vs JD Gaming - Game 1 Winner          [Invictus Gaming=1.00, JD Gaming=0.00] vol24h=$1,341,716
-  Will FC Barcelona win on 2026-09-19?                       [Yes=0.78, No=0.23] vol24h=$1,176,598
-  LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Fin [Invictus Gaming=0.89, JD Gaming=0.12] vol24h=$1,165,206
-  Will Arsenal FC win on 2026-09-19?                         [Yes=0.56, No=0.43] vol24h=$568,236
-  Will New People (NL) gain the most seats in the next Russi [Yes=0.21, No=0.79] vol24h=$552,895
-  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$491,745
-  Will Tottenham Hotspur FC win on 2026-09-19?               [Yes=0.52, No=0.48] vol24h=$490,682
-  Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play  [Luminosity=0.58, BBL=0.41] vol24h=$487,630
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.73, No=0.27] vol24h=$2,605,803
+  Will FC Barcelona win on 2026-09-19?                       [Yes=0.79, No=0.21] vol24h=$1,221,534
+  Will Arsenal FC win on 2026-09-19?                         [Yes=0.53, No=0.47] vol24h=$1,115,938
+  Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSerie [MOUZ=0.56, FURIA=0.45] vol24h=$1,030,282
+  Will Newcastle United FC win on 2026-09-19?                [Yes=0.91, No=0.10] vol24h=$975,779
+  Counter-Strike: MOUZ vs FURIA - Map 2 Winner               [MOUZ=1.00, FURIA=0.00] vol24h=$657,146
+  Will New People (NL) gain the most seats in the next Russi [Yes=0.24, No=0.76] vol24h=$574,853
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.07, No=0.93] vol24h=$525,224
+  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$502,820
+  Dota 2: Conventus Stellarum vs PlayTime (BO3) - PGL Wallac [Conventus Stellarum=0.23, PlayTime=0.78] vol24h=$495,987
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
