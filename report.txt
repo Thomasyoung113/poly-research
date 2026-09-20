@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-20 06:33 UTC
+Pattern report @ 2026-09-20 12:37 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.81, No=0.18] vol24h=$1,634,197
-  Fresno State vs. San Jose State                            [Fresno State=0.95, San Jose State=0.05] vol24h=$958,549
-  Will Greg Abbott win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$611,519
-  Spread: Auburn (-4.5)                                      [Auburn=0.00, Florida=1.00] vol24h=$600,030
-  James Madison vs. San Diego State                          [James Madison=1.00, San Diego State=0.00] vol24h=$576,560
-  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.07, No=0.93] vol24h=$555,277
-  Bengals vs. Texans                                         [Bengals=0.41, Texans=0.58] vol24h=$514,739
-  James Madison vs. San Diego State: O/U 46.5                [Over=0.00, Under=1.00] vol24h=$476,909
-  Spread: KC (-5.5)                                          [KC=0.49, IND=0.51] vol24h=$469,541
-  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.01, No=0.98] vol24h=$436,499
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.86, No=0.14] vol24h=$1,756,198
+  Will Hakeem Jeffries win the 2028 Democratic presidential  [Yes=0.00, No=1.00] vol24h=$1,320,897
+  Will Manchester City FC win on 2026-09-20?                 [Yes=0.72, No=0.28] vol24h=$978,406
+  Vikings vs. Bears                                          [Vikings=0.34, Bears=0.66] vol24h=$905,744
+  Spread: BAL (-8.5)                                         [BAL=0.49, NO=0.51] vol24h=$861,551
+  Steelers vs. Patriots                                      [Steelers=0.33, Patriots=0.68] vol24h=$796,517
+  Bengals vs. Texans                                         [Bengals=0.41, Texans=0.58] vol24h=$684,565
+  Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarS [Vitality=0.77, FURIA=0.23] vol24h=$626,492
+  Will Greg Abbott win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$615,531
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.06, No=0.94] vol24h=$561,177
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=295): same-hour r=-0.054  next-hour r=-0.019  next-3h r=+0.034
-  ethereum vs 'ethereum' tone (n=280): same-hour r=+0.086  next-hour r=-0.043  next-3h r=+0.003
+  ethereum vs 'ethereum' tone (n=286): same-hour r=+0.084  next-hour r=-0.043  next-3h r=+0.002
 
 BTC dominance: 58.5%
