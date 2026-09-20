@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-20 19:38 UTC
+Pattern report @ 2026-09-20 22:41 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.96, No=0.04] vol24h=$3,564,215
-  Vikings vs. Bears                                          [Vikings=0.40, Bears=0.60] vol24h=$2,860,896
-  Panthers vs. Falcons                                       [Panthers=1.00, Falcons=0.00] vol24h=$2,796,064
-  Packers vs. Jets                                           [Packers=0.17, Jets=0.83] vol24h=$2,777,727
-  Eagles vs. Titans                                          [Eagles=0.70, Titans=0.29] vol24h=$2,572,344
-  Bengals vs. Texans                                         [Bengals=0.90, Texans=0.10] vol24h=$2,457,787
-  Spread: BAL (-8.5)                                         [BAL=0.04, NO=0.96] vol24h=$2,149,083
-  Steelers vs. Patriots                                      [Steelers=0.02, Patriots=0.98] vol24h=$2,126,066
-  Steelers vs. Patriots: O/U 41.5                            [Over=0.07, Under=0.93] vol24h=$1,346,465
-  Will Hakeem Jeffries win the 2028 Democratic presidential  [Yes=0.00, No=1.00] vol24h=$1,321,097
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.99, No=0.01] vol24h=$6,188,052
+  Commanders vs. Cowboys                                     [Commanders=0.14, Cowboys=0.85] vol24h=$2,953,239
+  Browns vs. Buccaneers                                      [Browns=1.00, Buccaneers=0.00] vol24h=$2,341,272
+  Spread: BAL (-8.5)                                         [BAL=0.00, NO=1.00] vol24h=$2,152,480
+  Jaguars vs. Broncos                                        [Jaguars=0.38, Broncos=0.62] vol24h=$1,888,071
+  Dolphins vs. 49ers                                         [Dolphins=0.00, 49ers=1.00] vol24h=$1,769,786
+  Raiders vs. Chargers                                       [Raiders=0.52, Chargers=0.48] vol24h=$1,638,646
+  Spread: Chargers (-6.5)                                    [Chargers=0.11, Raiders=0.89] vol24h=$1,380,360
+  Steelers vs. Patriots: O/U 41.5                            [Over=0.00, Under=1.00] vol24h=$1,356,686
+  Will Hakeem Jeffries win the 2028 Democratic presidential  [Yes=0.00, No=1.00] vol24h=$1,323,781
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=312): same-hour r=-0.001  next-hour r=+0.038  next-3h r=+0.020
-  ethereum vs 'ethereum' tone (n=292): same-hour r=+0.088  next-hour r=-0.042  next-3h r=+0.003
+  bitcoin vs 'bitcoin' tone (n=316): same-hour r=-0.002  next-hour r=+0.036  next-3h r=+0.019
+  ethereum vs 'ethereum' tone (n=296): same-hour r=+0.089  next-hour r=-0.044  next-3h r=+0.004
 
 BTC dominance: 58.5%
