@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-19 23:16 UTC
+Pattern report @ 2026-09-20 01:27 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.81, No=0.20] vol24h=$2,451,772
-  SMU vs. Louisville                                         [SMU=0.02, Louisville=0.98] vol24h=$1,772,346
-  LoL: LYON vs Cloud9 - Game 2 Winner                        [LYON=1.00, Cloud9=0.00] vol24h=$874,096
-  Florida State vs. Alabama                                  [Florida State=0.29, Alabama=0.70] vol24h=$803,158
-  LSU vs. Ole Miss                                           [LSU=0.57, Ole Miss=0.42] vol24h=$742,521
-  LoL: LYON vs Cloud9 - Game 1 Winner                        [LYON=0.00, Cloud9=1.00] vol24h=$643,729
-  Will Greg Abbott win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$611,512
-  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$600,167
-  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.01, No=0.99] vol24h=$599,079
-  Will New People (NL) gain the most seats in the next Russi [Yes=0.18, No=0.82] vol24h=$596,459
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.80, No=0.20] vol24h=$1,754,597
+  Florida State vs. Alabama                                  [Florida State=0.00, Alabama=1.00] vol24h=$1,570,682
+  LSU vs. Ole Miss                                           [LSU=0.27, Ole Miss=0.73] vol24h=$1,358,372
+  Will Greg Abbott win the 2028 Republican presidential nomi [Yes=0.00, No=1.00] vol24h=$611,516
+  Clarity Act (H.R.3633) signed into law in 2026?            [Yes=0.07, No=0.93] vol24h=$578,208
+  Will Yabloko gain the most seats in the next Russian parli [Yes=0.00, No=1.00] vol24h=$500,593
+  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.01, No=0.99] vol24h=$498,853
+  UFC 331: Tai Tuivasa vs. Robelis Despaigne (Heavyweight, P [Tai Tuivasa=0.00, Robelis Despaigne=1.00] vol24h=$482,887
+  Bengals vs. Texans                                         [Bengals=0.41, Texans=0.58] vol24h=$467,219
+  UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main [Alexandre Pantoja=0.41, Joshua Van=0.58] vol24h=$465,815
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
