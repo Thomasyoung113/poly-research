@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-21 01:25 UTC
+Pattern report @ 2026-09-21 06:37 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.98, No=0.02] vol24h=$6,711,794
-  Colts vs. Chiefs                                           [Colts=0.34, Chiefs=0.66] vol24h=$3,427,479
-  Spread: Chiefs (-6.5)                                      [Chiefs=0.39, Colts=0.61] vol24h=$1,484,195
-  Spread: Chargers (-6.5)                                    [Chargers=0.00, Raiders=1.00] vol24h=$1,387,333
-  Will Hakeem Jeffries win the 2028 Democratic presidential  [Yes=0.00, No=1.00] vol24h=$1,324,781
-  Spread: KC (-5.5)                                          [KC=0.43, IND=0.56] vol24h=$1,220,131
-  Spread: Broncos (-2.5)                                     [Broncos=1.00, Jaguars=0.00] vol24h=$1,193,550
-  Will New People (NL) gain the most seats in the next Russi [Yes=0.01, No=0.99] vol24h=$1,130,823
-  Will the Communist Party of the Russian Federation (KPRF)  [Yes=0.00, No=1.00] vol24h=$906,820
-  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.00, No=1.00] vol24h=$723,425
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.99, No=0.01] vol24h=$7,204,978
+  Will Hakeem Jeffries win the 2028 Democratic presidential  [Yes=0.00, No=1.00] vol24h=$1,325,781
+  Will New People (NL) gain the most seats in the next Russi [Yes=0.01, No=0.99] vol24h=$1,297,547
+  Will the Communist Party of the Russian Federation (KPRF)  [Yes=0.00, No=1.00] vol24h=$813,369
+  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.00, No=1.00] vol24h=$705,492
+  Will United Russia (ER) win the most seats in the next Rus [Yes=1.00, No=0.00] vol24h=$467,350
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$427,664
+  Will Phil Murphy win the 2028 Democratic presidential nomi [Yes=0.00, No=1.00] vol24h=$357,474
+  US x Iran ceasefire continues through September 20?        [Yes=1.00, No=0.00] vol24h=$291,700
+  Will the US confirm that aliens exist before 2027?         [Yes=0.03, No=0.97] vol24h=$287,145
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=316): same-hour r=-0.002  next-hour r=+0.036  next-3h r=+0.019
-  ethereum vs 'ethereum' tone (n=299): same-hour r=+0.087  next-hour r=-0.043  next-3h r=+0.004
+  ethereum vs 'ethereum' tone (n=303): same-hour r=+0.090  next-hour r=-0.039  next-3h r=+0.003
 
 BTC dominance: 58.5%
