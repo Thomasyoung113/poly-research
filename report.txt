@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-20 22:41 UTC
+Pattern report @ 2026-09-21 01:25 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.99, No=0.01] vol24h=$6,188,052
-  Commanders vs. Cowboys                                     [Commanders=0.14, Cowboys=0.85] vol24h=$2,953,239
-  Browns vs. Buccaneers                                      [Browns=1.00, Buccaneers=0.00] vol24h=$2,341,272
-  Spread: BAL (-8.5)                                         [BAL=0.00, NO=1.00] vol24h=$2,152,480
-  Jaguars vs. Broncos                                        [Jaguars=0.38, Broncos=0.62] vol24h=$1,888,071
-  Dolphins vs. 49ers                                         [Dolphins=0.00, 49ers=1.00] vol24h=$1,769,786
-  Raiders vs. Chargers                                       [Raiders=0.52, Chargers=0.48] vol24h=$1,638,646
-  Spread: Chargers (-6.5)                                    [Chargers=0.11, Raiders=0.89] vol24h=$1,380,360
-  Steelers vs. Patriots: O/U 41.5                            [Over=0.00, Under=1.00] vol24h=$1,356,686
-  Will Hakeem Jeffries win the 2028 Democratic presidential  [Yes=0.00, No=1.00] vol24h=$1,323,781
+  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.98, No=0.02] vol24h=$6,711,794
+  Colts vs. Chiefs                                           [Colts=0.34, Chiefs=0.66] vol24h=$3,427,479
+  Spread: Chiefs (-6.5)                                      [Chiefs=0.39, Colts=0.61] vol24h=$1,484,195
+  Spread: Chargers (-6.5)                                    [Chargers=0.00, Raiders=1.00] vol24h=$1,387,333
+  Will Hakeem Jeffries win the 2028 Democratic presidential  [Yes=0.00, No=1.00] vol24h=$1,324,781
+  Spread: KC (-5.5)                                          [KC=0.43, IND=0.56] vol24h=$1,220,131
+  Spread: Broncos (-2.5)                                     [Broncos=1.00, Jaguars=0.00] vol24h=$1,193,550
+  Will New People (NL) gain the most seats in the next Russi [Yes=0.01, No=0.99] vol24h=$1,130,823
+  Will the Communist Party of the Russian Federation (KPRF)  [Yes=0.00, No=1.00] vol24h=$906,820
+  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.00, No=1.00] vol24h=$723,425
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=316): same-hour r=-0.002  next-hour r=+0.036  next-3h r=+0.019
-  ethereum vs 'ethereum' tone (n=296): same-hour r=+0.089  next-hour r=-0.044  next-3h r=+0.004
+  ethereum vs 'ethereum' tone (n=299): same-hour r=+0.087  next-hour r=-0.043  next-3h r=+0.004
 
 BTC dominance: 58.5%
