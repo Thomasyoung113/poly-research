@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-21 06:37 UTC
+Pattern report @ 2026-09-21 14:27 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will United Russia (ER) gain the most seats in the next Ru [Yes=0.99, No=0.01] vol24h=$7,204,978
-  Will Hakeem Jeffries win the 2028 Democratic presidential  [Yes=0.00, No=1.00] vol24h=$1,325,781
-  Will New People (NL) gain the most seats in the next Russi [Yes=0.01, No=0.99] vol24h=$1,297,547
-  Will the Communist Party of the Russian Federation (KPRF)  [Yes=0.00, No=1.00] vol24h=$813,369
-  Will the Liberal Democratic Party of Russia (LDPR) gain th [Yes=0.00, No=1.00] vol24h=$705,492
-  Will United Russia (ER) win the most seats in the next Rus [Yes=1.00, No=0.00] vol24h=$467,350
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$427,664
-  Will Phil Murphy win the 2028 Democratic presidential nomi [Yes=0.00, No=1.00] vol24h=$357,474
-  US x Iran ceasefire continues through September 20?        [Yes=1.00, No=0.00] vol24h=$291,700
-  Will the US confirm that aliens exist before 2027?         [Yes=0.03, No=0.97] vol24h=$287,145
+  Dota 2: Yakult Brothers vs PlayTime - Game 1 Winner        [Yakult Brothers=1.00, PlayTime=0.00] vol24h=$460,110
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$460,035
+  Friedrich Merz out as Chancellor of Germany before Decembe [Yes=0.20, No=0.81] vol24h=$328,791
+  LoL: Solary vs Galions (BO1) - World Star Challengers Invi [Solary=1.00, Galions=0.00] vol24h=$324,503
+  Dota 2: LGD Gaming vs Xtreme Gaming - Game 1 Winner        [LGD Gaming=0.62, Xtreme Gaming=0.38] vol24h=$302,610
+  Will the US confirm that aliens exist before 2027?         [Yes=0.03, No=0.97] vol24h=$290,576
+  Will the price of Bitcoin be above $84,000 on September 21 [Yes=0.92, No=0.08] vol24h=$285,284
+  Will United Russia win fewer than 280 seats in the next Ru [Yes=0.00, No=1.00] vol24h=$271,501
+  Russia Elections: United Russia Wins Every Region?         [Yes=0.98, No=0.02] vol24h=$262,157
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.49, No=0.51] vol24h=$259,252
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=316): same-hour r=-0.002  next-hour r=+0.036  next-3h r=+0.019
+  bitcoin vs 'bitcoin' tone (n=330): same-hour r=+0.009  next-hour r=+0.015  next-3h r=+0.012
   ethereum vs 'ethereum' tone (n=303): same-hour r=+0.090  next-hour r=-0.039  next-3h r=+0.003
 
 BTC dominance: 58.5%
