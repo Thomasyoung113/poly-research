@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-22 18:19 UTC
+Pattern report @ 2026-09-22 21:40 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Tampa Bay Rays vs. New York Yankees                        [Tampa Bay Rays=0.17, New York Yankees=0.82] vol24h=$3,211,317
-  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$690,308
-  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$681,769
-  Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logi [Inner Circle Esports=0.86, 3DMAX=0.14] vol24h=$625,532
+  Cincinnati Reds vs. Atlanta Braves                         [Cincinnati Reds=0.30, Atlanta Braves=0.69] vol24h=$3,720,522
+  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$666,706
   Will Sarah Huckabee Sanders win the 2028 Republican presid [Yes=0.00, No=1.00] vol24h=$483,150
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,144
-  Will there be no change in Fed interest rates after the Oc [Yes=0.46, No=0.55] vol24h=$401,955
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.53, No=0.47] vol24h=$354,054
-  Will Ethereum dip to $2,250 by December 31, 2026?          [Yes=0.27, No=0.73] vol24h=$307,168
-  Trump out as President by September 30?                    [Yes=0.00, No=1.00] vol24h=$288,819
+  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$473,204
+  Strait of Hormuz traffic returns to normal by December 31? [Yes=0.24, No=0.76] vol24h=$435,283
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,170
+  Will there be no change in Fed interest rates after the Oc [Yes=0.47, No=0.54] vol24h=$391,045
+  US announces end of Iranian blockade by September 30, 2026 [Yes=0.09, No=0.92] vol24h=$390,873
+  St. Tropez: Murphy Cassone vs Clement Tabur                [Murphy Cassone=0.56, Clement Tabur=0.45] vol24h=$385,902
+  LoL: Arctic Pandas vs Pyramid IV Esports (BO3) - EMEA Mast [Arctic Pandas=0.00, Pyramid IV Esports=1.00] vol24h=$309,726
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 

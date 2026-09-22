@@ -1,23 +1,23 @@
-[kalshi] 1610 series markets + 200 general = 1810 snapshotted
+[kalshi] 1580 series markets + 200 general = 1780 snapshotted
 [binance] BTCUSDT 1m: 500 candles
 [binance] BTCUSDT 1h: 200 candles
 [binance] ETHUSDT 1m: 500 candles
 [binance] ETHUSDT 1h: 200 candles
 [binance] SOLUSDT 1m: 500 candles
 [binance] SOLUSDT 1h: 200 candles
-[binance] depth: bid $1,311,917 vs ask $440,332 (imbalance 0.75)
+[binance] depth: bid $287,520 vs ask $951,283 (imbalance 0.23)
 [fng] latest 78 (Extreme Greed), 30 days
 
 == Kalshi <-> Polymarket macro disagreement ==
-  gap 26.5c | poly 0.27 vs kalshi 0.01 | Will Ethereum dip to $2,250 by Decembe ~ KXETH-26SEP2215-B1907  <-- GAP
-  gap  6.0c | poly 0.06 vs kalshi 0.01 | Will Ethereum dip to $1,500 by Decembe ~ KXETH-26SEP2215-B1907  <-- GAP
-  gap  3.5c | poly 0.46 vs kalshi 0.49 | Will there be no change in Fed interes ~ KXFED-26OCT
-  gap  3.0c | poly 0.53 vs kalshi 0.49 | Will the Fed increase interest rates b ~ KXFED-26OCT
+  gap 26.5c | poly 0.27 vs kalshi 0.01 | Will Ethereum dip to $2,250 by Decembe ~ KXETH-26SEP2218-B1907  <-- GAP
+  gap  6.0c | poly 0.06 vs kalshi 0.01 | Will Ethereum dip to $1,500 by Decembe ~ KXETH-26SEP2218-B1907  <-- GAP
+  gap  2.0c | poly 0.53 vs kalshi 0.51 | Will the Fed increase interest rates b ~ KXFED-26OCT
+  gap  1.5c | poly 0.47 vs kalshi 0.48 | Will there be no change in Fed interes ~ KXFED-26OCT
   gap  0.2c | poly 0.01 vs kalshi 0.01 | Will the Fed increase interest rates b ~ KXFED-26OCT
 
 == Binance order flow (BTCUSDT) ==
-  last 30m taker-buy ratio: 0.425 -> sellers aggressive
-  book imbalance: 0.75 (bid-heavy), spread $0.01
+  last 30m taker-buy ratio: 0.322 -> sellers aggressive
+  book imbalance: 0.23 (ask-heavy), spread $0.01
 
 == Fear & Greed ==
   now: 78 (extreme greed), 7d 51 -> 78
