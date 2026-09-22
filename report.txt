@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-22 01:48 UTC
+Pattern report @ 2026-09-22 07:51 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Giants vs. Rams                                            [Giants=0.08, Rams=0.92] vol24h=$6,070,769
-  Spread: Rams (-6.5)                                        [Rams=0.81, Giants=0.18] vol24h=$1,696,554
-  Giants vs. Rams: O/U 47.5                                  [Over=0.32, Under=0.68] vol24h=$1,592,684
-  Toronto Blue Jays vs. Baltimore Orioles                    [Toronto Blue Jays=0.80, Baltimore Orioles=0.20] vol24h=$737,599
-  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$681,879
-  Spread: Rams (-7.5)                                        [Rams=0.76, Giants=0.24] vol24h=$598,807
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$459,777
-  Will Ethereum dip to $2,250 by December 31, 2026?          [Yes=0.27, No=0.73] vol24h=$424,255
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.53, No=0.47] vol24h=$408,978
-  Atlanta Dream vs. New York Liberty                         [Atlanta Dream=0.78, New York Liberty=0.23] vol24h=$348,000
+  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$681,861
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$459,561
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.54, No=0.47] vol24h=$393,279
+  2026 Balance of Power: R Senate, R House                   [Yes=0.07, No=0.94] vol24h=$348,522
+  Dota 2: Team Nemesis vs GamerLegion - Game 1 Winner        [Team Nemesis=0.93, GamerLegion=0.07] vol24h=$330,100
+  LoL: ⁠Movistar KOI Fénix vs Bilibili Gaming Junior (BO1) - [⁠Movistar KOI Fénix=1.00, Bilibili Gaming Junior=0.00] vol24h=$314,743
+  Will Ethereum dip to $2,250 by December 31, 2026?          [Yes=0.28, No=0.72] vol24h=$312,198
+  Trump out as President by September 30?                    [Yes=0.00, No=1.00] vol24h=$295,099
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.39, No=0.61] vol24h=$289,415
+  Will the U.S. invade Iran before 2027?                     [Yes=0.15, No=0.84] vol24h=$279,998
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=335): same-hour r=+0.011  next-hour r=+0.020  next-3h r=+0.011
-  ethereum vs 'ethereum' tone (n=321): same-hour r=+0.075  next-hour r=-0.038  next-3h r=+0.001
+  bitcoin vs 'bitcoin' tone (n=346): same-hour r=+0.013  next-hour r=+0.018  next-3h r=+0.017
+  ethereum vs 'ethereum' tone (n=326): same-hour r=+0.074  next-hour r=-0.038  next-3h r=-0.001
 
 BTC dominance: 58.5%
