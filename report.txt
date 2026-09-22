@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-22 13:39 UTC
+Pattern report @ 2026-09-22 18:19 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Dota 2: Natus Vincere vs 1win (BO3) - PGL Wallachia Group  [Natus Vincere=1.00, 1win=0.00] vol24h=$1,143,038
-  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$682,252
-  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$532,926
-  Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play C [B8=0.61, Luminosity=0.39] vol24h=$523,333
-  Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam   [Barbora Krejcikova=0.72, Anna-Lena Friedsam=0.28] vol24h=$464,646
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$427,330
-  LoL: Fuego vs DN SOOPers Challengers (BO1) - World Star Ch [Fuego=1.00, DN SOOPers Challengers=0.00] vol24h=$412,753
-  Porto: Mina Hodzic vs Elena Malygina                       [Mina Hodzic=0.00, Elena Malygina=1.00] vol24h=$392,926
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.49, No=0.51] vol24h=$384,323
-  Will there be no change in Fed interest rates after the Oc [Yes=0.49, No=0.51] vol24h=$343,857
+  Tampa Bay Rays vs. New York Yankees                        [Tampa Bay Rays=0.17, New York Yankees=0.82] vol24h=$3,211,317
+  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$690,308
+  Will Glenn Youngkin win the 2028 US Presidential Election? [Yes=0.00, No=1.00] vol24h=$681,769
+  Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logi [Inner Circle Esports=0.86, 3DMAX=0.14] vol24h=$625,532
+  Will Sarah Huckabee Sanders win the 2028 Republican presid [Yes=0.00, No=1.00] vol24h=$483,150
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,144
+  Will there be no change in Fed interest rates after the Oc [Yes=0.46, No=0.55] vol24h=$401,955
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.53, No=0.47] vol24h=$354,054
+  Will Ethereum dip to $2,250 by December 31, 2026?          [Yes=0.27, No=0.73] vol24h=$307,168
+  Trump out as President by September 30?                    [Yes=0.00, No=1.00] vol24h=$288,819
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
@@ -19,4 +19,4 @@ Pattern report @ 2026-09-22 13:39 UTC
   bitcoin vs 'bitcoin' tone (n=346): same-hour r=+0.013  next-hour r=+0.018  next-3h r=+0.017
   ethereum vs 'ethereum' tone (n=330): same-hour r=+0.074  next-hour r=-0.037  next-3h r=-0.002
 
-BTC dominance: 58.5%
+BTC dominance: 58.9%
