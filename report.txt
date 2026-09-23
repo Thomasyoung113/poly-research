@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-23 12:01 UTC
+Pattern report @ 2026-09-23 17:22 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Dota 2: Team Nemesis vs Conventus Stellarum - Game 2 Winne [Team Nemesis=0.57, Conventus Stellarum=0.42] vol24h=$586,342
-  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$566,993
-  St. Tropez: Murphy Cassone vs Clement Tabur                [Murphy Cassone=0.59, Clement Tabur=0.41] vol24h=$525,656
-  Will Sarah Huckabee Sanders win the 2028 Republican presid [Yes=0.00, No=1.00] vol24h=$484,440
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$427,442
-  LoL: Solary vs ZSK (BO1) - World Star Challengers Invitati [Solary=1.00, ZSK=0.00] vol24h=$349,621
-  Strait of Hormuz traffic returns to normal by December 31? [Yes=0.23, No=0.77] vol24h=$324,740
-  US announces end of Iranian blockade by September 30, 2026 [Yes=0.08, No=0.92] vol24h=$323,069
-  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$318,856
-  Will the US confirm that aliens exist before 2027?         [Yes=0.04, No=0.96] vol24h=$310,285
+  Washington Nationals vs. Detroit Tigers                    [Washington Nationals=0.40, Detroit Tigers=0.60] vol24h=$3,545,979
+  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$579,423
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$425,926
+  Kharg Island no longer under Iranian control by September  [Yes=0.00, No=1.00] vol24h=$425,753
+  Will there be no change in Fed interest rates after the Oc [Yes=0.32, No=0.69] vol24h=$386,117
+  Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Pla [Luminosity=0.47, 3DMAX=0.54] vol24h=$365,191
+  Strait of Hormuz traffic returns to normal by December 31? [Yes=0.20, No=0.80] vol24h=$326,329
+  Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5           [Over=0.46, Under=0.55] vol24h=$294,741
+  Will the US confirm that aliens exist before 2027?         [Yes=0.03, No=0.97] vol24h=$277,120
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.69, No=0.32] vol24h=$266,262
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
