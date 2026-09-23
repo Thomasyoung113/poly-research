@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-23 20:34 UTC
+Pattern report @ 2026-09-23 23:58 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Pla [Luminosity=0.10, 3DMAX=0.90] vol24h=$598,304
-  Kharg Island no longer under Iranian control by September  [Yes=0.00, No=1.00] vol24h=$425,751
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$425,145
-  Will there be no change in Fed interest rates after the Oc [Yes=0.35, No=0.65] vol24h=$415,203
-  Toronto Blue Jays vs. Baltimore Orioles                    [Toronto Blue Jays=0.00, Baltimore Orioles=1.00] vol24h=$412,009
-  Minnesota Twins vs. San Francisco Giants                   [Minnesota Twins=0.70, San Francisco Giants=0.29] vol24h=$399,678
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.64, No=0.36] vol24h=$356,153
-  Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5           [Over=0.00, Under=1.00] vol24h=$343,074
-  Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5        [Over=0.46, Under=0.55] vol24h=$326,262
-  Will the US confirm that aliens exist before 2027?         [Yes=0.03, No=0.97] vol24h=$285,413
+  Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Pla [Luminosity=0.00, 3DMAX=1.00] vol24h=$1,121,247
+  Atlanta Dream vs. New York Liberty                         [Atlanta Dream=0.64, New York Liberty=0.36] vol24h=$489,694
+  Kharg Island no longer under Iranian control by September  [Yes=0.00, No=1.00] vol24h=$476,734
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,655
+  Tampa Bay Rays vs. New York Yankees                        [Tampa Bay Rays=0.20, New York Yankees=0.81] vol24h=$405,703
+  Will there be no change in Fed interest rates after the Oc [Yes=0.34, No=0.66] vol24h=$393,183
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.65, No=0.35] vol24h=$354,230
+  Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5        [Over=0.46, Under=0.55] vol24h=$329,688
+  Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5       [Over=0.69, Under=0.30] vol24h=$284,866
+  Will the US confirm that aliens exist before 2027?         [Yes=0.03, No=0.97] vol24h=$284,852
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=380): same-hour r=+0.011  next-hour r=+0.028  next-3h r=+0.011
+  bitcoin vs 'bitcoin' tone (n=383): same-hour r=+0.010  next-hour r=+0.031  next-3h r=+0.010
   ethereum vs 'ethereum' tone (n=330): same-hour r=+0.074  next-hour r=-0.037  next-3h r=-0.002
 
 BTC dominance: 58.9%
