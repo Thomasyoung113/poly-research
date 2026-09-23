@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-22 21:40 UTC
+Pattern report @ 2026-09-23 00:54 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Cincinnati Reds vs. Atlanta Braves                         [Cincinnati Reds=0.30, Atlanta Braves=0.69] vol24h=$3,720,522
-  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$666,706
+  Cincinnati Reds vs. Atlanta Braves                         [Cincinnati Reds=0.54, Atlanta Braves=0.47] vol24h=$4,296,262
+  Milwaukee Brewers vs. Philadelphia Phillies                [Milwaukee Brewers=0.41, Philadelphia Phillies=0.59] vol24h=$1,022,351
+  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$617,446
+  Washington Nationals vs. Detroit Tigers                    [Washington Nationals=0.82, Detroit Tigers=0.18] vol24h=$542,439
+  Tampa Bay Rays vs. New York Yankees                        [Tampa Bay Rays=0.66, New York Yankees=0.34] vol24h=$537,786
+  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$503,138
   Will Sarah Huckabee Sanders win the 2028 Republican presid [Yes=0.00, No=1.00] vol24h=$483,150
-  Will the US confirm that aliens exist by September 30?     [Yes=0.00, No=1.00] vol24h=$473,204
-  Strait of Hormuz traffic returns to normal by December 31? [Yes=0.24, No=0.76] vol24h=$435,283
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,170
-  Will there be no change in Fed interest rates after the Oc [Yes=0.47, No=0.54] vol24h=$391,045
-  US announces end of Iranian blockade by September 30, 2026 [Yes=0.09, No=0.92] vol24h=$390,873
-  St. Tropez: Murphy Cassone vs Clement Tabur                [Murphy Cassone=0.56, Clement Tabur=0.45] vol24h=$385,902
-  LoL: Arctic Pandas vs Pyramid IV Esports (BO3) - EMEA Mast [Arctic Pandas=0.00, Pyramid IV Esports=1.00] vol24h=$309,726
+  Strait of Hormuz traffic returns to normal by December 31? [Yes=0.23, No=0.77] vol24h=$467,963
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$427,986
+  Will there be no change in Fed interest rates after the Oc [Yes=0.46, No=0.55] vol24h=$416,584
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 

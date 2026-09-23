@@ -19,7 +19,7 @@
 [gdelt] crypto attempt 1 failed: HTTP Error 429: Too Many Requests
 [gdelt] crypto attempt 2 failed: HTTP Error 429: Too Many Requests
 [gdelt] crypto attempt 3 failed: HTTP Error 429: Too Many Requests
-[db] poly_markets: 1900 rows total
-[db] poly_prices: 4517 rows total
-[db] cg_prices: 2415 rows total
+[db] poly_markets: 1920 rows total
+[db] poly_prices: 4600 rows total
+[db] cg_prices: 2431 rows total
 [db] news_tone: 1338 rows total
