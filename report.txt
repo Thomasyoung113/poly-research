@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-24 10:23 UTC
+Pattern report @ 2026-09-24 15:28 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Dota 2: Natus Vincere vs LGD Gaming - Game 1 Winner        [Natus Vincere=0.01, LGD Gaming=0.99] vol24h=$668,074
-  Will there be no change in Fed interest rates after the Oc [Yes=0.29, No=0.70] vol24h=$505,485
-  Kharg Island no longer under Iranian control by September  [Yes=0.00, No=1.00] vol24h=$473,179
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.69, No=0.32] vol24h=$464,198
-  Valorant: Team Liquid vs Paper Rex (BO3) - VCT Champions G [Team Liquid=0.21, Paper Rex=0.79] vol24h=$460,912
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$423,585
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$327,620
-  LoL: ⁠Movistar KOI Fénix vs KT Rolster Challengers (BO1) - [⁠Movistar KOI Fénix=0.00, KT Rolster Challengers=1.00] vol24h=$287,302
-  Will Norway win on 2026-09-24?                             [Yes=0.54, No=0.47] vol24h=$253,329
-  Maple Leafs vs. Senators                                   [Maple Leafs=0.99, Senators=0.01] vol24h=$221,460
+  Will Norway win on 2026-09-24?                             [Yes=0.57, No=0.42] vol24h=$991,171
+  Dota 2: Aurora vs GamerLegion - Game 2 Winner              [Aurora=0.96, GamerLegion=0.04] vol24h=$750,142
+  Kharg Island no longer under Iranian control by September  [Yes=0.00, No=1.00] vol24h=$473,379
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$458,037
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.65, No=0.35] vol24h=$433,245
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,701
+  Will there be no change in Fed interest rates after the Oc [Yes=0.34, No=0.66] vol24h=$345,130
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$317,901
+  Spread: Packers (-5.5)                                     [Packers=0.48, Falcons=0.52] vol24h=$274,839
+  Dota 2: Aurora vs GamerLegion (BO3) - PGL Wallachia Playof [Aurora=1.00, GamerLegion=0.00] vol24h=$266,997
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
