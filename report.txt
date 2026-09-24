@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-23 23:58 UTC
+Pattern report @ 2026-09-24 05:11 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Pla [Luminosity=0.00, 3DMAX=1.00] vol24h=$1,121,247
-  Atlanta Dream vs. New York Liberty                         [Atlanta Dream=0.64, New York Liberty=0.36] vol24h=$489,694
-  Kharg Island no longer under Iranian control by September  [Yes=0.00, No=1.00] vol24h=$476,734
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,655
-  Tampa Bay Rays vs. New York Yankees                        [Tampa Bay Rays=0.20, New York Yankees=0.81] vol24h=$405,703
-  Will there be no change in Fed interest rates after the Oc [Yes=0.34, No=0.66] vol24h=$393,183
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.65, No=0.35] vol24h=$354,230
-  Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5        [Over=0.46, Under=0.55] vol24h=$329,688
-  Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5       [Over=0.69, Under=0.30] vol24h=$284,866
-  Will the US confirm that aliens exist before 2027?         [Yes=0.03, No=0.97] vol24h=$284,852
+  Houston Astros vs. Seattle Mariners                        [Houston Astros=0.41, Seattle Mariners=0.59] vol24h=$652,662
+  San Diego Padres vs. Los Angeles Dodgers                   [San Diego Padres=0.97, Los Angeles Dodgers=0.03] vol24h=$641,078
+  Kharg Island no longer under Iranian control by September  [Yes=0.00, No=1.00] vol24h=$477,571
+  Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar      [Francisco Comesana=0.00, Joaquin Aguilar=1.00] vol24h=$440,708
+  Will there be no change in Fed interest rates after the Oc [Yes=0.34, No=0.66] vol24h=$435,001
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$425,830
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.65, No=0.35] vol24h=$355,800
+  Korea Open: Yexin Ma vs Kimberly Birrell                   [Yexin Ma=0.00, Kimberly Birrell=1.00] vol24h=$323,884
+  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.01, No=0.99] vol24h=$321,416
+  Korea Open: Anna Bondar vs Alina Charaeva                  [Anna Bondar=0.67, Alina Charaeva=0.34] vol24h=$243,853
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
