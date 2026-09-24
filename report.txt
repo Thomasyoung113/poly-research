@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-24 19:25 UTC
+Pattern report @ 2026-09-24 22:41 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Norway win on 2026-09-24?                             [Yes=0.79, No=0.21] vol24h=$8,654,985
-  Spread: Packers (-4.5)                                     [Packers=0.53, Falcons=0.47] vol24h=$1,452,844
-  St. Louis Cardinals vs. Pittsburgh Pirates                 [St. Louis Cardinals=0.10, Pittsburgh Pirates=0.90] vol24h=$519,418
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.66, No=0.34] vol24h=$472,657
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$472,484
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$425,416
+  Will Norway win on 2026-09-24?                             [Yes=1.00, No=0.00] vol24h=$13,363,820
+  Spread: Packers (-4.5)                                     [Packers=0.52, Falcons=0.48] vol24h=$1,576,355
+  Will Germany win on 2026-09-24?                            [Yes=0.00, No=1.00] vol24h=$677,450
+  Will Netherlands win on 2026-09-24?                        [Yes=0.00, No=1.00] vol24h=$518,690
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$472,650
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.67, No=0.34] vol24h=$454,946
+  Will Wales win on 2026-09-24?                              [Yes=0.00, No=1.00] vol24h=$433,874
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$425,786
+  Will Portugal win on 2026-09-24?                           [Yes=1.00, No=0.00] vol24h=$411,294
   Will Sarah Huckabee Sanders win the 2028 Republican presid [Yes=0.00, No=1.00] vol24h=$400,004
-  Will there be no change in Fed interest rates after the Oc [Yes=0.34, No=0.67] vol24h=$375,935
-  Will Malta win on 2026-09-24?                              [Yes=1.00, No=0.00] vol24h=$365,098
-  Will Germany win on 2026-09-24?                            [Yes=0.30, No=0.69] vol24h=$326,264
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=383): same-hour r=+0.010  next-hour r=+0.031  next-3h r=+0.010
+  bitcoin vs 'bitcoin' tone (n=405): same-hour r=+0.013  next-hour r=+0.028  next-3h r=+0.016
   ethereum vs 'ethereum' tone (n=379): same-hour r=+0.060  next-hour r=-0.022  next-3h r=+0.001
 
 BTC dominance: 59.2%
