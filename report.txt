@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-25 01:45 UTC
+Pattern report @ 2026-09-25 08:05 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Spread: Packers (-4.5)                                     [Packers=0.22, Falcons=0.78] vol24h=$2,798,489
-  Falcons vs. Packers                                        [Falcons=0.54, Packers=0.47] vol24h=$2,482,497
-  Falcons vs. Packers: O/U 43.5                              [Over=0.52, Under=0.48] vol24h=$1,755,535
-  Liberty vs. Coastal Carolina                               [Liberty=0.39, Coastal Carolina=0.61] vol24h=$673,703
-  Will Mitch Landrieu win the 2028 Democratic presidential n [Yes=0.00, No=1.00] vol24h=$566,463
-  Spread: Packers (-5.5)                                     [Packers=0.20, Falcons=0.80] vol24h=$552,673
-  Cincinnati Reds vs. Atlanta Braves                         [Cincinnati Reds=0.67, Atlanta Braves=0.34] vol24h=$485,983
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.67, No=0.34] vol24h=$460,284
-  Spread: Packers (-7.5)                                     [Packers=0.13, Falcons=0.87] vol24h=$441,876
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,921
+  Korea Open: Katie Volynets vs Kimberly Birrell             [Katie Volynets=0.33, Kimberly Birrell=0.67] vol24h=$584,166
+  Will Mitch Landrieu win the 2028 Democratic presidential n [Yes=0.00, No=1.00] vol24h=$567,076
+  Dota 2: Team Nemesis vs Natus Vincere - Game 1 Winner      [Team Nemesis=0.33, Natus Vincere=0.68] vol24h=$521,359
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.67, No=0.34] vol24h=$458,799
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,086
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$413,170
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$408,457
+  Chengdu Open: Jenson Brooksby vs Lorenzo Sonego            [Jenson Brooksby=1.00, Lorenzo Sonego=0.00] vol24h=$403,885
+  LoL: Cupid Esports vs Dplus KIA Challengers (BO1) - World  [Cupid Esports=1.00, Dplus KIA Challengers=0.00] vol24h=$400,013
+  Will Sarah Huckabee Sanders win the 2028 Republican presid [Yes=0.00, No=1.00] vol24h=$400,000
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
