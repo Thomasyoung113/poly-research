@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-25 08:05 UTC
+Pattern report @ 2026-09-25 14:04 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Korea Open: Katie Volynets vs Kimberly Birrell             [Katie Volynets=0.33, Kimberly Birrell=0.67] vol24h=$584,166
-  Will Mitch Landrieu win the 2028 Democratic presidential n [Yes=0.00, No=1.00] vol24h=$567,076
-  Dota 2: Team Nemesis vs Natus Vincere - Game 1 Winner      [Team Nemesis=0.33, Natus Vincere=0.68] vol24h=$521,359
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.67, No=0.34] vol24h=$458,799
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,086
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$413,170
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$408,457
-  Chengdu Open: Jenson Brooksby vs Lorenzo Sonego            [Jenson Brooksby=1.00, Lorenzo Sonego=0.00] vol24h=$403,885
-  LoL: Cupid Esports vs Dplus KIA Challengers (BO1) - World  [Cupid Esports=1.00, Dplus KIA Challengers=0.00] vol24h=$400,013
+  Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs [GamerLegion=0.34, 1win=0.67] vol24h=$679,846
+  Korea Open: Katie Volynets vs Kimberly Birrell             [Katie Volynets=0.33, Kimberly Birrell=0.68] vol24h=$621,497
+  Will Mitch Landrieu win the 2028 Democratic presidential n [Yes=0.00, No=1.00] vol24h=$567,086
+  Will Brazil win on 2026-09-25?                             [Yes=0.00, No=1.00] vol24h=$552,663
+  Counter-Strike: Alliance vs Sinners (BO3) - 1win Private C [Alliance=0.00, Sinners=1.00] vol24h=$488,526
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,268
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$417,364
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$409,017
   Will Sarah Huckabee Sanders win the 2028 Republican presid [Yes=0.00, No=1.00] vol24h=$400,000
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.65, No=0.35] vol24h=$320,647
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=408): same-hour r=+0.014  next-hour r=+0.026  next-3h r=+0.017
-  ethereum vs 'ethereum' tone (n=379): same-hour r=+0.060  next-hour r=-0.022  next-3h r=+0.001
+  ethereum vs 'ethereum' tone (n=396): same-hour r=+0.055  next-hour r=-0.025  next-3h r=-0.006
 
 BTC dominance: 59.2%
