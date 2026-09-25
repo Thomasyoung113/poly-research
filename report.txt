@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-25 14:04 UTC
+Pattern report @ 2026-09-25 18:49 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Dota 2: GamerLegion vs 1win (BO3) - PGL Wallachia Playoffs [GamerLegion=0.34, 1win=0.67] vol24h=$679,846
-  Korea Open: Katie Volynets vs Kimberly Birrell             [Katie Volynets=0.33, Kimberly Birrell=0.68] vol24h=$621,497
-  Will Mitch Landrieu win the 2028 Democratic presidential n [Yes=0.00, No=1.00] vol24h=$567,086
-  Will Brazil win on 2026-09-25?                             [Yes=0.00, No=1.00] vol24h=$552,663
-  Counter-Strike: Alliance vs Sinners (BO3) - 1win Private C [Alliance=0.00, Sinners=1.00] vol24h=$488,526
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,268
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$417,364
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$409,017
-  Will Sarah Huckabee Sanders win the 2028 Republican presid [Yes=0.00, No=1.00] vol24h=$400,000
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.65, No=0.35] vol24h=$320,647
+  Dota 2: Aurora vs Team Yandex - Game 1 Winner              [Aurora=1.00, Team Yandex=0.00] vol24h=$962,375
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.01, No=0.99] vol24h=$840,840
+  Will Mitch Landrieu win the 2028 Democratic presidential n [Yes=0.00, No=1.00] vol24h=$679,948
+  Korea Open: Katie Volynets vs Kimberly Birrell             [Katie Volynets=0.33, Kimberly Birrell=0.68] vol24h=$635,036
+  Will France win on 2026-09-25?                             [Yes=0.72, No=0.28] vol24h=$614,070
+  Will Georgia win on 2026-09-25?                            [Yes=0.00, No=1.00] vol24h=$514,372
+  Chicago Cubs vs. Boston Red Sox                            [Chicago Cubs=0.44, Boston Red Sox=0.56] vol24h=$473,083
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$465,932
+  Will Manchester City win the 2026-27 English Premier Leagu [Yes=0.24, No=0.76] vol24h=$448,651
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,253
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=408): same-hour r=+0.014  next-hour r=+0.026  next-3h r=+0.017
+  bitcoin vs 'bitcoin' tone (n=416): same-hour r=+0.014  next-hour r=+0.031  next-3h r=+0.012
   ethereum vs 'ethereum' tone (n=396): same-hour r=+0.055  next-hour r=-0.025  next-3h r=-0.006
 
 BTC dominance: 59.2%
