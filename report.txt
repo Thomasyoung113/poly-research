@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-26 08:01 UTC
+Pattern report @ 2026-09-26 13:23 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.01, No=0.99] vol24h=$998,829
-  Will the U.S. invade Iran before 2027?                     [Yes=0.17, No=0.83] vol24h=$755,564
-  Hangzhou Open: Quentin Halys vs Roman Safiullin            [Quentin Halys=0.32, Roman Safiullin=0.69] vol24h=$621,769
-  Dota 2: Xtreme Gaming vs GamerLegion - Game 1 Winner       [Xtreme Gaming=0.98, GamerLegion=0.02] vol24h=$590,930
-  Will Manchester City win the 2026-27 English Premier Leagu [Yes=0.23, No=0.78] vol24h=$473,613
-  Spread: Lions (-6.5)                                       [Lions=0.51, Jets=0.49] vol24h=$434,297
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,384
-  Will Spain win on 2026-09-26?                              [Yes=0.45, No=0.56] vol24h=$376,342
-  Chiefs vs. Dolphins                                        [Chiefs=0.84, Dolphins=0.15] vol24h=$369,038
-  Strait of Hormuz traffic returns to normal by December 31? [Yes=0.21, No=0.79] vol24h=$328,933
+  Will Spain win on 2026-09-26?                              [Yes=0.49, No=0.51] vol24h=$1,245,178
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$1,239,178
+  Will the U.S. invade Iran before 2027?                     [Yes=0.17, No=0.83] vol24h=$778,917
+  Dota 2: LGD Gaming vs Team Yandex - Game 1 Winner          [LGD Gaming=0.00, Team Yandex=1.00] vol24h=$652,722
+  Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Grou [LOUD=0.86, EDward Gaming=0.14] vol24h=$546,044
+  Spread: Lions (-6.5)                                       [Lions=0.52, Jets=0.48] vol24h=$477,499
+  Will Manchester City win the 2026-27 English Premier Leagu [Yes=0.23, No=0.78] vol24h=$476,753
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,972
+  US x Iran ceasefire continues through September 30?        [Yes=0.91, No=0.10] vol24h=$416,698
+  Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Clu [EYEBALLERS=0.18, K27=0.81] vol24h=$369,805
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
