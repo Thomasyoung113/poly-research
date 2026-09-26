@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-26 20:04 UTC
+Pattern report @ 2026-09-26 23:09 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Spain win on 2026-09-26?                              [Yes=0.18, No=0.81] vol24h=$3,144,085
-  Will Faroe Islands win on 2026-09-26?                      [Yes=0.00, No=1.00] vol24h=$2,999,506
-  Texas vs. Tennessee                                        [Texas=1.00, Tennessee=0.00] vol24h=$1,229,383
-  Will England win on 2026-09-26?                            [Yes=0.57, No=0.42] vol24h=$1,153,553
-  Ole Miss vs. Florida                                       [Ole Miss=0.32, Florida=0.69] vol24h=$931,029
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$884,953
-  Will the U.S. invade Iran before 2027?                     [Yes=0.17, No=0.83] vol24h=$681,697
-  UCLA vs. Maryland                                          [UCLA=0.99, Maryland=0.01] vol24h=$576,771
-  LoL: FURIA Esports vs RED Canids - Game 2 Winner           [FURIA Esports=0.00, RED Canids=1.00] vol24h=$506,519
-  Will England vs. Spain end in a draw?                      [Yes=0.24, No=0.76] vol24h=$479,978
+  Ole Miss vs. Florida                                       [Ole Miss=0.01, Florida=0.98] vol24h=$1,926,641
+  Iowa vs. Michigan                                          [Iowa=0.07, Michigan=0.93] vol24h=$923,734
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$818,268
+  Will the U.S. invade Iran before 2027?                     [Yes=0.15, No=0.84] vol24h=$801,932
+  TCU vs. UCF                                                [TCU=0.00, UCF=1.00] vol24h=$565,421
+  US x Iran ceasefire continues through September 30?        [Yes=0.90, No=0.10] vol24h=$538,834
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,923
+  UConn vs. Miami (OH)                                       [UConn=0.00, Miami (OH)=1.00] vol24h=$404,660
+  LoL: LYON vs Shopify Rebellion (BO5) - LCS Playoffs        [LYON=0.95, Shopify Rebellion=0.05] vol24h=$400,079
+  Chiefs vs. Dolphins                                        [Chiefs=0.84, Dolphins=0.15] vol24h=$373,703
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
