@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-26 17:28 UTC
+Pattern report @ 2026-09-26 20:04 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Faroe Islands win on 2026-09-26?                      [Yes=0.38, No=0.62] vol24h=$2,891,111
-  Will Spain win on 2026-09-26?                              [Yes=0.48, No=0.52] vol24h=$1,581,495
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$957,914
-  Will the U.S. invade Iran before 2027?                     [Yes=0.17, No=0.83] vol24h=$785,962
-  San Diego State vs. Toledo                                 [San Diego State=0.24, Toledo=0.76] vol24h=$683,264
-  Texas vs. Tennessee                                        [Texas=0.85, Tennessee=0.14] vol24h=$667,510
-  Counter-Strike: Sinners vs NIP (BO3) - 1win Private Club # [Sinners=0.05, NIP=0.95] vol24h=$525,630
-  Will England win on 2026-09-26?                            [Yes=0.26, No=0.74] vol24h=$487,822
-  UCLA vs. Maryland                                          [UCLA=0.56, Maryland=0.43] vol24h=$447,911
-  US x Iran ceasefire continues through September 30?        [Yes=0.92, No=0.08] vol24h=$435,328
+  Will Spain win on 2026-09-26?                              [Yes=0.18, No=0.81] vol24h=$3,144,085
+  Will Faroe Islands win on 2026-09-26?                      [Yes=0.00, No=1.00] vol24h=$2,999,506
+  Texas vs. Tennessee                                        [Texas=1.00, Tennessee=0.00] vol24h=$1,229,383
+  Will England win on 2026-09-26?                            [Yes=0.57, No=0.42] vol24h=$1,153,553
+  Ole Miss vs. Florida                                       [Ole Miss=0.32, Florida=0.69] vol24h=$931,029
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$884,953
+  Will the U.S. invade Iran before 2027?                     [Yes=0.17, No=0.83] vol24h=$681,697
+  UCLA vs. Maryland                                          [UCLA=0.99, Maryland=0.01] vol24h=$576,771
+  LoL: FURIA Esports vs RED Canids - Game 2 Winner           [FURIA Esports=0.00, RED Canids=1.00] vol24h=$506,519
+  Will England vs. Spain end in a draw?                      [Yes=0.24, No=0.76] vol24h=$479,978
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
