@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-26 23:09 UTC
+Pattern report @ 2026-09-27 01:42 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Ole Miss vs. Florida                                       [Ole Miss=0.01, Florida=0.98] vol24h=$1,926,641
-  Iowa vs. Michigan                                          [Iowa=0.07, Michigan=0.93] vol24h=$923,734
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$818,268
-  Will the U.S. invade Iran before 2027?                     [Yes=0.15, No=0.84] vol24h=$801,932
-  TCU vs. UCF                                                [TCU=0.00, UCF=1.00] vol24h=$565,421
-  US x Iran ceasefire continues through September 30?        [Yes=0.90, No=0.10] vol24h=$538,834
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,923
-  UConn vs. Miami (OH)                                       [UConn=0.00, Miami (OH)=1.00] vol24h=$404,660
-  LoL: LYON vs Shopify Rebellion (BO5) - LCS Playoffs        [LYON=0.95, Shopify Rebellion=0.05] vol24h=$400,079
-  Chiefs vs. Dolphins                                        [Chiefs=0.84, Dolphins=0.15] vol24h=$373,703
+  Oregon vs. USC                                             [Oregon=0.64, USC=0.36] vol24h=$1,114,377
+  Texas A&M vs. LSU                                          [Texas A&M=0.12, LSU=0.88] vol24h=$666,983
+  UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osma [Ilimbek Akylbek Uulu=1.00, Mehemmedeli Osmanli=0.00] vol24h=$558,562
+  US x Iran ceasefire continues through September 30?        [Yes=0.87, No=0.13] vol24h=$543,451
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$532,638
+  Missouri vs. Mississippi State                             [Missouri=0.29, Mississippi State=0.70] vol24h=$452,172
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,659
+  Louisiana vs. Charlotte                                    [Louisiana=0.99, Charlotte=0.01] vol24h=$377,379
+  Spread: LSU (-8.5)                                         [LSU=0.66, Texas A&M=0.34] vol24h=$376,387
+  Tulsa vs. Arkansas                                         [Tulsa=0.05, Arkansas=0.95] vol24h=$285,749
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
