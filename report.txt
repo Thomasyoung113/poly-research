@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-27 01:42 UTC
+Pattern report @ 2026-09-27 08:28 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Oregon vs. USC                                             [Oregon=0.64, USC=0.36] vol24h=$1,114,377
-  Texas A&M vs. LSU                                          [Texas A&M=0.12, LSU=0.88] vol24h=$666,983
-  UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osma [Ilimbek Akylbek Uulu=1.00, Mehemmedeli Osmanli=0.00] vol24h=$558,562
-  US x Iran ceasefire continues through September 30?        [Yes=0.87, No=0.13] vol24h=$543,451
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$532,638
-  Missouri vs. Mississippi State                             [Missouri=0.29, Mississippi State=0.70] vol24h=$452,172
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,659
-  Louisiana vs. Charlotte                                    [Louisiana=0.99, Charlotte=0.01] vol24h=$377,379
-  Spread: LSU (-8.5)                                         [LSU=0.66, Texas A&M=0.34] vol24h=$376,387
-  Tulsa vs. Arkansas                                         [Tulsa=0.05, Arkansas=0.95] vol24h=$285,749
+  Spread: Bills (-7.5)                                       [Bills=0.48, Chargers=0.52] vol24h=$1,032,021
+  Spread: Lions (-6.5)                                       [Lions=0.52, Jets=0.48] vol24h=$1,029,719
+  Spread: Chiefs (-10.5)                                     [Chiefs=0.46, Dolphins=0.55] vol24h=$973,757
+  US x Iran ceasefire continues through September 30?        [Yes=0.90, No=0.10] vol24h=$472,164
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$423,882
+  Panthers vs. Browns                                        [Panthers=0.55, Browns=0.46] vol24h=$421,003
+  Korea Open: Maya Joint vs Kimberly Birrell                 [Maya Joint=0.00, Kimberly Birrell=1.00] vol24h=$414,740
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$401,288
+  Will Greece win on 2026-09-27?                             [Yes=0.10, No=0.90] vol24h=$359,254
+  Seahawks vs. Commanders                                    [Seahawks=0.78, Commanders=0.23] vol24h=$314,100
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=416): same-hour r=+0.014  next-hour r=+0.031  next-3h r=+0.012
-  ethereum vs 'ethereum' tone (n=396): same-hour r=+0.055  next-hour r=-0.025  next-3h r=-0.006
+  ethereum vs 'ethereum' tone (n=403): same-hour r=+0.056  next-hour r=-0.026  next-3h r=-0.007
 
 BTC dominance: 58.3%
