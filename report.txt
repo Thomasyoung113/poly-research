@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-27 14:17 UTC
+Pattern report @ 2026-09-27 18:38 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Spread: Chiefs (-10.5)                                     [Chiefs=0.45, Dolphins=0.56] vol24h=$1,523,167
-  Spread: Bills (-7.5)                                       [Bills=0.47, Chargers=0.53] vol24h=$1,237,345
-  Spread: Lions (-6.5)                                       [Lions=0.52, Jets=0.48] vol24h=$1,014,304
-  Chiefs vs. Dolphins                                        [Chiefs=0.84, Dolphins=0.15] vol24h=$864,551
-  Dota 2: Team Yandex vs Natus Vincere - Game 1 Winner       [Team Yandex=1.00, Natus Vincere=0.00] vol24h=$583,807
-  Spread: 49ers (-7.5)                                       [49ers=0.49, Cardinals=0.51] vol24h=$491,286
-  Panthers vs. Browns: O/U 42.5                              [Over=0.47, Under=0.54] vol24h=$485,443
-  Bengals vs. Steelers                                       [Bengals=0.61, Steelers=0.39] vol24h=$470,829
-  LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO5) [Dplus KIA Challengers=0.00, DN SOOPers Challengers=1.00] vol24h=$454,372
-  Will Greece win on 2026-09-27?                             [Yes=0.12, No=0.88] vol24h=$442,650
+  Chiefs vs. Dolphins                                        [Chiefs=0.88, Dolphins=0.12] vol24h=$4,208,270
+  Patriots vs. Jaguars                                       [Patriots=0.15, Jaguars=0.84] vol24h=$2,113,078
+  Spread: Bills (-7.5)                                       [Bills=0.29, Chargers=0.71] vol24h=$1,999,982
+  Spread: Chiefs (-10.5)                                     [Chiefs=0.47, Dolphins=0.53] vol24h=$1,987,535
+  Spread: Lions (-6.5)                                       [Lions=0.51, Jets=0.49] vol24h=$1,759,758
+  Texans vs. Colts                                           [Texans=0.28, Colts=0.71] vol24h=$1,732,878
+  Spread: Giants (-2.5)                                      [Giants=0.76, Titans=0.24] vol24h=$1,633,884
+  Seahawks vs. Commanders                                    [Seahawks=0.69, Commanders=0.30] vol24h=$1,586,138
+  Panthers vs. Browns                                        [Panthers=0.23, Browns=0.78] vol24h=$1,436,554
+  Chargers vs. Bills                                         [Chargers=0.33, Bills=0.68] vol24h=$1,436,038
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=428): same-hour r=+0.017  next-hour r=+0.032  next-3h r=+0.012
-  ethereum vs 'ethereum' tone (n=403): same-hour r=+0.056  next-hour r=-0.026  next-3h r=-0.007
+  ethereum vs 'ethereum' tone (n=413): same-hour r=+0.055  next-hour r=-0.028  next-3h r=-0.006
 
 BTC dominance: 58.4%
