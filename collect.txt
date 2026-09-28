@@ -8,8 +8,8 @@
 [cg] solana failed: HTTP Error 429: Too Many Requests
 [cg] global failed: HTTP Error 429: Too Many Requests
 [gdelt] bitcoin attempt 1 failed: HTTP Error 429: Too Many Requests
-[gdelt] bitcoin attempt 2 failed: HTTP Error 429: Too Many Requests
-[gdelt] bitcoin: 119 tone points
+[gdelt] bitcoin attempt 2 failed: <urlopen error _ssl.c:993: The handshake operation timed out>
+[gdelt] bitcoin attempt 3 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 1 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 2 failed: HTTP Error 429: Too Many Requests
 [gdelt] ethereum attempt 3 failed: HTTP Error 429: Too Many Requests
@@ -19,7 +19,7 @@
 [gdelt] crypto attempt 1 failed: HTTP Error 429: Too Many Requests
 [gdelt] crypto attempt 2 failed: HTTP Error 429: Too Many Requests
 [gdelt] crypto attempt 3 failed: HTTP Error 429: Too Many Requests
-[db] poly_markets: 2440 rows total
-[db] poly_prices: 6672 rows total
-[db] cg_prices: 2934 rows total
+[db] poly_markets: 2460 rows total
+[db] poly_prices: 6753 rows total
+[db] cg_prices: 2947 rows total
 [db] news_tone: 1679 rows total
