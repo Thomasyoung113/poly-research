@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-28 01:09 UTC
+Pattern report @ 2026-09-28 07:13 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Rams vs. Broncos                                           [Rams=0.65, Broncos=0.35] vol24h=$4,000,246
-  Spread: Rams (-1.5)                                        [Rams=0.60, Broncos=0.40] vol24h=$1,487,146
-  Spread: 49ers (-7.5)                                       [49ers=0.00, Cardinals=1.00] vol24h=$1,446,456
-  Spread: Saints (-3.5)                                      [Saints=0.00, Raiders=1.00] vol24h=$1,030,266
-  Rams vs. Broncos: O/U 44.5                                 [Over=0.47, Under=0.54] vol24h=$943,243
-  Spread: Rams (-2.5)                                        [Rams=0.60, Broncos=0.40] vol24h=$884,631
-  Will Inter Miami CF win on 2026-09-27?                     [Yes=0.33, No=0.68] vol24h=$524,239
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$427,469
-  Spread: Broncos (-3.5)                                     [Broncos=0.22, Rams=0.78] vol24h=$382,327
-  Rams vs. Broncos: O/U 45.5                                 [Over=0.42, Under=0.57] vol24h=$378,957
+  Eagles vs. Bears                                           [Eagles=0.66, Bears=0.34] vol24h=$795,843
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,740
+  US x Iran ceasefire continues through September 30?        [Yes=0.95, No=0.04] vol24h=$402,684
+  Spread: Eagles (-3.5)                                      [Eagles=0.51, Bears=0.49] vol24h=$339,418
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$286,750
+  Will CF América win on 2026-09-27?                         [Yes=1.00, No=0.00] vol24h=$241,284
+  Will LA Galaxy win the 2026 MLS Cup?                       [Yes=0.01, No=0.99] vol24h=$221,548
+  Jingshan: Sijia Wei vs Yujia Huang                         [Sijia Wei=1.00, Yujia Huang=0.00] vol24h=$202,597
+  China Open, Qualification: Valeria Savinykh vs Irene Buril [Valeria Savinykh=1.00, Irene Burillo Escorihuela=0.00] vol24h=$192,541
+  Bitcoin all time high by September 30, 2026?               [Yes=0.00, No=1.00] vol24h=$191,899
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
   bitcoin vs 'bitcoin' tone (n=436): same-hour r=+0.012  next-hour r=+0.031  next-3h r=+0.012
-  ethereum vs 'ethereum' tone (n=413): same-hour r=+0.055  next-hour r=-0.028  next-3h r=-0.006
+  ethereum vs 'ethereum' tone (n=424): same-hour r=+0.056  next-hour r=-0.030  next-3h r=-0.009
 
 BTC dominance: 58.4%
