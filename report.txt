@@ -1,17 +1,17 @@
-Pattern report @ 2026-09-28 15:45 UTC
+Pattern report @ 2026-09-28 22:16 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Eagles vs. Bears                                           [Eagles=0.65, Bears=0.35] vol24h=$1,243,234
-  Spread: Eagles (-3.5)                                      [Eagles=0.51, Bears=0.49] vol24h=$428,802
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$427,025
-  Spread: Eagles (-4.5)                                      [Eagles=0.47, Bears=0.54] vol24h=$395,622
-  Will France win on 2026-09-28?                             [Yes=0.52, No=0.48] vol24h=$348,989
-  Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Cl [NIP=0.64, GamerLegion=0.36] vol24h=$337,488
-  Will New York Red Bulls win the 2026 MLS Cup?              [Yes=0.00, No=1.00] vol24h=$320,888
-  Will Portland Timbers win the 2026 MLS Cup?                [Yes=0.00, No=1.00] vol24h=$294,163
-  US x Iran ceasefire continues through September 30?        [Yes=0.96, No=0.04] vol24h=$283,226
-  Spread: Bears (-3.5)                                       [Bears=0.24, Eagles=0.76] vol24h=$275,072
+  Will France win on 2026-09-28?                             [Yes=1.00, No=0.00] vol24h=$4,230,888
+  Eagles vs. Bears                                           [Eagles=0.64, Bears=0.36] vol24h=$1,530,341
+  Will Belgium win on 2026-09-28?                            [Yes=0.00, No=1.00] vol24h=$1,484,767
+  Spread: Eagles (-3.5)                                      [Eagles=0.47, Bears=0.53] vol24h=$1,206,584
+  Eagles vs. Bears: O/U 41.5                                 [Over=0.54, Under=0.47] vol24h=$1,062,538
+  Will Sweden win on 2026-09-28?                             [Yes=1.00, No=0.00] vol24h=$888,985
+  Will Italy win on 2026-09-28?                              [Yes=1.00, No=0.00] vol24h=$797,514
+  Will Türkiye win on 2026-09-28?                            [Yes=0.00, No=1.00] vol24h=$598,870
+  Spread: Eagles (-4.5)                                      [Eagles=0.45, Bears=0.56] vol24h=$591,184
+  Will Bosnia and Herzegovina win on 2026-09-28?             [Yes=1.00, No=0.00] vol24h=$585,204
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 

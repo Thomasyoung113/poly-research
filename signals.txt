@@ -1,24 +1,19 @@
-[kalshi] 1610 series markets + 200 general = 1810 snapshotted
+[kalshi] 1580 series markets + 200 general = 1780 snapshotted
 [binance] BTCUSDT 1m: 500 candles
 [binance] BTCUSDT 1h: 200 candles
 [binance] ETHUSDT 1m: 500 candles
 [binance] ETHUSDT 1h: 200 candles
 [binance] SOLUSDT 1m: 500 candles
 [binance] SOLUSDT 1h: 200 candles
-[binance] depth: bid $2,181,125 vs ask $560,720 (imbalance 0.80)
+[binance] depth: bid $1,463,617 vs ask $341,370 (imbalance 0.81)
 [fng] latest 74 (Greed), 30 days
 
 == Kalshi <-> Polymarket macro disagreement ==
-  gap 99.5c | poly 1.00 vs kalshi 0.01 | Will the price of Bitcoin be above $76 ~ KXBTC-26OCT0217-B72250  <-- GAP
-  gap 99.2c | poly 1.00 vs kalshi 0.01 | Will the price of Bitcoin be above $82 ~ KXBTC-26OCT0217-B72250  <-- GAP
-  gap 41.5c | poly 0.77 vs kalshi 0.36 | Will the Fed increase interest rates b ~ KXFED-26DEC  <-- GAP
-  gap  1.5c | poly 0.70 vs kalshi 0.69 | Will the Fed increase interest rates b ~ KXFED-26OCT
-  gap  0.5c | poly 0.28 vs kalshi 0.29 | Will there be no change in Fed interes ~ KXFED-26OCT
-  gap  0.5c | poly 0.00 vs kalshi 0.01 | Bitcoin all time high by September 30, ~ KXBTC-26OCT0217-B72250
+  no confident macro matches this pass
 
 == Binance order flow (BTCUSDT) ==
-  last 30m taker-buy ratio: 0.419 -> sellers aggressive
-  book imbalance: 0.80 (bid-heavy), spread $0.01
+  last 30m taker-buy ratio: 0.400 -> sellers aggressive
+  book imbalance: 0.81 (bid-heavy), spread $0.01
 
 == Fear & Greed ==
   now: 74 (greed), 7d 78 -> 74
