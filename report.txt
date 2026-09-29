@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-29 16:10 UTC
+Pattern report @ 2026-09-29 21:03 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B   [1win=0.97, Natus Vincere=0.03] vol24h=$1,074,365
-  Dota 2: LGD Gaming vs Xtreme Gaming - Game 2 Winner        [LGD Gaming=0.00, Xtreme Gaming=1.00] vol24h=$606,410
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$577,996
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$434,610
-  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$377,621
-  Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Gro [LGD Gaming=0.58, Xtreme Gaming=0.41] vol24h=$304,585
-  US announces end of Iranian blockade by September 30, 2026 [Yes=0.03, No=0.97] vol24h=$291,838
-  Trump renames AI by September 30?                          [Yes=0.66, No=0.34] vol24h=$273,957
-  Bari: Pol Martin Tiffon vs Laurent Lokoli                  [Pol Martin Tiffon=0.45, Laurent Lokoli=0.56] vol24h=$254,034
-  Will Spain win on 2026-09-29?                              [Yes=0.81, No=0.18] vol24h=$248,810
+  Will England win on 2026-09-29?                            [Yes=1.00, No=0.00] vol24h=$1,454,283
+  Will Spain win on 2026-09-29?                              [Yes=1.00, No=0.00] vol24h=$1,143,780
+  Philadelphia Phillies vs. Atlanta Braves                   [Philadelphia Phillies=0.00, Atlanta Braves=1.00] vol24h=$919,833
+  Will there be no change in Fed interest rates after the Oc [Yes=0.55, No=0.46] vol24h=$682,727
+  Will Switzerland win on 2026-09-29?                        [Yes=1.00, No=0.00] vol24h=$634,939
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$595,029
+  Will Benjamin Netanyahu be the next Prime Minister of Isra [Yes=0.30, No=0.69] vol24h=$561,101
+  Will Croatia win on 2026-09-29?                            [Yes=0.00, No=1.00] vol24h=$552,070
+  Trump renames AI by September 30?                          [Yes=0.97, No=0.03] vol24h=$539,399
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$434,589
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=463): same-hour r=+0.011  next-hour r=+0.025  next-3h r=+0.006
+  bitcoin vs 'bitcoin' tone (n=476): same-hour r=+0.015  next-hour r=+0.023  next-3h r=+0.003
   ethereum vs 'ethereum' tone (n=424): same-hour r=+0.056  next-hour r=-0.030  next-3h r=-0.009
 
 BTC dominance: 58.2%
