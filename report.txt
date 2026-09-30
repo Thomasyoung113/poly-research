@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-29 21:03 UTC
+Pattern report @ 2026-09-30 00:35 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will England win on 2026-09-29?                            [Yes=1.00, No=0.00] vol24h=$1,454,283
-  Will Spain win on 2026-09-29?                              [Yes=1.00, No=0.00] vol24h=$1,143,780
-  Philadelphia Phillies vs. Atlanta Braves                   [Philadelphia Phillies=0.00, Atlanta Braves=1.00] vol24h=$919,833
-  Will there be no change in Fed interest rates after the Oc [Yes=0.55, No=0.46] vol24h=$682,727
-  Will Switzerland win on 2026-09-29?                        [Yes=1.00, No=0.00] vol24h=$634,939
-  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$595,029
-  Will Benjamin Netanyahu be the next Prime Minister of Isra [Yes=0.30, No=0.69] vol24h=$561,101
-  Will Croatia win on 2026-09-29?                            [Yes=0.00, No=1.00] vol24h=$552,070
-  Trump renames AI by September 30?                          [Yes=0.97, No=0.03] vol24h=$539,399
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$434,589
+  Chicago White Sox vs. Houston Astros                       [Chicago White Sox=1.00, Houston Astros=0.00] vol24h=$1,268,834
+  Will there be no change in Fed interest rates after the Oc [Yes=0.56, No=0.45] vol24h=$709,866
+  Will Benjamin Netanyahu be the next Prime Minister of Isra [Yes=0.30, No=0.69] vol24h=$612,381
+  Strait of Hormuz traffic returns to normal by September 30 [Yes=0.00, No=1.00] vol24h=$566,221
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$435,009
+  Putin out as President of Russia by December 31, 2026?     [Yes=0.02, No=0.98] vol24h=$423,587
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.43, No=0.56] vol24h=$392,919
+  Boston Red Sox vs. New York Yankees                        [Boston Red Sox=0.43, New York Yankees=0.56] vol24h=$387,470
+  Will Manuel Bompard win the 2027 French presidential elect [Yes=0.00, No=1.00] vol24h=$350,000
+  Will Samuel Alito announce his retirement by September 30, [Yes=0.00, No=1.00] vol24h=$341,390
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=476): same-hour r=+0.015  next-hour r=+0.023  next-3h r=+0.003
-  ethereum vs 'ethereum' tone (n=424): same-hour r=+0.056  next-hour r=-0.030  next-3h r=-0.009
+  bitcoin vs 'bitcoin' tone (n=482): same-hour r=+0.025  next-hour r=+0.013  next-3h r=-0.009
+  ethereum vs 'ethereum' tone (n=462): same-hour r=+0.049  next-hour r=-0.042  next-3h r=-0.028
 
 BTC dominance: 58.2%
