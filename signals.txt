@@ -1,23 +1,24 @@
-[kalshi] 1610 series markets + 200 general = 1810 snapshotted
+[kalshi] series KXSHUTDOWN failed: HTTP Error 429: Too Many Requests
+[kalshi] general page failed: HTTP Error 429: Too Many Requests
+[kalshi] 1610 series markets + 0 general = 1610 snapshotted
 [binance] BTCUSDT 1m: 500 candles
 [binance] BTCUSDT 1h: 200 candles
 [binance] ETHUSDT 1m: 500 candles
 [binance] ETHUSDT 1h: 200 candles
 [binance] SOLUSDT 1m: 500 candles
 [binance] SOLUSDT 1h: 200 candles
-[binance] depth: bid $300,700 vs ask $1,820,060 (imbalance 0.14)
+[binance] depth: bid $1,003,740 vs ask $1,977,783 (imbalance 0.34)
 [fng] latest 71 (Greed), 30 days
 
 == Kalshi <-> Polymarket macro disagreement ==
-  gap 65.5c | poly 0.66 vs kalshi 0.00 | Will there be no change in Fed interes ~ KXFED-26OCT  <-- GAP
-  gap 32.0c | poly 0.34 vs kalshi 0.66 | Will the Fed increase interest rates b ~ KXFED-26OCT  <-- GAP
-  gap 31.9c | poly 0.01 vs kalshi 0.33 | Will the Fed increase interest rates b ~ KXFED-26OCT  <-- GAP
-  gap  6.0c | poly 0.07 vs kalshi 0.01 | Will the price of Bitcoin be above $86 ~ KXBTC-26OCT0217-B72250  <-- GAP
-  gap  0.2c | poly 0.00 vs kalshi 0.00 | Will the Fed decrease interest rates b ~ KXFED-26OCT
+  gap 65.0c | poly 0.66 vs kalshi 0.01 | Will there be no change in Fed interes ~ KXFED-26OCT  <-- GAP
+  gap 33.9c | poly 0.01 vs kalshi 0.34 | Will the Fed increase interest rates b ~ KXFED-26OCT  <-- GAP
+  gap 29.5c | poly 0.34 vs kalshi 0.63 | Will the Fed increase interest rates b ~ KXFED-26OCT  <-- GAP
+  gap  0.8c | poly 0.00 vs kalshi 0.01 | Will the Fed decrease interest rates b ~ KXFED-26DEC
 
 == Binance order flow (BTCUSDT) ==
-  last 30m taker-buy ratio: 0.490 -> sellers aggressive
-  book imbalance: 0.14 (ask-heavy), spread $0.01
+  last 30m taker-buy ratio: 0.420 -> sellers aggressive
+  book imbalance: 0.34 (ask-heavy), spread $0.01
 
 == Fear & Greed ==
   now: 71 (greed), 7d 71 -> 71
