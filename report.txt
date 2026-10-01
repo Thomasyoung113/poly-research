@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-01 13:38 UTC
+Pattern report @ 2026-10-01 19:50 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Steelers vs. Browns                                        [Steelers=0.57, Browns=0.42] vol24h=$515,208
-  Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)               [Nongshim RedForce=0.77, XLG Gaming=0.23] vol24h=$507,358
-  Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Cham [XLG Gaming=0.07, Nongshim RedForce=0.94] vol24h=$479,333
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$446,327
-  Will Norway win on 2026-10-01?                             [Yes=0.68, No=0.33] vol24h=$441,528
-  China Open: Learner Tien vs Hubert Hurkacz                 [Learner Tien=0.00, Hubert Hurkacz=1.00] vol24h=$438,247
-  Valorant: XLG Gaming vs Nongshim RedForce - Map 1 Winner   [XLG Gaming=0.00, Nongshim RedForce=1.00] vol24h=$429,900
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.35, No=0.65] vol24h=$400,014
-  Will there be no change in Fed interest rates after the Oc [Yes=0.64, No=0.36] vol24h=$384,580
-  Will Geraldo Alckmin win the 2026 Brazilian presidential e [Yes=0.00, No=1.00] vol24h=$368,813
+  Will Portugal win on 2026-10-01?                           [Yes=0.71, No=0.28] vol24h=$2,689,303
+  Will Norway win on 2026-10-01?                             [Yes=0.48, No=0.52] vol24h=$1,024,285
+  Will Netherlands win on 2026-10-01?                        [Yes=0.07, No=0.94] vol24h=$898,086
+  Will there be no change in Fed interest rates after the Oc [Yes=0.76, No=0.24] vol24h=$749,311
+  Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episod [FaZe=0.72, Nemiga=0.28] vol24h=$741,945
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.23, No=0.77] vol24h=$549,179
+  Steelers vs. Browns                                        [Steelers=0.57, Browns=0.42] vol24h=$546,374
+  Philadelphia Phillies vs. Atlanta Braves                   [Philadelphia Phillies=0.49, Atlanta Braves=0.51] vol24h=$498,400
+  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$497,262
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$447,970
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
