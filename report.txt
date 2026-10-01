@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-01 00:06 UTC
+Pattern report @ 2026-10-01 06:19 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Chicago White Sox vs. Houston Astros                       [Chicago White Sox=0.96, Houston Astros=0.04] vol24h=$1,293,119
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.34, No=0.67] vol24h=$707,926
-  Will Ethereum reach $4,000 in September?                   [Yes=0.00, No=1.00] vol24h=$692,449
-  Will there be no change in Fed interest rates after the Oc [Yes=0.66, No=0.34] vol24h=$550,876
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$505,626
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$445,062
-  Will Norway win on 2026-10-01?                             [Yes=0.68, No=0.33] vol24h=$352,819
-  Chicago Cubs vs. San Diego Padres                          [Chicago Cubs=0.43, San Diego Padres=0.56] vol24h=$317,993
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$308,075
-  Boston Red Sox vs. New York Yankees                        [Boston Red Sox=0.45, New York Yankees=0.56] vol24h=$305,742
+  China Open: Qinwen Zheng vs Han Shi                        [Qinwen Zheng=1.00, Han Shi=0.00] vol24h=$770,129
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.34, No=0.67] vol24h=$685,071
+  Will there be no change in Fed interest rates after the Oc [Yes=0.66, No=0.34] vol24h=$550,349
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$460,502
+  Will Norway win on 2026-10-01?                             [Yes=0.68, No=0.33] vol24h=$391,050
+  Will Geraldo Alckmin win the 2026 Brazilian presidential e [Yes=0.00, No=1.00] vol24h=$367,128
+  Japan Open Tennis Championships: Tomas Etcheverry vs Stefa [Tomas Etcheverry=0.00, Stefanos Tsitsipas=1.00] vol24h=$352,451
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$323,974
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$280,868
+  Curitiba: Joao Lucas Da Silva vs Matheus Pucinelli de Alme [Joao Lucas Da Silva=0.00, Matheus Pucinelli de Almeida=1.00] vol24h=$273,431
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
