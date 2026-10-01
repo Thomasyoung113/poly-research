@@ -1,22 +1,22 @@
-Pattern report @ 2026-09-30 19:34 UTC
+Pattern report @ 2026-10-01 00:06 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Philadelphia Phillies vs. Atlanta Braves                   [Philadelphia Phillies=0.48, Atlanta Braves=0.52] vol24h=$1,471,135
-  Dota 2: Level UP vs Xtreme Gaming - Game 2 Winner          [Level UP=0.49, Xtreme Gaming=0.51] vol24h=$903,449
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.34, No=0.67] vol24h=$717,720
-  Will there be no change in Fed interest rates after the Oc [Yes=0.66, No=0.34] vol24h=$621,553
-  Will Benjamin Netanyahu be the next Prime Minister of Isra [Yes=0.33, No=0.68] vol24h=$452,396
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$444,452
-  Columbus: Darwin Blanch vs Daniel Milavsky                 [Darwin Blanch=1.00, Daniel Milavsky=0.00] vol24h=$406,288
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$373,053
-  Will Norway win on 2026-10-01?                             [Yes=0.68, No=0.33] vol24h=$349,262
-  Chicago Cubs vs. San Diego Padres                          [Chicago Cubs=0.43, San Diego Padres=0.56] vol24h=$299,108
+  Chicago White Sox vs. Houston Astros                       [Chicago White Sox=0.96, Houston Astros=0.04] vol24h=$1,293,119
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.34, No=0.67] vol24h=$707,926
+  Will Ethereum reach $4,000 in September?                   [Yes=0.00, No=1.00] vol24h=$692,449
+  Will there be no change in Fed interest rates after the Oc [Yes=0.66, No=0.34] vol24h=$550,876
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$505,626
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$445,062
+  Will Norway win on 2026-10-01?                             [Yes=0.68, No=0.33] vol24h=$352,819
+  Chicago Cubs vs. San Diego Padres                          [Chicago Cubs=0.43, San Diego Padres=0.56] vol24h=$317,993
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$308,075
+  Boston Red Sox vs. New York Yankees                        [Boston Red Sox=0.45, New York Yankees=0.56] vol24h=$305,742
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=499): same-hour r=+0.041  next-hour r=+0.017  next-3h r=-0.017
+  bitcoin vs 'bitcoin' tone (n=503): same-hour r=+0.040  next-hour r=+0.018  next-3h r=-0.017
   ethereum vs 'ethereum' tone (n=469): same-hour r=+0.049  next-hour r=-0.041  next-3h r=-0.023
 
 BTC dominance: 58.3%
