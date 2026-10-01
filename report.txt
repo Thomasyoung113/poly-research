@@ -1,22 +1,22 @@
-Pattern report @ 2026-10-01 06:19 UTC
+Pattern report @ 2026-10-01 13:38 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  China Open: Qinwen Zheng vs Han Shi                        [Qinwen Zheng=1.00, Han Shi=0.00] vol24h=$770,129
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.34, No=0.67] vol24h=$685,071
-  Will there be no change in Fed interest rates after the Oc [Yes=0.66, No=0.34] vol24h=$550,349
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$460,502
-  Will Norway win on 2026-10-01?                             [Yes=0.68, No=0.33] vol24h=$391,050
-  Will Geraldo Alckmin win the 2026 Brazilian presidential e [Yes=0.00, No=1.00] vol24h=$367,128
-  Japan Open Tennis Championships: Tomas Etcheverry vs Stefa [Tomas Etcheverry=0.00, Stefanos Tsitsipas=1.00] vol24h=$352,451
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$323,974
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$280,868
-  Curitiba: Joao Lucas Da Silva vs Matheus Pucinelli de Alme [Joao Lucas Da Silva=0.00, Matheus Pucinelli de Almeida=1.00] vol24h=$273,431
+  Steelers vs. Browns                                        [Steelers=0.57, Browns=0.42] vol24h=$515,208
+  Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)               [Nongshim RedForce=0.77, XLG Gaming=0.23] vol24h=$507,358
+  Valorant: XLG Gaming vs Nongshim RedForce (BO3) - VCT Cham [XLG Gaming=0.07, Nongshim RedForce=0.94] vol24h=$479,333
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$446,327
+  Will Norway win on 2026-10-01?                             [Yes=0.68, No=0.33] vol24h=$441,528
+  China Open: Learner Tien vs Hubert Hurkacz                 [Learner Tien=0.00, Hubert Hurkacz=1.00] vol24h=$438,247
+  Valorant: XLG Gaming vs Nongshim RedForce - Map 1 Winner   [XLG Gaming=0.00, Nongshim RedForce=1.00] vol24h=$429,900
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.35, No=0.65] vol24h=$400,014
+  Will there be no change in Fed interest rates after the Oc [Yes=0.64, No=0.36] vol24h=$384,580
+  Will Geraldo Alckmin win the 2026 Brazilian presidential e [Yes=0.00, No=1.00] vol24h=$368,813
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=503): same-hour r=+0.040  next-hour r=+0.018  next-3h r=-0.017
-  ethereum vs 'ethereum' tone (n=469): same-hour r=+0.049  next-hour r=-0.041  next-3h r=-0.023
+  bitcoin vs 'bitcoin' tone (n=517): same-hour r=+0.041  next-hour r=+0.021  next-3h r=-0.022
+  ethereum vs 'ethereum' tone (n=497): same-hour r=+0.058  next-hour r=-0.042  next-3h r=-0.040
 
 BTC dominance: 58.3%
