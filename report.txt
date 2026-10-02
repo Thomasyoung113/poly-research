@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-02 18:36 UTC
+Pattern report @ 2026-10-02 23:10 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Belgium win on 2026-10-02?                            [Yes=0.67, No=0.34] vol24h=$2,277,740
-  Will there be no change in Fed interest rates after the Oc [Yes=0.81, No=0.18] vol24h=$958,011
-  Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Epi [Luminosity=1.00, BIG=0.00] vol24h=$907,944
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.42, No=0.57] vol24h=$791,387
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.57, No=0.43] vol24h=$740,466
-  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$722,593
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$585,913
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.17, No=0.82] vol24h=$566,236
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$467,533
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$429,241
+  Will there be no change in Fed interest rates after the Oc [Yes=0.82, No=0.17] vol24h=$1,009,358
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.43, No=0.56] vol24h=$890,387
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.57, No=0.43] vol24h=$780,855
+  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$707,597
+  Spread: Virginia Tech (-2.5)                               [Virginia Tech=0.47, Pittsburgh=0.53] vol24h=$538,787
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.17, No=0.82] vol24h=$497,476
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$453,630
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,913
+  Rangers vs. Red Wings                                      [Rangers=0.64, Red Wings=0.36] vol24h=$402,658
+  2026 Balance of Power: R Senate, R House                   [Yes=0.07, No=0.93] vol24h=$315,927
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
