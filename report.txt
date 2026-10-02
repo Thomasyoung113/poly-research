@@ -1,22 +1,22 @@
-Pattern report @ 2026-10-02 00:06 UTC
+Pattern report @ 2026-10-02 05:59 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Steelers vs. Browns                                        [Steelers=0.59, Browns=0.41] vol24h=$1,356,620
-  Will there be no change in Fed interest rates after the Oc [Yes=0.74, No=0.26] vol24h=$800,867
-  Philadelphia Phillies vs. Atlanta Braves                   [Philadelphia Phillies=0.49, Atlanta Braves=0.51] vol24h=$658,599
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.26, No=0.74] vol24h=$552,435
-  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$491,614
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$484,118
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$447,028
-  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$390,774
-  Will the Fed increase interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$347,058
-  Will Geraldo Alckmin win the 2026 Brazilian presidential e [Yes=0.00, No=1.00] vol24h=$346,428
+  Will there be no change in Fed interest rates after the Oc [Yes=0.74, No=0.26] vol24h=$803,934
+  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$573,816
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.24, No=0.76] vol24h=$564,423
+  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$529,727
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$507,157
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$431,412
+  Japan Open Tennis Championships: Valentin Vacherot vs Stef [Valentin Vacherot=0.88, Stefanos Tsitsipas=0.12] vol24h=$429,622
+  China Open: Viktorija Golubic vs Peyton Stearns            [Viktorija Golubic=1.00, Peyton Stearns=0.00] vol24h=$427,229
+  2026 Balance of Power: R Senate, R House                   [Yes=0.07, No=0.93] vol24h=$355,712
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$349,249
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
 == News tone (GDELT hourly) vs coin returns ==
-  bitcoin vs 'bitcoin' tone (n=517): same-hour r=+0.041  next-hour r=+0.021  next-3h r=-0.022
-  ethereum vs 'ethereum' tone (n=497): same-hour r=+0.058  next-hour r=-0.042  next-3h r=-0.040
+  bitcoin vs 'bitcoin' tone (n=533): same-hour r=+0.042  next-hour r=+0.019  next-3h r=-0.013
+  ethereum vs 'ethereum' tone (n=513): same-hour r=+0.057  next-hour r=-0.041  next-3h r=-0.040
 
 BTC dominance: 58.3%
