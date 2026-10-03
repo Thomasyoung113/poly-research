@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-03 18:14 UTC
+Pattern report @ 2026-10-03 21:38 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Indiana enact a data center moratorium by December 31 [Yes=0.10, No=0.91] vol24h=$1,976,210
-  Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last  [LGD Gaming=1.00, GamerLegion=0.00] vol24h=$1,469,719
-  Alabama vs. Mississippi State                              [Alabama=0.86, Mississippi State=0.14] vol24h=$1,469,101
-  Will England win on 2026-10-03?                            [Yes=1.00, No=0.00] vol24h=$1,336,899
-  Dota 2: Team Spirit vs Team Yandex - Game 1 Winner         [Team Spirit=0.00, Team Yandex=1.00] vol24h=$926,576
-  Dota 2: 1win vs OG - Game 1 Winner                         [1win=0.00, OG=1.00] vol24h=$862,613
-  Will Anthropic announce bankruptcy by December 31, 2027?   [Yes=0.10, No=0.90] vol24h=$853,871
-  Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League [G2=0.23, Natus Vincere=0.78] vol24h=$821,613
-  Spread: Alabama (-5.5)                                     [Alabama=0.73, Mississippi State=0.27] vol24h=$695,039
-  Dota 2: 1win vs OG (BO3) - BLAST Slam Last Chance Qualifie [1win=0.96, OG=0.04] vol24h=$589,628
+  Will Spain win on 2026-10-03?                              [Yes=1.00, No=0.00] vol24h=$2,042,578
+  Will Indiana enact a data center moratorium by December 31 [Yes=0.10, No=0.91] vol24h=$1,976,891
+  Florida vs. Missouri                                       [Florida=0.28, Missouri=0.71] vol24h=$1,766,890
+  Atlanta Braves vs. Los Angeles Dodgers                     [Atlanta Braves=0.12, Los Angeles Dodgers=0.88] vol24h=$1,504,620
+  Will Anthropic announce bankruptcy by December 31, 2027?   [Yes=0.10, No=0.91] vol24h=$1,014,693
+  LoL: Cloud9 vs LYON (BO5) - LCS Playoffs                   [Cloud9=0.63, LYON=0.37] vol24h=$728,100
+  Spread: Ohio State (-14.5)                                 [Ohio State=0.65, Iowa=0.35] vol24h=$727,607
+  Will Switzerland win on 2026-10-03?                        [Yes=1.00, No=0.00] vol24h=$679,198
+  Will Czechia win on 2026-10-03?                            [Yes=0.00, No=1.00] vol24h=$541,019
+  Ohio State vs. Iowa                                        [Ohio State=0.94, Iowa=0.06] vol24h=$518,878
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
