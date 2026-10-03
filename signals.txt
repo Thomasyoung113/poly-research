@@ -1,21 +1,19 @@
-[kalshi] general page failed: HTTP Error 429: Too Many Requests
-[kalshi] 1610 series markets + 0 general = 1610 snapshotted
+[kalshi] 1610 series markets + 200 general = 1810 snapshotted
 [binance] BTCUSDT 1m: 500 candles
 [binance] BTCUSDT 1h: 200 candles
 [binance] ETHUSDT 1m: 500 candles
 [binance] ETHUSDT 1h: 200 candles
 [binance] SOLUSDT 1m: 500 candles
 [binance] SOLUSDT 1h: 200 candles
-[binance] depth: bid $1,731,321 vs ask $870,270 (imbalance 0.67)
+[binance] depth: bid $1,627,882 vs ask $630,456 (imbalance 0.72)
 [fng] latest 67 (Greed), 30 days
 
 == Kalshi <-> Polymarket macro disagreement ==
-  gap 99.5c | poly 1.00 vs kalshi 0.01 | Will the price of Bitcoin be above $74 ~ KXBTC-26OCT0310-B76750  <-- GAP
-  gap 82.5c | poly 0.82 vs kalshi 0.00 | Will there be no change in Fed interes ~ KXFED-26OCT  <-- GAP
+  no confident macro matches this pass
 
 == Binance order flow (BTCUSDT) ==
-  last 30m taker-buy ratio: 0.435 -> sellers aggressive
-  book imbalance: 0.67 (bid-heavy), spread $0.01
+  last 30m taker-buy ratio: 0.610 -> buyers aggressive
+  book imbalance: 0.72 (bid-heavy), spread $0.01
 
 == Fear & Greed ==
   now: 67 (greed), 7d 70 -> 67

@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-03 13:40 UTC
+Pattern report @ 2026-10-03 18:14 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Indiana enact a data center moratorium by December 31 [Yes=0.11, No=0.89] vol24h=$1,926,618
-  LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global  [HANJIN BRION=1.00, JD Gaming=0.00] vol24h=$1,271,581
-  LoL: Team Vitality vs BNK FEARX (BO1) - Demacia Cup Global [Team Vitality=0.00, BNK FEARX=1.00] vol24h=$933,541
-  Will Anthropic announce bankruptcy by December 31, 2027?   [Yes=0.10, No=0.90] vol24h=$856,631
-  LoL: GAM Esports vs Team WE (BO1) - Demacia Cup Global Inv [GAM Esports=0.00, Team WE=1.00] vol24h=$836,963
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.41, No=0.58] vol24h=$607,312
-  Will there be no change in Fed interest rates after the Oc [Yes=0.82, No=0.17] vol24h=$537,053
-  Counter-Strike: Spirit vs ShindeN - Map 1 Winner           [Spirit=0.00, ShindeN=1.00] vol24h=$520,718
-  2026 Balance of Power: R Senate, R House                   [Yes=0.07, No=0.94] vol24h=$488,764
-  2026 Balance of Power: D Senate, D House                   [Yes=0.65, No=0.35] vol24h=$462,602
+  Will Indiana enact a data center moratorium by December 31 [Yes=0.10, No=0.91] vol24h=$1,976,210
+  Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last  [LGD Gaming=1.00, GamerLegion=0.00] vol24h=$1,469,719
+  Alabama vs. Mississippi State                              [Alabama=0.86, Mississippi State=0.14] vol24h=$1,469,101
+  Will England win on 2026-10-03?                            [Yes=1.00, No=0.00] vol24h=$1,336,899
+  Dota 2: Team Spirit vs Team Yandex - Game 1 Winner         [Team Spirit=0.00, Team Yandex=1.00] vol24h=$926,576
+  Dota 2: 1win vs OG - Game 1 Winner                         [1win=0.00, OG=1.00] vol24h=$862,613
+  Will Anthropic announce bankruptcy by December 31, 2027?   [Yes=0.10, No=0.90] vol24h=$853,871
+  Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League [G2=0.23, Natus Vincere=0.78] vol24h=$821,613
+  Spread: Alabama (-5.5)                                     [Alabama=0.73, Mississippi State=0.27] vol24h=$695,039
+  Dota 2: 1win vs OG (BO3) - BLAST Slam Last Chance Qualifie [1win=0.96, OG=0.04] vol24h=$589,628
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
