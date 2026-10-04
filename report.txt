@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-04 13:27 UTC
+Pattern report @ 2026-10-04 17:48 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  China Open: Alexander Zverev vs Novak Djokovic             [Alexander Zverev=0.59, Novak Djokovic=0.41] vol24h=$1,491,276
-  LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global In [Team WE=0.53, HANJIN BRION=0.47] vol24h=$1,453,703
-  Colts vs. Commanders: O/U 46.5                             [Over=0.53, Under=0.47] vol24h=$1,350,861
-  LoL: Team WE vs HANJIN BRION - Game 1 Winner               [Team WE=1.00, HANJIN BRION=0.00] vol24h=$1,197,670
-  Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A  [FUT Esports=0.12, T1=0.88] vol24h=$985,407
-  Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL  [Team Falcons=0.85, Aurora Gaming=0.14] vol24h=$848,385
-  LoL: Team WE vs HANJIN BRION - Game 2 Winner               [Team WE=0.00, HANJIN BRION=1.00] vol24h=$837,891
-  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$766,674
-  Colts vs. Commanders                                       [Colts=0.67, Commanders=0.34] vol24h=$727,811
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.63, No=0.37] vol24h=$589,908
+  Cowboys vs. Texans                                         [Cowboys=0.34, Texans=0.66] vol24h=$2,343,053
+  Patriots vs. Bills                                         [Patriots=0.32, Bills=0.69] vol24h=$1,892,873
+  Rams vs. Eagles                                            [Rams=0.60, Eagles=0.40] vol24h=$1,852,004
+  Colts vs. Commanders: O/U 46.5                             [Over=0.00, Under=1.00] vol24h=$1,725,178
+  Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro  [Vitality=0.86, Natus Vincere=0.14] vol24h=$1,393,658
+  Spread: Bills (-6.5)                                       [Bills=0.42, Patriots=0.57] vol24h=$1,195,242
+  Spread: Colts (-4.5)                                       [Colts=1.00, Commanders=0.00] vol24h=$1,147,965
+  Jaguars vs. Bengals                                        [Jaguars=0.43, Bengals=0.56] vol24h=$1,140,248
+  Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Ep [Nemiga=0.29, Astralis=0.71] vol24h=$1,122,618
+  Spread: Rams (-3.5)                                        [Rams=0.46, Eagles=0.55] vol24h=$1,112,801
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
