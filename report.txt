@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-03 21:38 UTC
+Pattern report @ 2026-10-04 00:53 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Spain win on 2026-10-03?                              [Yes=1.00, No=0.00] vol24h=$2,042,578
-  Will Indiana enact a data center moratorium by December 31 [Yes=0.10, No=0.91] vol24h=$1,976,891
-  Florida vs. Missouri                                       [Florida=0.28, Missouri=0.71] vol24h=$1,766,890
-  Atlanta Braves vs. Los Angeles Dodgers                     [Atlanta Braves=0.12, Los Angeles Dodgers=0.88] vol24h=$1,504,620
-  Will Anthropic announce bankruptcy by December 31, 2027?   [Yes=0.10, No=0.91] vol24h=$1,014,693
-  LoL: Cloud9 vs LYON (BO5) - LCS Playoffs                   [Cloud9=0.63, LYON=0.37] vol24h=$728,100
-  Spread: Ohio State (-14.5)                                 [Ohio State=0.65, Iowa=0.35] vol24h=$727,607
-  Will Switzerland win on 2026-10-03?                        [Yes=1.00, No=0.00] vol24h=$679,198
-  Will Czechia win on 2026-10-03?                            [Yes=0.00, No=1.00] vol24h=$541,019
-  Ohio State vs. Iowa                                        [Ohio State=0.94, Iowa=0.06] vol24h=$518,878
+  Will Indiana enact a data center moratorium by December 31 [Yes=0.10, No=0.91] vol24h=$1,976,934
+  Will Anthropic announce bankruptcy by December 31, 2027?   [Yes=0.10, No=0.91] vol24h=$1,082,284
+  Army vs. Louisiana Tech                                    [Army=0.34, Louisiana Tech=0.66] vol24h=$990,330
+  Washington vs. USC                                         [Washington=0.17, USC=0.83] vol24h=$567,542
+  Packers vs. Buccaneers                                     [Packers=0.60, Buccaneers=0.40] vol24h=$494,613
+  Spread: South Florida (-5.5)                               [South Florida=0.41, Temple=0.58] vol24h=$480,873
+  New York Yankees vs. Tampa Bay Rays                        [New York Yankees=0.10, Tampa Bay Rays=0.90] vol24h=$469,524
+  Colts vs. Commanders                                       [Colts=0.67, Commanders=0.34] vol24h=$453,759
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.64, No=0.36] vol24h=$446,930
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.35, No=0.65] vol24h=$440,532
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
