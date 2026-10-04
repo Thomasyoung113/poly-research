@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-04 07:09 UTC
+Pattern report @ 2026-10-04 13:27 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  San Jose State vs. Hawai'i                                 [San Jose State=0.89, Hawai'i=0.12] vol24h=$848,405
-  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$685,007
-  Colts vs. Commanders                                       [Colts=0.66, Commanders=0.34] vol24h=$619,588
-  China Open: Hubert Hurkacz vs Karen Khachanov              [Hubert Hurkacz=1.00, Karen Khachanov=0.00] vol24h=$556,225
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.35, No=0.65] vol24h=$526,218
-  Packers vs. Buccaneers                                     [Packers=0.60, Buccaneers=0.40] vol24h=$519,601
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.64, No=0.36] vol24h=$518,937
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,533
-  Patriots vs. Bills                                         [Patriots=0.27, Bills=0.73] vol24h=$415,584
-  Colts vs. Commanders: O/U 46.5                             [Over=0.49, Under=0.51] vol24h=$406,192
+  China Open: Alexander Zverev vs Novak Djokovic             [Alexander Zverev=0.59, Novak Djokovic=0.41] vol24h=$1,491,276
+  LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global In [Team WE=0.53, HANJIN BRION=0.47] vol24h=$1,453,703
+  Colts vs. Commanders: O/U 46.5                             [Over=0.53, Under=0.47] vol24h=$1,350,861
+  LoL: Team WE vs HANJIN BRION - Game 1 Winner               [Team WE=1.00, HANJIN BRION=0.00] vol24h=$1,197,670
+  Valorant: FUT Esports vs T1 (BO3) - VCT Champions Group A  [FUT Esports=0.12, T1=0.88] vol24h=$985,407
+  Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL  [Team Falcons=0.85, Aurora Gaming=0.14] vol24h=$848,385
+  LoL: Team WE vs HANJIN BRION - Game 2 Winner               [Team WE=0.00, HANJIN BRION=1.00] vol24h=$837,891
+  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$766,674
+  Colts vs. Commanders                                       [Colts=0.67, Commanders=0.34] vol24h=$727,811
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.63, No=0.37] vol24h=$589,908
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
