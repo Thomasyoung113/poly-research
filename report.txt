@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-04 00:53 UTC
+Pattern report @ 2026-10-04 07:09 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Indiana enact a data center moratorium by December 31 [Yes=0.10, No=0.91] vol24h=$1,976,934
-  Will Anthropic announce bankruptcy by December 31, 2027?   [Yes=0.10, No=0.91] vol24h=$1,082,284
-  Army vs. Louisiana Tech                                    [Army=0.34, Louisiana Tech=0.66] vol24h=$990,330
-  Washington vs. USC                                         [Washington=0.17, USC=0.83] vol24h=$567,542
-  Packers vs. Buccaneers                                     [Packers=0.60, Buccaneers=0.40] vol24h=$494,613
-  Spread: South Florida (-5.5)                               [South Florida=0.41, Temple=0.58] vol24h=$480,873
-  New York Yankees vs. Tampa Bay Rays                        [New York Yankees=0.10, Tampa Bay Rays=0.90] vol24h=$469,524
-  Colts vs. Commanders                                       [Colts=0.67, Commanders=0.34] vol24h=$453,759
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.64, No=0.36] vol24h=$446,930
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.35, No=0.65] vol24h=$440,532
+  San Jose State vs. Hawai'i                                 [San Jose State=0.89, Hawai'i=0.12] vol24h=$848,405
+  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$685,007
+  Colts vs. Commanders                                       [Colts=0.66, Commanders=0.34] vol24h=$619,588
+  China Open: Hubert Hurkacz vs Karen Khachanov              [Hubert Hurkacz=1.00, Karen Khachanov=0.00] vol24h=$556,225
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.35, No=0.65] vol24h=$526,218
+  Packers vs. Buccaneers                                     [Packers=0.60, Buccaneers=0.40] vol24h=$519,601
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.64, No=0.36] vol24h=$518,937
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,533
+  Patriots vs. Bills                                         [Patriots=0.27, Bills=0.73] vol24h=$415,584
+  Colts vs. Commanders: O/U 46.5                             [Over=0.49, Under=0.51] vol24h=$406,192
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
