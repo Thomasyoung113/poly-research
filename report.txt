@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-04 21:47 UTC
+Pattern report @ 2026-10-05 01:05 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Broncos vs. 49ers                                          [Broncos=0.41, 49ers=0.58] vol24h=$3,604,259
-  Will Portugal win on 2026-10-04?                           [Yes=1.00, No=0.00] vol24h=$3,485,439
-  Chiefs vs. Raiders                                         [Chiefs=0.61, Raiders=0.39] vol24h=$2,437,028
-  Atlanta Braves vs. Los Angeles Dodgers                     [Atlanta Braves=0.32, Los Angeles Dodgers=0.69] vol24h=$2,260,897
-  Dolphins vs. Vikings                                       [Dolphins=0.07, Vikings=0.93] vol24h=$1,566,107
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.86, No=0.14] vol24h=$1,333,908
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.14, No=0.86] vol24h=$1,215,621
-  Spread: Bills (-6.5)                                       [Bills=0.00, Patriots=1.00] vol24h=$1,211,499
-  Spread: Chiefs (-4.5)                                      [Chiefs=0.38, Raiders=0.62] vol24h=$1,190,114
-  Chargers vs. Seahawks                                      [Chargers=0.09, Seahawks=0.92] vol24h=$1,183,992
+  Lions vs. Panthers                                         [Lions=0.58, Panthers=0.41] vol24h=$3,634,491
+  Will Lula win the most votes in the first round of the 202 [Yes=0.00, No=1.00] vol24h=$2,825,360
+  Atlanta Braves vs. Los Angeles Dodgers                     [Atlanta Braves=0.39, Los Angeles Dodgers=0.61] vol24h=$2,418,575
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.15, No=0.84] vol24h=$2,037,829
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.84, No=0.16] vol24h=$1,993,021
+  Will Flavio Bolsonaro win the most votes in the first roun [Yes=1.00, No=0.00] vol24h=$1,986,149
+  Spread: Chiefs (-4.5)                                      [Chiefs=0.00, Raiders=1.00] vol24h=$1,213,480
+  Spread: 49ers (-2.5)                                       [49ers=1.00, Broncos=0.00] vol24h=$1,207,794
+  Will Geraldo Alckmin win the 2026 Brazilian presidential e [Yes=0.00, No=1.00] vol24h=$1,040,671
+  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$930,561
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
