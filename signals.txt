@@ -5,17 +5,17 @@
 [binance] ETHUSDT 1h: 200 candles
 [binance] SOLUSDT 1m: 500 candles
 [binance] SOLUSDT 1h: 200 candles
-[binance] depth: bid $1,002,797 vs ask $1,037,387 (imbalance 0.49)
+[binance] depth: bid $1,659,998 vs ask $1,214,838 (imbalance 0.58)
 [fng] latest 70 (Greed), 30 days
 
 == Kalshi <-> Polymarket macro disagreement ==
-  gap 22.0c | poly 0.23 vs kalshi 0.01 | Will Ethereum dip to $2,250 by Decembe ~ KXETH-26OCT0504-B1907  <-- GAP
-  gap  0.4c | poly 0.00 vs kalshi 0.00 | Will the Fed decrease interest rates b ~ KXFED-26OCT
-  gap  0.2c | poly 0.00 vs kalshi 0.00 | Will the Fed decrease interest rates b ~ KXFED-26OCT
+  gap 99.5c | poly 1.00 vs kalshi 0.01 | Will the price of Bitcoin be above $74 ~ KXBTC-26OCT0513-B75750  <-- GAP
+  gap 78.5c | poly 0.79 vs kalshi 0.00 | Will there be no change in Fed interes ~ KXFED-26OCT  <-- GAP
+  gap 23.0c | poly 0.23 vs kalshi 0.01 | Will Ethereum dip to $2,250 by Decembe ~ KXETH-26OCT0513-B1907  <-- GAP
 
 == Binance order flow (BTCUSDT) ==
-  last 30m taker-buy ratio: 0.525 -> buyers aggressive
-  book imbalance: 0.49 (ask-heavy), spread $0.01
+  last 30m taker-buy ratio: 0.426 -> sellers aggressive
+  book imbalance: 0.58 (bid-heavy), spread $0.01
 
 == Fear & Greed ==
   now: 70 (greed), 7d 73 -> 70
