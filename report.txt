@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-05 16:22 UTC
+Pattern report @ 2026-10-05 22:54 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.17, No=0.83] vol24h=$2,410,311
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.84, No=0.16] vol24h=$2,269,427
-  Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group  [M80=0.62, TYLOO=0.38] vol24h=$1,576,576
-  Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Grou [Spirit=0.16, MOUZ=0.84] vol24h=$1,406,477
-  Falcons vs. Saints                                         [Falcons=0.47, Saints=0.53] vol24h=$1,020,036
-  China Open: Coco Gauff vs Xinran Sun                       [Coco Gauff=1.00, Xinran Sun=0.00] vol24h=$741,499
-  Counter-Strike: Spirit vs MOUZ - Map 2 Winner              [Spirit=0.27, MOUZ=0.73] vol24h=$734,798
-  Counter-Strike: M80 vs TYLOO - Map 2 Winner                [M80=1.00, TYLOO=0.00] vol24h=$469,290
-  Spread: Saints (-2.5)                                      [Saints=0.47, Falcons=0.54] vol24h=$453,674
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$425,373
+  Will Sweden win on 2026-10-05?                             [Yes=1.00, No=0.00] vol24h=$6,036,102
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.17, No=0.83] vol24h=$1,850,844
+  Falcons vs. Saints                                         [Falcons=0.47, Saints=0.53] vol24h=$1,624,034
+  Bitcoin Up or Down on October 5?                           [Up=1.00, Down=0.00] vol24h=$1,400,597
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.83, No=0.17] vol24h=$1,114,379
+  Spread: Saints (-1.5)                                      [Saints=0.48, Falcons=0.52] vol24h=$848,314
+  Chicago White Sox vs. Cleveland Guardians                  [Chicago White Sox=0.32, Cleveland Guardians=0.69] vol24h=$590,218
+  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$452,186
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,574
+  Spread: Saints (-2.5)                                      [Saints=0.47, Falcons=0.54] vol24h=$399,813
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
