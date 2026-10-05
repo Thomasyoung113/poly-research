@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-05 01:05 UTC
+Pattern report @ 2026-10-05 07:19 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Lions vs. Panthers                                         [Lions=0.58, Panthers=0.41] vol24h=$3,634,491
-  Will Lula win the most votes in the first round of the 202 [Yes=0.00, No=1.00] vol24h=$2,825,360
-  Atlanta Braves vs. Los Angeles Dodgers                     [Atlanta Braves=0.39, Los Angeles Dodgers=0.61] vol24h=$2,418,575
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.15, No=0.84] vol24h=$2,037,829
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.84, No=0.16] vol24h=$1,993,021
-  Will Flavio Bolsonaro win the most votes in the first roun [Yes=1.00, No=0.00] vol24h=$1,986,149
-  Spread: Chiefs (-4.5)                                      [Chiefs=0.00, Raiders=1.00] vol24h=$1,213,480
-  Spread: 49ers (-2.5)                                       [49ers=1.00, Broncos=0.00] vol24h=$1,207,794
-  Will Geraldo Alckmin win the 2026 Brazilian presidential e [Yes=0.00, No=1.00] vol24h=$1,040,671
-  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$930,561
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.20, No=0.81] vol24h=$2,210,225
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.81, No=0.19] vol24h=$2,064,119
+  Will Geraldo Alckmin win the 2026 Brazilian presidential e [Yes=0.00, No=1.00] vol24h=$1,029,324
+  Will Flávio Bolsonaro finish in second place in the first  [Yes=0.00, No=1.00] vol24h=$801,010
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,992
+  2026 Balance of Power: D Senate, D House                   [Yes=0.67, No=0.34] vol24h=$411,436
+  Will Renan Santos win the 2026 Brazilian presidential elec [Yes=0.00, No=1.00] vol24h=$371,706
+  Will David Lisnard win the 2027 French presidential electi [Yes=0.11, No=0.89] vol24h=$367,047
+  2026 Balance of Power: R Senate, R House                   [Yes=0.07, No=0.93] vol24h=$358,547
+  Will Benjamin Netanyahu be the next Prime Minister of Isra [Yes=0.36, No=0.64] vol24h=$330,564
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
