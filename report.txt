@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-05 22:54 UTC
+Pattern report @ 2026-10-06 03:17 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Sweden win on 2026-10-05?                             [Yes=1.00, No=0.00] vol24h=$6,036,102
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.17, No=0.83] vol24h=$1,850,844
-  Falcons vs. Saints                                         [Falcons=0.47, Saints=0.53] vol24h=$1,624,034
-  Bitcoin Up or Down on October 5?                           [Up=1.00, Down=0.00] vol24h=$1,400,597
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.83, No=0.17] vol24h=$1,114,379
-  Spread: Saints (-1.5)                                      [Saints=0.48, Falcons=0.52] vol24h=$848,314
-  Chicago White Sox vs. Cleveland Guardians                  [Chicago White Sox=0.32, Cleveland Guardians=0.69] vol24h=$590,218
-  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$452,186
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,574
-  Spread: Saints (-2.5)                                      [Saints=0.47, Falcons=0.54] vol24h=$399,813
+  Falcons vs. Saints                                         [Falcons=1.00, Saints=0.00] vol24h=$4,590,675
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.15, No=0.84] vol24h=$1,528,492
+  Bitcoin Up or Down on October 5?                           [Up=1.00, Down=0.00] vol24h=$1,448,545
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.84, No=0.16] vol24h=$1,064,895
+  Spread: Saints (-1.5)                                      [Saints=0.01, Falcons=0.99] vol24h=$1,029,365
+  Falcons vs. Saints: O/U 47.5                               [Over=1.00, Under=0.00] vol24h=$720,873
+  Will the U.S. invade Iran before 2027?                     [Yes=0.14, No=0.85] vol24h=$510,465
+  Spread: Falcons (-10.5)                                    [Falcons=0.89, Saints=0.12] vol24h=$497,609
+  Spread: Saints (-2.5)                                      [Saints=0.01, Falcons=0.99] vol24h=$450,403
+  New York Yankees vs. Tampa Bay Rays                        [New York Yankees=0.02, Tampa Bay Rays=0.98] vol24h=$446,756
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
