@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-06 21:50 UTC
+Pattern report @ 2026-10-07 01:47 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Spain win on 2026-10-06?                              [Yes=1.00, No=0.00] vol24h=$7,578,669
-  Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL  [Team Falcons=0.56, Natus Vincere=0.44] vol24h=$4,017,502
-  Will Croatia win on 2026-10-06?                            [Yes=0.00, No=1.00] vol24h=$1,625,178
-  Counter-Strike: Team Falcons vs Natus Vincere - Map 2 Winn [Team Falcons=0.00, Natus Vincere=1.00] vol24h=$1,140,770
-  Spread: Spain (-1.5)                                       [Spain=0.00, Croatia=1.00] vol24h=$843,049
-  Will England win on 2026-10-06?                            [Yes=1.00, No=0.00] vol24h=$774,632
-  Croatia vs. Spain: O/U 2.5                                 [Over=1.00, Under=0.00] vol24h=$661,490
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.84, No=0.16] vol24h=$560,939
-  Antofagasta: Gustavo Heide vs Maximo Zeitune               [Gustavo Heide=1.00, Maximo Zeitune=0.00] vol24h=$549,642
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.15, No=0.84] vol24h=$514,119
+  Will Argentina win on 2026-10-06?                          [Yes=1.00, No=0.00] vol24h=$727,924
+  LoL: GAM Esports vs Shopify Rebellion (BO3) - Demacia Cup  [GAM Esports=0.43, Shopify Rebellion=0.56] vol24h=$606,209
+  US announces end of Iranian blockade by October 15, 2026?  [Yes=0.14, No=0.86] vol24h=$467,741
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$423,483
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.85, No=0.15] vol24h=$421,841
+  Will François Asselineau win the 2027 French presidential  [Yes=0.00, No=1.00] vol24h=$356,260
+  Samsun: Cagla Buyukakcay vs Linda Klimovicova              [Cagla Buyukakcay=0.07, Linda Klimovicova=0.93] vol24h=$349,256
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.15, No=0.84] vol24h=$348,103
+  2026 Balance of Power: R Senate, R House                   [Yes=0.07, No=0.93] vol24h=$301,151
+  Nets vs. Hornets                                           [Nets=1.00, Hornets=0.00] vol24h=$300,175
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
