@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-07 09:00 UTC
+Pattern report @ 2026-10-07 16:49 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  China Open: Coco Gauff vs Elise Mertens                    [Coco Gauff=0.00, Elise Mertens=1.00] vol24h=$969,960
-  Will Raphael Warnock win the 2028 Democratic presidential  [Yes=0.01, No=0.99] vol24h=$884,849
-  LoL: GAM Esports vs Shopify Rebellion (BO3) - Demacia Cup  [GAM Esports=0.20, Shopify Rebellion=0.80] vol24h=$848,925
-  Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac      [Zhizhen Zhang=0.09, Tomas Machac=0.92] vol24h=$705,644
-  US announces end of Iranian blockade by October 15, 2026?  [Yes=0.09, No=0.92] vol24h=$510,863
-  Samsun: Cagla Buyukakcay vs Linda Klimovicova              [Cagla Buyukakcay=0.09, Linda Klimovicova=0.92] vol24h=$473,932
-  LoL: GAM Esports vs FlyQuest - Game 2 Winner               [GAM Esports=0.00, FlyQuest=1.00] vol24h=$462,155
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$426,566
-  Will the Democratic Party control the House after the 2026 [Yes=0.93, No=0.07] vol24h=$373,895
-  Bitcoin Up or Down on October 5?                           [Up=1.00, Down=0.00] vol24h=$366,002
+  Counter-Strike: PARIVISION vs Natus Vincere (BO3) - ESL Pr [PARIVISION=0.41, Natus Vincere=0.59] vol24h=$1,146,597
+  Will Raphael Warnock win the 2028 Democratic presidential  [Yes=0.01, No=0.99] vol24h=$886,150
+  Counter-Strike: PARIVISION vs Natus Vincere - Map 2 Winner [PARIVISION=1.00, Natus Vincere=0.00] vol24h=$673,866
+  Putin out as President of Russia by December 31, 2026?     [Yes=0.03, No=0.97] vol24h=$639,209
+  Will Chris Van Hollen win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$470,039
+  US announces end of Iranian blockade by October 15, 2026?  [Yes=0.10, No=0.90] vol24h=$463,396
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.85, No=0.15] vol24h=$450,485
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$427,453
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$387,237
+  Will the Democratic Party control the House after the 2026 [Yes=0.93, No=0.07] vol24h=$310,654
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
