@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-07 22:09 UTC
+Pattern report @ 2026-10-08 02:13 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Cleveland Guardians vs. Chicago White Sox                  [Cleveland Guardians=0.66, Chicago White Sox=0.34] vol24h=$868,482
-  Will Chris Van Hollen win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$691,315
-  Putin out as President of Russia by December 31, 2026?     [Yes=0.03, No=0.97] vol24h=$630,095
-  Will Raphael Warnock win the 2028 Democratic presidential  [Yes=0.01, No=0.99] vol24h=$606,604
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.01, No=0.99] vol24h=$447,573
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,606
-  US announces end of Iranian blockade by October 15, 2026?  [Yes=0.12, No=0.89] vol24h=$400,010
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.85, No=0.15] vol24h=$397,410
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$380,647
-  Will the U.S. invade Iran before 2027?                     [Yes=0.15, No=0.84] vol24h=$322,344
+  Will Chris Van Hollen win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$694,565
+  Putin out as President of Russia by December 31, 2026?     [Yes=0.03, No=0.97] vol24h=$660,707
+  Will Raphael Warnock win the 2028 Democratic presidential  [Yes=0.01, No=0.99] vol24h=$606,559
+  Tampa Bay Rays vs. New York Yankees                        [Tampa Bay Rays=0.74, New York Yankees=0.26] vol24h=$489,817
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$446,295
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,708
+  US announces end of Iranian blockade by October 15, 2026?  [Yes=0.10, No=0.90] vol24h=$427,061
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.84, No=0.16] vol24h=$409,930
+  2026 Balance of Power: R Senate, D House                   [Yes=0.28, No=0.72] vol24h=$402,880
+  Jacksonville State vs. Kennesaw State                      [Jacksonville State=0.59, Kennesaw State=0.41] vol24h=$387,888
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
