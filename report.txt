@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-08 02:13 UTC
+Pattern report @ 2026-10-08 09:19 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Chris Van Hollen win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$694,565
-  Putin out as President of Russia by December 31, 2026?     [Yes=0.03, No=0.97] vol24h=$660,707
-  Will Raphael Warnock win the 2028 Democratic presidential  [Yes=0.01, No=0.99] vol24h=$606,559
-  Tampa Bay Rays vs. New York Yankees                        [Tampa Bay Rays=0.74, New York Yankees=0.26] vol24h=$489,817
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$446,295
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$428,708
-  US announces end of Iranian blockade by October 15, 2026?  [Yes=0.10, No=0.90] vol24h=$427,061
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.84, No=0.16] vol24h=$409,930
-  2026 Balance of Power: R Senate, D House                   [Yes=0.28, No=0.72] vol24h=$402,880
-  Jacksonville State vs. Kennesaw State                      [Jacksonville State=0.59, Kennesaw State=0.41] vol24h=$387,888
+  Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Bu [Mariano Navone=0.42, Pablo Carreno Busta=0.57] vol24h=$1,045,314
+  Will Chris Van Hollen win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$697,825
+  Putin out as President of Russia by December 31, 2026?     [Yes=0.03, No=0.97] vol24h=$667,602
+  Will Donald Trump win the Nobel Peace Prize in 2026?       [Yes=0.01, No=0.99] vol24h=$621,934
+  LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global [Natus Vincere=0.27, JD Gaming=0.73] vol24h=$456,058
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$432,921
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.84, No=0.16] vol24h=$424,660
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,144
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.15, No=0.84] vol24h=$403,180
+  2026 Balance of Power: R Senate, D House                   [Yes=0.28, No=0.72] vol24h=$402,046
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
