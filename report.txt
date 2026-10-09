@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-09 09:26 UTC
+Pattern report @ 2026-10-09 16:27 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.14, No=0.86] vol24h=$2,067,206
-  Will Yulia Navalnaya win the Nobel Peace Prize in 2026?    [Yes=0.00, No=1.00] vol24h=$1,527,920
-  Will Donald Trump win the Nobel Peace Prize in 2026?       [Yes=0.00, No=1.00] vol24h=$1,198,771
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$804,170
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.86, No=0.14] vol24h=$680,082
-  China Open: Qinwen Zheng vs Elina Svitolina                [Qinwen Zheng=1.00, Elina Svitolina=0.00] vol24h=$604,352
-  Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro Leag [1WIN=0.26, Aurora Gaming=0.74] vol24h=$426,697
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$425,319
-  Will there be no change in Fed interest rates after the Oc [Yes=0.84, No=0.15] vol24h=$422,003
-  US announces end of Iranian blockade by October 15, 2026?  [Yes=0.10, No=0.91] vol24h=$396,480
+  Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playo [FURIA=0.00, MOUZ=1.00] vol24h=$2,464,918
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.14, No=0.86] vol24h=$2,091,431
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$940,966
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.87, No=0.13] vol24h=$737,669
+  Dota 2: 1win vs PARIVISION - Game 2 Winner                 [1win=0.08, PARIVISION=0.92] vol24h=$515,989
+  Counter-Strike: FURIA vs MOUZ - Map 2 Winner               [FURIA=0.00, MOUZ=1.00] vol24h=$459,840
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$457,372
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,055
+  Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs     [1win=0.28, PARIVISION=0.71] vol24h=$398,104
+  US x Iran ceasefire continues through October 12?          [Yes=0.91, No=0.09] vol24h=$363,682
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
