@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-09 16:27 UTC
+Pattern report @ 2026-10-09 21:10 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playo [FURIA=0.00, MOUZ=1.00] vol24h=$2,464,918
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.14, No=0.86] vol24h=$2,091,431
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$940,966
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.87, No=0.13] vol24h=$737,669
-  Dota 2: 1win vs PARIVISION - Game 2 Winner                 [1win=0.08, PARIVISION=0.92] vol24h=$515,989
-  Counter-Strike: FURIA vs MOUZ - Map 2 Winner               [FURIA=0.00, MOUZ=1.00] vol24h=$459,840
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$457,372
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,055
-  Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs     [1win=0.28, PARIVISION=0.71] vol24h=$398,104
-  US x Iran ceasefire continues through October 12?          [Yes=0.91, No=0.09] vol24h=$363,682
+  Dota 2: LGD Gaming vs Aurora - Game 2 Winner               [LGD Gaming=0.00, Aurora=1.00] vol24h=$1,392,349
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.10, No=0.90] vol24h=$786,400
+  US x Iran ceasefire continues through October 12?          [Yes=0.94, No=0.06] vol24h=$657,506
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.89, No=0.11] vol24h=$610,552
+  West Indies Tour of India T20s: India vs West Indies       [India=0.00, West Indies=1.00] vol24h=$457,532
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,072
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$357,715
+  LoL: ⁠Movistar KOI Fénix vs TLN Pirates (BO5) - EMEA Maste [⁠Movistar KOI Fénix=1.00, TLN Pirates=0.00] vol24h=$353,390
+  LoL: ⁠Movistar KOI Fénix vs TLN Pirates - Game 2 Winner    [⁠Movistar KOI Fénix=1.00, TLN Pirates=0.00] vol24h=$317,204
+  LoL: ⁠Movistar KOI Fénix vs TLN Pirates - Game 3 Winner    [⁠Movistar KOI Fénix=0.00, TLN Pirates=1.00] vol24h=$312,255
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
