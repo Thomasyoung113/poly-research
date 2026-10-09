@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-08 22:17 UTC
+Pattern report @ 2026-10-09 02:19 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.14, No=0.86] vol24h=$2,220,693
-  Will Donald Trump win the Nobel Peace Prize in 2026?       [Yes=0.00, No=1.00] vol24h=$1,049,300
-  Buccaneers vs. Cowboys                                     [Buccaneers=0.20, Cowboys=0.81] vol24h=$855,003
-  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$796,301
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.86, No=0.14] vol24h=$545,037
-  Will the Fed increase interest rates by 25 bps after the O [Yes=0.15, No=0.84] vol24h=$456,188
-  Will there be no change in Fed interest rates after the Oc [Yes=0.84, No=0.15] vol24h=$451,321
-  US announces end of Iranian blockade by October 15, 2026?  [Yes=0.12, No=0.89] vol24h=$427,251
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$423,683
-  Will the U.S. invade Iran before 2027?                     [Yes=0.15, No=0.84] vol24h=$335,422
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.14, No=0.86] vol24h=$2,053,681
+  Buccaneers vs. Cowboys                                     [Buccaneers=0.77, Cowboys=0.23] vol24h=$2,051,613
+  Will Donald Trump win the Nobel Peace Prize in 2026?       [Yes=0.00, No=1.00] vol24h=$1,164,137
+  Will the Fed decrease interest rates by 50+ bps after the  [Yes=0.00, No=1.00] vol24h=$805,300
+  Will Yulia Navalnaya win the Nobel Peace Prize in 2026?    [Yes=0.18, No=0.81] vol24h=$735,166
+  Cleveland Guardians vs. Chicago White Sox                  [Cleveland Guardians=0.32, Chicago White Sox=0.69] vol24h=$659,087
+  South Alabama vs. Arkansas State                           [South Alabama=0.94, Arkansas State=0.06] vol24h=$627,865
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.86, No=0.14] vol24h=$510,238
+  Will there be no change in Fed interest rates after the Oc [Yes=0.84, No=0.15] vol24h=$453,194
+  Will the Fed increase interest rates by 25 bps after the O [Yes=0.15, No=0.84] vol24h=$448,652
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
