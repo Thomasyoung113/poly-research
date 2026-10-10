@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-10 18:48 UTC
+Pattern report @ 2026-10-10 22:50 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Play [MOUZ=0.73, Spirit=0.27] vol24h=$1,686,217
-  Will FC Barcelona win on 2026-10-10?                       [Yes=1.00, No=0.00] vol24h=$1,212,284
-  Texas A&M vs. Missouri                                     [Texas A&M=0.03, Missouri=0.97] vol24h=$962,214
-  Will Manchester United FC win on 2026-10-10?               [Yes=0.00, No=1.00] vol24h=$844,051
-  Counter-Strike: MOUZ vs Spirit - Map 1 Winner              [MOUZ=1.00, Spirit=0.00] vol24h=$760,699
-  Will Athletic Club win on 2026-10-10?                      [Yes=0.40, No=0.60] vol24h=$692,478
-  Will Getafe CF win on 2026-10-10?                          [Yes=0.00, No=1.00] vol24h=$684,967
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.12, No=0.89] vol24h=$663,288
-  Map Handicap: TS (-1.5) vs MOUZ (+1.5)                     [Spirit=0.00, MOUZ=1.00] vol24h=$651,054
-  Will Brighton & Hove Albion FC win on 2026-10-10?          [Yes=1.00, No=0.00] vol24h=$519,692
+  Texas vs. Oklahoma                                         [Texas=0.58, Oklahoma=0.41] vol24h=$1,045,197
+  UCLA vs. Oregon                                            [UCLA=0.88, Oregon=0.12] vol24h=$759,781
+  Will Athletic Club win on 2026-10-10?                      [Yes=0.39, No=0.61] vol24h=$706,053
+  Spread: Texas (-7.5)                                       [Texas=0.12, Oklahoma=0.89] vol24h=$491,435
+  Duke vs. Georgia Tech                                      [Duke=0.61, Georgia Tech=0.39] vol24h=$474,323
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$423,703
+  Ole Miss vs. Vanderbilt                                    [Ole Miss=1.00, Vanderbilt=0.00] vol24h=$390,209
+  Chicago White Sox vs. Cleveland Guardians                  [Chicago White Sox=0.43, Cleveland Guardians=0.56] vol24h=$365,295
+  Virginia Tech vs. California                               [Virginia Tech=0.45, California=0.56] vol24h=$360,358
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.12, No=0.89] vol24h=$347,918
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
