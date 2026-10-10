@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-09 21:10 UTC
+Pattern report @ 2026-10-10 01:04 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Dota 2: LGD Gaming vs Aurora - Game 2 Winner               [LGD Gaming=0.00, Aurora=1.00] vol24h=$1,392,349
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.10, No=0.90] vol24h=$786,400
-  US x Iran ceasefire continues through October 12?          [Yes=0.94, No=0.06] vol24h=$657,506
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.89, No=0.11] vol24h=$610,552
-  West Indies Tour of India T20s: India vs West Indies       [India=0.00, West Indies=1.00] vol24h=$457,532
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,072
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$357,715
-  LoL: ⁠Movistar KOI Fénix vs TLN Pirates (BO5) - EMEA Maste [⁠Movistar KOI Fénix=1.00, TLN Pirates=0.00] vol24h=$353,390
-  LoL: ⁠Movistar KOI Fénix vs TLN Pirates - Game 2 Winner    [⁠Movistar KOI Fénix=1.00, TLN Pirates=0.00] vol24h=$317,204
-  LoL: ⁠Movistar KOI Fénix vs TLN Pirates - Game 3 Winner    [⁠Movistar KOI Fénix=0.00, TLN Pirates=1.00] vol24h=$312,255
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.12, No=0.89] vol24h=$969,955
+  US x Iran ceasefire continues through October 12?          [Yes=0.94, No=0.06] vol24h=$676,820
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.89, No=0.11] vol24h=$631,238
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,666
+  Florida State vs. Louisville                               [Florida State=0.38, Louisville=0.62] vol24h=$416,714
+  Florida State vs. Louisville: O/U 59.5                     [Over=0.46, Under=0.55] vol24h=$404,120
+  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$352,204
+  Putin out as President of Russia by December 31, 2026?     [Yes=0.03, No=0.97] vol24h=$349,644
+  Ducks vs. Jets                                             [Ducks=0.64, Jets=0.36] vol24h=$309,136
+  Atlanta Dream vs. New York Liberty                         [Atlanta Dream=0.46, New York Liberty=0.55] vol24h=$279,525
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
