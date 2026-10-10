@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-10 07:25 UTC
+Pattern report @ 2026-10-10 13:58 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.12, No=0.89] vol24h=$900,721
-  US x Iran ceasefire continues through October 12?          [Yes=0.96, No=0.04] vol24h=$711,438
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.88, No=0.12] vol24h=$447,619
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$424,526
-  Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auge [Camilo Ugo Carabelli=0.00, Felix Auger-Aliassime=1.00] vol24h=$421,665
-  Will the Fed decrease interest rates by 25 bps after the O [Yes=0.00, No=1.00] vol24h=$354,219
-  Will the Republican Party control the House after the 2026 [Yes=0.10, No=0.91] vol24h=$308,086
-  US x Iran ceasefire continues through October 15?          [Yes=0.92, No=0.09] vol24h=$306,409
-  Will Chelsea FC win on 2026-10-10?                         [Yes=0.55, No=0.46] vol24h=$261,603
-  Will the Republicans win the Texas Senate race in 2026?    [Yes=0.38, No=0.62] vol24h=$231,168
+  Will Arsenal FC win on 2026-10-10?                         [Yes=1.00, No=0.00] vol24h=$1,145,602
+  Will Luiz Inácio Lula da Silva win the 2026 Brazilian pres [Yes=0.12, No=0.89] vol24h=$834,653
+  Valorant: G2 Esports vs Team Vitality (BO3) - VCT Champion [G2 Esports=0.01, Team Vitality=0.98] vol24h=$833,674
+  Spread: FC Bayern München (-2.5)                           [FC Bayern München=0.31, FC Augsburg=0.69] vol24h=$706,014
+  Will Athletic Club win on 2026-10-10?                      [Yes=0.41, No=0.58] vol24h=$667,855
+  US x Iran ceasefire continues through October 12?          [Yes=0.96, No=0.04] vol24h=$633,492
+  Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro  [Aurora Gaming=0.24, Vitality=0.76] vol24h=$619,705
+  Will Leeds United FC win on 2026-10-10?                    [Yes=0.00, No=1.00] vol24h=$427,674
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$425,186
+  Will Chelsea FC win on 2026-10-10?                         [Yes=0.53, No=0.47] vol24h=$385,094
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
