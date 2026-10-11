@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-11 02:09 UTC
+Pattern report @ 2026-10-11 09:12 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Georgia vs. Alabama                                        [Georgia=0.54, Alabama=0.47] vol24h=$1,498,380
-  Will Athletic Club win on 2026-10-10?                      [Yes=0.39, No=0.61] vol24h=$707,271
-  LSU vs. Kentucky                                           [LSU=0.43, Kentucky=0.56] vol24h=$610,938
-  Chicago White Sox vs. Cleveland Guardians                  [Chicago White Sox=0.14, Cleveland Guardians=0.86] vol24h=$544,876
-  USC vs. Penn State                                         [USC=0.56, Penn State=0.43] vol24h=$468,710
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$423,251
-  Minnesota vs. Purdue                                       [Minnesota=0.10, Purdue=0.90] vol24h=$324,912
-  US x Iran ceasefire continues through October 12?          [Yes=0.95, No=0.05] vol24h=$298,142
-  Will Nashville SC win on 2026-10-10?                       [Yes=0.79, No=0.21] vol24h=$264,114
-  US x Iran ceasefire continues through October 31?          [Yes=0.79, No=0.21] vol24h=$262,797
+  Will Athletic Club win on 2026-10-10?                      [Yes=0.39, No=0.61] vol24h=$720,429
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$422,996
+  Will Everton FC win on 2026-10-11?                         [Yes=0.47, No=0.54] vol24h=$326,059
+  US x Iran ceasefire continues through October 12?          [Yes=0.96, No=0.04] vol24h=$324,793
+  Will the Democratic Party control the House after the 2026 [Yes=0.91, No=0.10] vol24h=$317,315
+  US x Iran ceasefire continues through October 31?          [Yes=0.78, No=0.23] vol24h=$287,550
+  Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playo [Team Spirit=0.27, PARIVISION=0.73] vol24h=$239,161
+  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.88, No=0.12] vol24h=$237,238
+  Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensi [Francisco Cerundolo=0.23, Jakub Mensik=0.77] vol24h=$221,274
+  Will JD Vance win the 2028 US Presidential Election?       [Yes=0.18, No=0.82] vol24h=$219,018
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
