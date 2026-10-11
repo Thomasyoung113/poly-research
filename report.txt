@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-11 15:55 UTC
+Pattern report @ 2026-10-11 20:30 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Eagles vs. Jaguars                                         [Eagles=0.47, Jaguars=0.53] vol24h=$2,367,478
-  Will Manchester City FC win on 2026-10-11?                 [Yes=0.43, No=0.56] vol24h=$1,812,971
-  Dota 2: Team Yandex vs Team Spirit - Game 1 Winner         [Team Yandex=0.00, Team Spirit=1.00] vol24h=$1,746,297
-  Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Pl [Vitality=0.78, MOUZ=0.23] vol24h=$1,686,328
-  Spread: Jaguars (-7.5)                                     [Jaguars=0.14, Eagles=0.85] vol24h=$1,610,905
-  Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Play [Team Yandex=0.56, Team Spirit=0.44] vol24h=$1,323,129
-  Will Real Sociedad de Fútbol win on 2026-10-11?            [Yes=0.67, No=0.33] vol24h=$1,076,226
-  Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Fra [Alejandro Davidovich Fokina=1.00, Frances Tiafoe=0.00] vol24h=$915,476
-  Counter-Strike: Vitality vs MOUZ - Map 1 Winner            [Vitality=0.95, MOUZ=0.05] vol24h=$640,043
-  Dota 2: Team Yandex vs Team Spirit - Game 2 Winner         [Team Yandex=0.80, Team Spirit=0.20] vol24h=$600,218
+  Browns vs. Jets                                            [Browns=0.00, Jets=1.00] vol24h=$2,325,993
+  Bears vs. Packers                                          [Bears=0.00, Packers=1.00] vol24h=$1,303,226
+  Bengals vs. Dolphins                                       [Bengals=1.00, Dolphins=0.00] vol24h=$1,137,902
+  Raiders vs. Patriots                                       [Raiders=0.00, Patriots=1.00] vol24h=$1,132,463
+  Cagliari Calcio vs. Juventus FC: O/U 1.5                   [Over=0.51, Under=0.49] vol24h=$812,040
+  Colts vs. Steelers                                         [Colts=0.00, Steelers=1.00] vol24h=$712,248
+  Will Chris Van Hollen win the 2028 Democratic presidential [Yes=0.00, No=1.00] vol24h=$482,878
+  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$422,843
+  49ers vs. Seahawks                                         [49ers=0.41, Seahawks=0.58] vol24h=$415,299
+  Will FC Arouca win on 2026-10-11?                          [Yes=0.69, No=0.32] vol24h=$398,685
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
