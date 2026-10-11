@@ -1,17 +1,17 @@
-Pattern report @ 2026-10-11 09:12 UTC
+Pattern report @ 2026-10-11 15:55 UTC
 ==================================================================
 
 == Top Polymarket markets (24h volume) ==
-  Will Athletic Club win on 2026-10-10?                      [Yes=0.39, No=0.61] vol24h=$720,429
-  Will Shakhtar Donetsk win the 2026-27 UEFA Champions Leagu [Yes=0.00, No=1.00] vol24h=$422,996
-  Will Everton FC win on 2026-10-11?                         [Yes=0.47, No=0.54] vol24h=$326,059
-  US x Iran ceasefire continues through October 12?          [Yes=0.96, No=0.04] vol24h=$324,793
-  Will the Democratic Party control the House after the 2026 [Yes=0.91, No=0.10] vol24h=$317,315
-  US x Iran ceasefire continues through October 31?          [Yes=0.78, No=0.23] vol24h=$287,550
-  Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playo [Team Spirit=0.27, PARIVISION=0.73] vol24h=$239,161
-  Will Flávio Bolsonaro win the 2026 Brazilian presidential  [Yes=0.88, No=0.12] vol24h=$237,238
-  Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensi [Francisco Cerundolo=0.23, Jakub Mensik=0.77] vol24h=$221,274
-  Will JD Vance win the 2028 US Presidential Election?       [Yes=0.18, No=0.82] vol24h=$219,018
+  Eagles vs. Jaguars                                         [Eagles=0.47, Jaguars=0.53] vol24h=$2,367,478
+  Will Manchester City FC win on 2026-10-11?                 [Yes=0.43, No=0.56] vol24h=$1,812,971
+  Dota 2: Team Yandex vs Team Spirit - Game 1 Winner         [Team Yandex=0.00, Team Spirit=1.00] vol24h=$1,746,297
+  Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Pl [Vitality=0.78, MOUZ=0.23] vol24h=$1,686,328
+  Spread: Jaguars (-7.5)                                     [Jaguars=0.14, Eagles=0.85] vol24h=$1,610,905
+  Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Play [Team Yandex=0.56, Team Spirit=0.44] vol24h=$1,323,129
+  Will Real Sociedad de Fútbol win on 2026-10-11?            [Yes=0.67, No=0.33] vol24h=$1,076,226
+  Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Fra [Alejandro Davidovich Fokina=1.00, Frances Tiafoe=0.00] vol24h=$915,476
+  Counter-Strike: Vitality vs MOUZ - Map 1 Winner            [Vitality=0.95, MOUZ=0.05] vol24h=$640,043
+  Dota 2: Team Yandex vs Team Spirit - Game 2 Winner         [Team Yandex=0.80, Team Spirit=0.20] vol24h=$600,218
 
 == Polymarket top-market price vs spot BTC (hourly) ==
 
